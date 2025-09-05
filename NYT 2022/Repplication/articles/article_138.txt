@@ -1,0 +1,82 @@
+Document 138 of 566
+
+What the Uber Hack Revealed: [Op-Ed]: [Op-Ed]
+
+Author: Schneier, Bruce
+
+Publication info: Schneier, Bruce. 
+
+https://www.proquest.com/newspapers/what-uber-hack-revealed-op-ed/docview/2719961763/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=What+the+Uber+Hack+Revealed%3A+%5BOp-Ed%5D&amp;rft.au=Schneier%2C+Bruce&amp;rft.aulast=Schneier&amp;rft.aufirst=Bruce&amp;rft.date=2022-10-02&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.4&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Uber was hacked this month. The company said that the attacker -- a teenager possibly linked to the incident was just arrested in London -- most likely obtained the corporate password of an Uber contractor. Using that person's access, the hacker gained access to some of Uber's internal systems: internal Slack messages, a finance tool for invoices and the dashboard where the company's security researchers report bugs and vulnerabilities. It's a big deal, and an embarrassment to the company.
+Uber has said that it believes that the attacker is affiliated with a hacking group called Lapsus $ , whose members are mostly teenagers and which has recently targeted several technology companies. Uber also said it had not seen any evidence that user data was compromised during the incident. In the lawsuits that will invariably result, we will learn more about what happened.
+But any litigation against the company, whether it be by government agencies like the Federal Trade Commission, or class-action lawsuits by shareholders or perhaps even customers, will focus on the proximate causes of the hack. More fundamental are the underlying causes of security breaches: Current economic and political forces incentivize companies to skimp on security at the expense of both personal and national security. If we are ever to have a hope of doing better, we need to change the market incentives.
+When you're a high-tech start-up company, you are likely to cut corners in a lot of areas. It makes business sense -- your primary focus is to earn customers and grow quickly enough to remain in business when your venture capital funding runs out. Anything that isn't absolutely essential to making the business work is left for later, and that includes security culture and practices. It's a gamble: Spending money on speed and features rather than security is a more likely path to success than being secure yet underfunded, underfeatured, or -- worst of all -- a year later to market.
+Security can be improved later, but only if necessary. If you've survived the start-up world and become a runaway success, you've had to scale to accommodate your customers or users. You've been forced to improve performance and reliability, because your new higher-profile customers demand more. You've had to make your internal systems work for your hundreds and maybe thousands of employees. You're now an established company, and you had better look and act that way.
+But in all of that, you've never had incentive to upgrade your security. The quick-and-dirty systems you built in the beginning still work, and your customers or users don't know what's going on behind the curtain. Your employees are expected not to tell anyone, like chefs being told to stay in the kitchen. And truth be told, it's expensive and time-consuming to rebuild everything from the ground up with security in mind.
+This is something I see again and again in companies, and not only in start-ups. It's even the same thing that the former Twitter security chief Peiter Zatko (better known as Mudge) is accusing that company of doing. Companies large and small skimp on security when the market doesn't reward doing any better. The result is that hackers have an easier time breaking into networks, and once they break in there are few controls that prevent them from accessing everything.
+Some companies do manage to make the change. We saw it with Microsoft, when Bill Gates changed the company's direction in 2002 with a now-famous memo. Google's shift to a more robust security culture happened in 2010, after being hacked by attackers in China.
+The lack of incentives obviously has profound implications for the security of all of our personal data, stored by a seemingly unknowable number of different companies who are all collecting dossiers on our movements and habits. It also has national security implications. We know that countries are stealing as much data as possible for their own purposes. China, in particular, is apparently using its resources collecting data on Americans in general. State-sponsored Chinese hackers are believed to be behind the theft of personal data on U.S. government employees, especially those with security clearances, from the U.S. Office of Personnel Management in 2015. Hackers suspected of working on behalf of the country's civilian spy agency were also apparently behind the theft of data on 500 million guests from the Marriott hotel chain in 2018 and about 80 million former and current patients and employees from the health insurer Anthem in 2015.
+In all of these cases, the victimized organizations could have very likely protected our data better, but the reality is that the market does not reward healthy security. Often customers aren't even able to abandon companies with poor security practices, as many of them build "digital moats" to lock their users in. Customers don't abandon companies with poor security practices. Hits to the stock prices quickly recover. It's a classic market failure of a powerful few taking advantage of the many, and that failure is one that only representation through regulation can fix.
+We need strong regulations that force organizations to maintain good security practices. The focus must be on resilient security for the user data entrusted to the company. Government regulation should not be involved (for example) if Uber loses the source code to its phone apps or its employee Slack channel. Government regulation should be involved if Uber loses data about the rides taken by its 100 million-plus users. (One risk of this data for Uber: It can be used to find one-night stands, for either fun or blackmail opportunities.)
+Worries that any regulation will somehow quell innovation are overblown. Good security isn't incompatible with features, agility or time to market. But even so, a smart internet-security regulatory regime will take a page from successful industry regulations such as banking, and tailor requirements to the size of the organization. Just as a small local bank doesn't have to follow the same level of regulation that a large national bank does, or a jumbo jet has a more extensive preflight checklist than a single-engine two-seater, there's no reason a small start-up with only a few customers has to follow the same rules as a Twitter or an Uber. And as a company becomes larger and more successful, its security requirements should increase because the impact of insecurity increases.
+In 2020, Russian hackers breached the internet infrastructure company SolarWinds. SolarWinds followed the trajectory from start-up to established company. This particular hack was a national security disaster. The hackers were able to use their access to penetrate the computer networks of some 18,000 SolarWinds customers, including U.S. government agencies such as the Homeland Security Department and State Department, government contractors, nuclear research labs, I.T. companies, and nongovernmental agencies around the world. Here again, the market rewarded poor security practices in the name of short-term profits. If the government mandated better ones, things might have turned out differently.
+Last week's Senate Judiciary Committee hearing, "Protecting Americans' Private Information From Hostile Foreign Powers," further highlighted that personal data privacy is now a matter of national security. And while regulation isn't a panacea -- nothing is in the world of security -- it will serve to align corporate incentives with our broader societal goals. It will keep us all safer against both hackers and foreign governments.
+Bruce Schneier is a security technologist and the author of 14 books, including the forthcoming "A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back." He is a fellow at the Belfer Center at the Harvard Kennedy School and at the Berkman Klein Center for Internet and Society at Harvard.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY ERIK ISAKSON/DIGITAL VISION, VIA GETTY IMAGES)
+
+Subject: Government agencies; Personal information; Internet; Regulation; Hackers; National security; Startups; Employees; Incentives; Cybercrime
+
+Business indexing term: Subject: Startups Employees Incentives
+
+Location: China; United States--US
+
+URL: https://www.nytimes.com/2022/09/26/opinion/uber-hack-data.html
+
+Title: What the Uber Hack Revealed:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.4
+
+Publication year: 2022
+
+Publication date: Oct 2, 2022
+
+column: Guest Essay
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2719961763
+
+Document URL: https://www.proquest.com/newspapers/what-uber-hack-revealed/docview/2719961763/se- 2?accountid=14026
+
+Copyright: Copyright New York Times Company Oct 2, 2022
+
+Last updated: 2024-01-05
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

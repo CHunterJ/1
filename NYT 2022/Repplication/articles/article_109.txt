@@ -1,0 +1,81 @@
+Document 109 of 566
+
+Tracking the Coming Economic Storm: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/tracking-coming-economic-storm-op-ed/docview/2722093665/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Tracking+the+Coming+Economic+Storm%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-10-07&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.21&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Meteorologists tell us that global warming has created new problems for forecasters. Not only are hurricanes getting stronger, they're also intensifying more rapidly than they used to, making it difficult to issue early warnings for communities in their path. Notably, officials in Florida's Lee County waited for definitive evidence that they would be hit hard by Hurricane Ian before ordering evacuations -- and by then it was too late for many people.
+Is something similar happening with economic policy? Recently I wrote about the growing buzz from economists and businesspeople to the effect that the Federal Reserve, which has been trying to slow the economy to fight inflation, is braking too hard. Since then the buzz has intensified. And I'm increasingly convinced that, despite a disappointing inflation report and what still looks by some measures like a robust job market, the Fed is getting behind the curve.
+We are, I'd now argue, just starting to see the effects of the interest rate hikes the Fed has been making since early this year. Never mind what inflation and jobs data are saying right now; there's a lot of reduction in inflationary pressures -- and a lot of drag on output and employment -- already in the pipeline. The economy, as some business analysts like to say, may well be "rolling over."
+And the risks a hard-money policy poses to financial stability and the world economy in general are looming larger.
+Part of the problem is that the Fed hasn't done what it's doing now -- drastically tightening money to fight inflation -- for a long time, indeed since the early 1980s. And some analysts, perhaps including people at the Fed, may have forgotten one important lesson from monetary policy in the bad old days. Namely, it takes a significant amount of time before higher interest rates translate into either an economic slowdown or a drop in the inflation rate.
+Consider how Fed policy affects the real economy. One of the main channels is through housing. Higher interest rates lead to reduced demand for houses, which leads to a fall in construction; as incomes earned in housing construction slide, this leads to reduced demand for other goods, and the effects spill over to the economy at large.
+But all of this takes a while. The Fed's rate hikes have indeed led to a sharp fall in applications for building permits. However, construction employment hasn't yet even begun to decline, presumably because many workers are still busy finishing houses started when rates were lower. And the wider economic effects of the coming housing slump are still many months away.
+The other major channel through which the Fed affects the economy is via the value of the dollar. A strong dollar makes U.S. products less competitive on world markets; falling exports and rising imports will eventually be a major economic drag. But it takes time to shift to new suppliers, so this effect won't really happen until next year.
+In short, current inflation and employment are basically telling us about the past; we need to look at other data for a glimpse of the future.
+For example, a new report shows that unfilled job offerings fell sharply in August. Why is this important? Many economists -- especially economists who have been warning about persistent inflation -- argue that the tightness of the labor market is better measured by the ratio of job vacancies to unemployment than by the unemployment rate itself. But this ratio, while still elevated, has already dropped substantially; as Goldman Sachs puts it, almost half of the gap between jobs and workers has been eliminated over the past few months.
+Another new report shows that demand for apartments has stalled, which will eventually translate into a decline in rent growth -- which basically drives official estimates of the cost of shelter, a key component of most measures of underlying inflation.
+Oh, and remember all those supply-chain problems that disrupted the economy and raised inflation some months back? Well, the cost of shipping a container across the Pacific, which was $ 20,586 in September 2021, is now $ 2,265.
+I'd argue that these indicators tell us that the Fed has already done enough to ensure a big decline in inflation -- but also, all too possibly, a recession.
+Am I completely sure about this? No, of course not. But policy always involves a trade-off between risks. And the risk that the Fed is doing too little seems to be rapidly receding, while the risk that it's doing too much is rising.
+And add in the risk of financial crisis. Britain's recent bond-market mess was homegrown, but it may nonetheless be a harbinger of the potential mayhem from rapidly rising interest rates (and the rising dollar, which is causing stress around the world). We don't want to let financial markets dictate the Fed's policy, but that doesn't mean it should ignore financial dangers.
+Again, I can't offer any certainty about what's coming. But we really, really don't want the Fed to do a Lee County, and refuse to act on warnings of an economic storm until all the uncertainty is gone. By then it will be too late to avoid the worst.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY JAVIER ZAYAS, VIA GETTY IMAGES)
+
+Subject: Housing; Federal Reserve monetary policy; Inflation; Interest rates; Unemployment; Economists; Economic conditions; Employment
+
+Business indexing term: Subject: Federal Reserve monetary policy Inflation Interest rates Unemployment Economists Economic conditions Employment
+
+URL: https://www.nytimes.com/2022/10/06/opinion/fed-inflation-interest-rates.html
+
+Title: Tracking the Coming Economic Storm:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.21
+
+Publication year: 2022
+
+Publication date: Oct 7, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspape r
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2722093665
+
+Document URL: https://www.proquest.com/newspapers/tracking-coming-economic-storm/docview/2722093665/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Oct 7, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

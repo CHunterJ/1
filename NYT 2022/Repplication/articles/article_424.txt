@@ -1,0 +1,84 @@
+Document 424 of 566
+
+How Scary Is Apple's Power?: [Op-Ed]: [Op-Ed]
+
+Author: Manjoo, Farhad
+
+Publication info: Manjoo, Farhad. 
+
+https://www.proquest.com/newspapers/how-scary-is-apples-power-op-ed/docview/2645734334/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=How+Scary+Is+Apple%27s+Power%3F%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Manjoo%2C+Farhad&amp;rft.aulast=Manjoo&amp;rft.aufirst=Farhad&amp;rft.date=2022-04-01&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.22&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: How big of a deal is it that a film from Apple, founded as a computer company, just won three Academy Awards, including one for best picture? If you're among those worried about the inescapable economic, political and cultural dominance of that set of nerdy giants we now call Big Tech, how much greater panic should this induce?
+Perhaps none. On its own, the awards-season success of "CODA" -- the feel-good film about a deaf family that Apple purchased for its subscription TV service at last year's Sundance Film Festival -- will be immaterial to the company's very big bottom line. And anyway, Apple is hardly the first corporate interloper to find fortune (or, more often, failure) in showbiz. For decades, auto-parts companies, Canadian liquor magnates and storied American corporations have gone to Hollywood in search of lucrative side hustles and brand-enhancing corporate jewels. Sony, whose Walkman was the iPod of its day, got into the entertainment business way back in 1989; now Sony Pictures' capacious library of films includes a dozen best picture Oscar winners.
+Still, when "CODA" won big on Sunday night, I was struck by a set of complicated insights about this biggest of Big Tech behemoths. And I was again left wondering: As a technological and cultural force, should we be more inclined to celebrate Apple or to fear it?
+Among my epiphanies were the following.
+First: Boy, Apple sure is executing well these days. As recently as the late 2010s, with the Mac line foundering, its cloud services second-rate and each new iPhone hardly better than the last, Apple had seemed to grow a bit lazy, even boring. In the 2020s it's shaken off any such malaise. Over the past year, I have been wowed by a parade of Apple products -- the speed of its new Macs, the cameras and battery life on the latest iPhones, the way new versions of iPadOS and MacOS have become magically interoperable, the way Face ID now works with masks. Nowadays, even Siri is sometimes halfway helpful. The wins for "CODA" and Apple's streaming success fit that larger story: This is a very well-run company making very good products that customers are willing to spend a lot of money for.
+Second: But a film from Apple becoming the first from a streaming service to win the Oscar for best picture was not just a tale of a well-oiled corporate machine. Apple got into the movie business the way a lot of the tech giants do a lot of things nowadays: It spent gobs of money to win a top spot in a market dominated by much smaller companies, and where money wasn't enough, it used its advantages as a tech platform to help it along. We first saw this sort of bigfooting with music. In 2015, in an effort to compete with Spotify and other music streamers, Apple introduced a music service that came installed on the iPhone and handed out free three-month subscriptions to anyone who wanted one. Early mixed reviews for Apple Music didn't matter; because it was baked into the device, Apple's music plan quickly garnered millions of paying users, and today it reportedly has more subscribers than every rival other than Spotify.
+In 2019 it did a similar thing with TV. Apple spent a reported $ 6 billion on content to start Apple TV+, and it gave away a free year of the service with the sale of new Apple devices. Apple TV+'s lineup was full of sleepers -- even "Ted Lasso," its most beloved show, takes some time to warm up to -- but with a built-in audience of every new iPhone, iPad and Mac user, the company could afford to take its time to find its footing before asking people to pay. The success of "CODA" was also a story of Apple's deep pockets: The $ 25 million Apple spent on the film's distribution rights was a Sundance record. According to The Wall Street Journal, a veteran awards consultant estimated that Apple spent more than $ 10 million on the Oscar campaign for "CODA" -- more than the film cost to produce.
+Apple can continue to throw money at its TV service indefinitely; it could easily afford to never make any money from TV+ and simply run the service as a kind of brand-marketing project. The company's revenue was about $ 366 billion in fiscal year 2021. Netflix's revenue last year was just under $ 30 billion -- about 8 percent of Apple's.
+Third: All of this would seem bad -- bad in an antitrust, massive-corporations-gobbling-up-everything sort of way. Netflix and Spotify remain thriving companies, but it just does not seem fair or conducive to competition for Apple to leverage its dominance in one market, smartphones, to get ahead in other markets, like the music and movie businesses. It's especially troublesome when you consider all the onerous rules that Apple imposes on its rivals through its App Store. For instance, it generally takes up to a 30 percent cut of revenue that app makers collect through in-app purchases. Apple's own apps don't have to worry about such concerns.
+But again, there are complications here. For one thing, Apple is not, in traditional terms, anything close to a monopoly in the smartphone business. Although analysts believe it makes the vast bulk of the profits in the smartphone industry, its global market share is on par with many rivals'. In 2020, Epic Games, the maker of "Fortnite," sued Apple to fight the 30 percent commission and other App Store rules. Last year Apple largely won the case. "Given the trial record, the court cannot ultimately conclude that Apple is a monopolist under either federal or state antitrust laws," a federal judge ruled. (Both Apple and Epic are appealing the decision.)
+The other wrinkle is that Apple sometimes uses its market power in ways that are inarguably good for its customers. The most recent example is App Transparency Tracking, a phenomenal privacy feature that Apple added to iPhones and iPads last year. The system cracked down on rampant privacy abuses by the internet advertising industry. Now when you run Facebook, Instagram, Twitter and many other ad-supported iOS apps, Apple requires the apps to get consent from users to collect some of their information for advertising purposes. Surprise: When you force apps to ask users if they want to be tracked, a lot of people decline. Just how many people became apparent in February, when Facebook's parent company, Meta, said the feature would cost the company $ 10 billion in revenue this year.
+I regret to say that after considering the scope of Apple's power, I've arrived at the sort of no-easy-answer muddle that better opinion columnists than me usually try to avoid. But that's just where we are: Apple, with a valuation of about $ 3 trillion and firing on every cylinder, seems unstoppable. On the one hand, its market power is scary, and sometimes its ethical and moral compass leaves a lot to be desired. (See its deference to the Chinese government.)
+On the other hand, it is probably the best-run, most innovative and still most consumer-friendly of the Big Tech baddies. Maybe that's as good as it gets.
+Office Hours With Farhad Manjoo
+Farhad wants to chat with readers on the phone . If you're interested in talking to a New York Times columnist about anything that's on your mind, please fill out this form. Farhad will select a few readers to call.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+Attendees at an Apple software developers' conference in 2019. (PHOTOGRAPH BY JUSTIN SULLIVAN/GETTY IMAGES)
+
+Subject: Antitrust; Smartphones; Streaming media; International business; Big business; Academy awards; Entertainment industry; Power; Market shares; Software industry
+
+Business indexing term: Subject: Antitrust Smartphones International business Entertainment industry Market shares Software industry
+
+Location: United States--US
+
+Company / organization: Name: Apple Inc; NAICS: 334111, 334220, 513210
+
+URL: https://www.nytimes.com/2022/03/31/opinion/apple-coda-oscar.html
+
+Title: How Scary Is Apple's Power?: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.22
+
+Publication year: 2022
+
+Publication date: Apr 1, 2022
+
+column: Farhad Manjoo
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2645734334
+
+Document URL: https://www.proquest.com/newspapers/how-scary-is-apples-power-op-ed/docview/2645734334/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Apr 1, 2022
+
+Last updated: 2022-06-17
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

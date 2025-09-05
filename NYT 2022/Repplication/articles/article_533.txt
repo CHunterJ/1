@@ -1,0 +1,120 @@
+Document 533 of 566
+
+The C.D.C. Is Leaving You on Your Own: [Op-Ed]: [Op-Ed]
+
+Author: Tufekci, Zeynep
+
+Publication info: Tufekci, Zeynep. 
+
+https://www.proquest.com/newspapers/c-d-is-leaving-you-on-your-own-op-ed/docview/2617923920/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+C.D.C.+Is+Leaving+You+on+Your+Own%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Tufekci%2C+Zeynep&amp;rft.aulast=Tufekci&amp;rft.aufirst=Zeynep&amp;rft.date=2022-01-09&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.3&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: I have some good news and some bad news, and they're both the same.
+Seven independent lab studies have found that while Omicron's mutations make it exceptionally good at causing breakthrough cases even in people who have been vaccinated or previously infected, they also render it less able to effectively infect the lower lungs, a step associated with more serious illness. Plus, in country after country where Omicron has spread, epidemiological data shows that vaccines are still helping prevent severe disease or worse.
+Why isn't that unalloyed good news? Because it's just luck that this highly transmissible variant appears to be less dangerous than other variants to those with prior immunity. If it had been more deadly -- as Delta has been -- the U.S. government's haphazard and disorganized response would have put the whole country much more at risk. Even with this more moderate threat, the highest-ranking public health officials are making statements that seem more aimed at covering up or making excuses for ongoing failures, rather than leveling with the public.
+Nowhere are these issues more apparent than on the confusing and zigzag messaging around rapid antigen tests and N95 masks, both of which are important weapons in our arsenal.
+With a barrage of cases threatening vital services, the Centers for Disease Control and Prevention announced on Dec. 29 that people could return to work, masked, five days after they first learned they were infected, arguing that many people are infectious for only a short period. People could return to work even while still sick, as long as their symptoms were abating.
+It's not unreasonable to shorten quarantine for some, especially if they are vaccinated. Other countries have allowed infected people to isolate for a shorter time with the added precaution that they take rapid antigen tests to show they are negative two days in a row.
+Why doesn't the C.D.C. call for that added measure of safety? Its director, Dr. Rochelle Walensky, has explained this by saying, "We know that after five days, people are much less likely to transmit the virus and that masking further reduces that risk."
+"Much less likely" isn't zero, and the likelihood probably varies from person to person. All this means that some would continue to be infectious. So wouldn't it be great if we could tell who was probably still infectious after five days, and took extra precautions, while allowing people who may be clearing the virus even faster than five days to stop isolating earlier?
+Not according to our top officials.
+"We opted not to have the rapid test for isolation because we actually don't know how our rapid tests perform and how well they predict whether you're transmissible during the end of disease," Walensky said on Dec. 29. "The F.D.A. has not authorized them for that use."
+Dr. Anthony Fauci, the president's chief medical adviser, argued the same, also on Dec. 29. Referring to antigen tests, he said, "If it's positive, we don't know what that means for transmissibility" and that these antigen tests aren't as sensitive as P.C.R. tests.
+Might the real reason be that rapid tests are hard to find and expensive here (while they are easily available and relatively cheap in other countries)?
+Is it possible that rapid tests are a good way to see who is infectious and who can return to public life -- and their lack of sensitivity to minute amounts of virus is actually a good thing? Let's ask a brilliant scientist and public health advocate -- Rochelle Walensky, circa 2020.
+Walensky, who was then on the faculty of the Harvard Medical School and chief of the division of infectious diseases at Massachusetts General Hospital, was a co-author of a paper in September 2020 that declared that the "P.C.R.-based nasal swab your caregiver uses in the hospital does a great job determining if you are infected but it does a rotten job of zooming in on whether you are infectious."
+That's right, the key question is who is infectious, who can pass on the virus, not whether someone is still harboring some small amount of virus, or even fragments of it. P.C.R. tests can detect such tiny amounts of the virus that they can "return positives for as many as 6-12 weeks," she pointed out. That's "long after a person has ceased to pose any real risk of transmission to others." P.C.R. tests are a bit like being able to find a thief's fingerprints after he's left the house.
+So what did 2020 Walensky recommend? "The antigen test is ideally suited to yield positive results precisely when the infected individual is maximally infectious," she and her co-author concluded.
+The reason is that antigen tests respond to the viral load in the sample without biologically amplifying the amount and being able to detect even viral fragments, as P.C.R. tests do. So a rapid test turns positive if a sample contains high levels of virus, not nonviable bits or minute amounts -- and it's high viral loads that correlate to higher infectiousness.
+What about the objection that rapid antigen tests don't always detect infections as well as P.C.R. tests can?
+The 2020 Walensky wrote that the F.D.A. shouldn't worry about "false negatives" on rapid tests because "those are true negatives for disease transmission" -- meaning that people are unlikely to spread the virus even if they have a bit of virus lingering. In other words, the fact that rapid tests are less likely to turn positive if the viral load isn't high is a benefit, not a problem.
+Rapid tests do have their own considerations. Since you can become infectious even a day or two after getting a negative result on a rapid test, the Walensky of September 2020 noted that rapid tests are most useful if they are used frequently. A paper she co-wrote in July 2020 found that if a test was used every two days it would allow for safely reopening colleges.
+The brilliant explanations of Walensky in 2020 leave me at a loss to explain why President Biden said on Dec. 22 that "I wish I had thought about ordering half a billion" rapid tests two months ago. Indeed, why didn't officials do so two months ago, or 10 months ago?
+The administration needs to do more to ramp up production of what should be one crucial tool in controlling the spread of the virus and allowing people to return to normal.
+It's hard not to worry that officials may be denigrating rapid tests now for the same reason they denigrated the use of masks early in the pandemic -- we don't have enough of them. Fauci essentially acknowledged this about masks, saying that the public health community had feared that they "were in very short supply" -- a fair concern, but that's not what we were told. I wouldn't be surprised if officials eventually admitted the same about rapid tests.
+We're also hearing the same paternalistic argument about the tests that officials once used to explain why people shouldn't wear masks -- that it would provide them with a false sense of security that would lead them to abandon other necessary precautions.
+What if people stop washing their hands because masks made them feel more confident? Top officials at the World Health Organization asked me that in the spring of 2020. A September 2020 article about rapid tests in Nature noted that people like the virologist Marion Koopmans worried that if these tests became more widely available, people would just use them and say, "It's negative, so I'm clear."
+The threat of a "false sense of security" has been used against everything from seatbelts to teaching young kids how to swim (because that would supposedly encourage parents to stop watching their children in the water!). Research and common sense shows what one would expect: Safety measures make people safer and people who choose to use them are looking to be safer -- if anything, they do more of everything. (Parents should watch their young children in the water, but kids who learn to swim are less likely to drown.)
+That's why it was extra disappointing to hear Walensky argue recently that "if you got a rapid test at five days and it was negative, we weren't convinced that you weren't still transmissible. We didn't want to leave a false sense of security. We still wanted you to wear the mask."
+To start with, what if you were to test positive? People who test negative are less likely to transmit the virus -- so even if Walensky's argument were true and these people would then not be using masks, this would be less of a problem than having an infectious person in public when a rapid test could have kept him or her in isolation.
+Besides, if health officials told people to wear a mask for five more days even after they tested negative on the fifth day, responsible people would likely still do so. Extra information doesn't automatically turn responsible people into irresponsible ones.
+Now, about those masks:
+The C.D.C. still says that some N95s should be reserved for health care workers, even though they provide better protection for the wearer and the public than cloth or surgical masks, and even though there is no longer a shortage of them.
+According to Walensky, N95s "are very hard to breathe in" and "are very hard to tolerate" so she worries that "if we suggest or require that people wear an N95, they won't wear them all the time."
+Yet I've worn N95s many times, and there are many comfortable ones -- some better than cloth masks because the seal is so good that my glasses don't fog up. And if it were a problem, why hasn't the C.D.C. made sure there were more comfortable ones available?
+Dr. Abraar Karan, an infectious disease specialist who's pushed for more protective masks for the public from the beginning, recently pointed out that as far back as 2008, N95s have been approved for public use during a public health emergency. What happened to that now that we have an actual pandemic?
+Even my own doctor complained that he wasn't sure which ones being sold were counterfeit -- baffling that this is still a problem, even two years in.
+Why hasn't the government organized a system to guide people to buy real N95s? Or better yet, how about mailing some to people free? At a minimum, Walensky could tell people that N95s are more protective and let people opt for them if they chose.
+All this has left people with the sense that they are on their own, searching for guidance and getting more confused, and perhaps wondering why the government seems so unprepared for the latest Covid wave.
+So what now?
+Until we have enough tests, we need to triage their use, making them a priority for critical infrastructure like hospitals, emergency services, public transportation and schools.
+We also need to stop asking that people who test positive on an antigen test confirm it with a P.C.R. test, as many workplaces still do.
+Doctors have told me that people who needed test results were flooding emergency rooms, clogging up the operation and perhaps getting infected just as they received a test saying they were negative.
+Students and teachers are returning to classrooms without reliable access to tests. With many districts failing to invest enough in ventilation and HEPA air filtration to lower airborne transmission, there will be outbreaks in schools. We can't just keep telling parents that most children will be fine. And when those rapid tests finally become available, will we have to convince parents that the same tests that were supposedly not useful are suddenly able to detect infectiousness?
+Which brings me to another important question: Why aren't we rushing to do studies to gauge the infectious period for Omicron? Why didn't we start in late November when it became clear it would be causing many breakthroughs and a rapid increase in cases?
+After hearing people around me say they were testing positive on Day 8, 9 and beyond even if they were double- and triple-vaccinated, I did an informal poll on Twitter asking people infected in the Omicron wave when they stopped testing positive.
+More than 2,600 people responded, and a whopping 43 percent said they had tested positive on rapid tests on Day 8 and beyond, while about 30 percent said they were testing negative on Day 5 or even earlier.
+The immunologist Michael Mina, a longtime advocate of rapid tests, thinks people may either be quickly clearing the virus, or the virus may take hold and replicate well for a longer time -- something lab studies suggest is happening, and reflected in my informal poll. So the five-day period can be too long or too short.
+Once I ran the survey on Twitter, I heard from a lot more people, too, with stories of both prolonged positives and quick negatives, but also frustration.
+Why, two years into the pandemic, are any people relying on my survey to try to puzzle through whether they should see a grandparent or an elderly relative or go back to work if they are still testing positive? Why are we still trying to figure this out on our own?
+On Tuesday, the C.D.C. updated its guidance to say that "if an individual has access to a test and wants to test" and is positive after five days, he or she should "continue to isolate until Day 10." So is the C.D.C. now conceding that people who test positive are indeed still infectious? And if they don't have a test, or don't want one, no worries?
+The job these officials have is tough, given both the reckless political opposition even to vaccines and the inevitable criticism even from people who support public health measures. Still, it's so disappointing to enter 2022 with 2020 vibes, scouring for supplies, trying to make sense of official declarations that don't cohere, and wondering what to do.
+The government can help us pull out of this fog, but it should always be based on being honest with the public. We aren't expecting officials to have crystal balls about everything, but we want them to empower and inform us while preparing for eventualities -- good or bad. Two years is too long to still be hoping for luck to get through all this.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Katherine Lam FOR THE NEW YORK TIMES)
+
+Subject: Public health; Antigens; Disease; Health education; Pandemics; Disease transmission; COVID-19
+
+Location: United States--US
+
+People: Walensky, Rochelle
+
+Company / organization: Name: Centers for Disease Control & Prevention--CDC; NAICS: 923120
+
+URL: https://www.nytimes.com/2022/01/05/opinion/omicron-covid-testing-cdc.html
+
+Title: The C.D.C. Is Leaving You on Your Own: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.3
+
+Publication year: 2022
+
+Publication date: Jan 9, 2022
+
+column: Zeynep Tufekci
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2617923920
+
+Document URL: https://www.proquest.com/newspapers/c-d-is-leaving-y ou-on-your-own-op-ed/docview/2617923920/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jan 9, 2022
+
+Last updated: 2022-01-10
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

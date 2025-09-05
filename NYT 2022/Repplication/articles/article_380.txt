@@ -1,0 +1,86 @@
+Document 380 of 566
+
+We May Be Able to Prevent Some Mass Shootings: [Op-Ed]: [Op-Ed]
+
+Author: Manjoo, Farhad
+
+Publication info: Manjoo, Farhad. 
+
+https://www.proquest.com/newspapers/we-may-be-able-prevent-some-mass-shootings-op-ed/docview/2648623197/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=We+May+Be+Able+to+Prevent+Some+Mass+Shootings%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Manjoo%2C+Farhad&amp;rft.aulast=Manjoo&amp;rft.aufirst=Farhad&amp;rft.date=2022-04-10&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.3&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: Sometime over the past decade, America seems to have resigned itself to thinking about mass shootings as if they were a kind of unavoidable natural disaster.
+Like tornadoes or earthquakes, these localized catastrophes seem to come out of nowhere and could happen to any of us. They are quite rare; depending on how one defines a mass shooting, there are a handful to a few hundred in the United States every year. Yet even though they are estimated to be the cause of less than 1 percent of all gun fatalities, mass shootings carry a toll that surpasses their numbers, undermining our collective sense of well-being and public safety. The fear always lurks, the next Big One always just around the corner.
+And just as for natural disasters, the most our country seems to be able to do about mass shootings now is hold drills to prepare for their inevitability. Our discourse over these incidents is trapped in a polarized doom loop. A shooting happens and everyone follows the same script. One side demands better gun laws, the other side offers prayers and cynically blames mental illness. Then we forget about the horror, at least until the next one. It's as though we've come to accept living in that classic Onion headline: "'No Way To Prevent This,' Says Only Nation Where This Regularly Happens."
+But in a fascinating new book, "Trigger Points: Inside the Mission to Stop Mass Shootings in America," the journalist Mark Follman makes the case that despite our intractable political and cultural differences, mass shootings don't have to be inevitable.
+Follman argues that even in the absence of stronger gun regulations, we have been making progress in understanding and perhaps even preventing the most notable forms of mass shootings, rampages in which three or more people are deliberately and seemingly indiscriminately killed, often by a lone attacker.
+Who's "we"? Mental health specialists, academic researchers, state and federal law enforcement officials, and administrators in schools and universities around the country. Follman explores the history and promise of a cross-disciplinary field known as "behavioral threat assessment," a set of ideas to help officials recognize and redirect a potential shooter away from violence. At the core of the model is the notion that mass shootings are not like lightning strikes -- they are not just sudden, unforeseen attacks involving people who "snap." Mass shootings are more like avalanches: They take time to form, they generally follow a predictable pattern, and if you know what to look for, you can sometimes spot them a long way off, and perhaps even prevent them from happening at all.
+"There's a lot we can do to demystify the mass shootings problem, to make sense of what we typically dismiss as 'senseless' or inexplicable tragedies, in order to help prevent them," Follman told me. This work of prevention is not a panacea; the approach is resource-intensive, it's constantly evolving, and its success is difficult to measure -- after all, the fact that an attack doesn't occur doesn't necessarily mean you've prevented one. But Follman says he believes behavioral assessment may have prevented a mass shooting in "dozens of cases across the country." The book makes the first realistic, optimistic case for addressing mass shootings that I've heard in -- well, probably ever.
+Follman is an editor at Mother Jones magazine, where he has been covering mass shootings for the past decade. (Disclosure: In the mid-2000s, he was a colleague of mine at Salon.) In 2012, Follman and two colleagues, Gavin Aronsen and Deanna Pan, created the website's pioneering database of mass shooting events. As part of that work, Follman writes, he noticed a pattern -- that "many of the perpetrators had acted in worrisome or disruptive ways prior to attacking, often for a long time." The realization led him to researchers who have been working to identify pre-attack behaviors since the 1980s.
+The model varies, but behavioral threat assessment generally involves placing teams of trained counselors and administrators in schools, colleges, workplaces and other settings where shootings might occur. To stop a person from killing others, these teams look for patterns of behavior that research has shown people tend to exhibit on their way to mass attack. Among the "warning behaviors" of would-be attackers are acts of aggression and violence, stalking, threatening communications, a fascination with previous shooters and, of course, planning and preparation for an attack. In many cases these signs are glaring -- the potential attacker's friends, family, classmates, teachers and others in the community often can't help noticing that the person is troubled.
+Follman follows one threat team at Salem-Keizer Public Schools, a district in Oregon with about 40,000 students that was among the first of its kind in the country to adopt behavioral threat assessment. One of the team's cases involved a 17-year-old who had come to the attention of the Salem-Keizer threat-response team in 2019, after teachers and students heard him make a number of frightening statements.
+"Don't come to school this Friday," a student heard the boy say. "I'm coming back here with my dad's semiautomatic and shooting up the place." The previous spring, the boy told a teacher that instead of attending an anti-gun-violence rally that students were planning, "Maybe I'll just shoot up the school instead." A science teacher reported the boy asked how to make poison gas. A counselor reported him talking about having "no friends" and feeling humiliated after recently tripping in school; she worried he was at risk for suicide, for aggression or both.
+The threat team -- a group of more than a dozen experts in education, mental health, social services and juvenile justice -- responded with a full-court press. A resource officer visited the boy's home to investigate his access to firearms. The team kept in close contact with his mother, pressing her to secure the gun safe and to discuss safety with parents whose homes the boy visited. They assigned security officials to track his movements around the school.
+But rather than just punish him, administrators and teachers struck up a rapport with him. They called it a "wraparound" strategy: "They would extend to him academic support, counseling, and opportunities for programs both inside and outside the school," Follman writes. By the end of the intervention the boy's demeanor seemed changed. He told administrators he regretted making the frightening comments, and he asked about keeping in touch with the lead psychologist on the risk team.
+There is no way to know for sure whether the Salem-Keizer team's response prevented a shooting or a suicide, or merely helped a troubled kid at risk of falling through the cracks -- though Follman thinks that the team was able to steer him from planning and thinking about violence after taking significant steps. There are continuing studies aimed at answering such questions broadly, but in any given case, determining a definitive counterfactual is impossible.
+But one promise of behavioral threat assessment is that by creating a system to watch for and investigate signs of the worst dangers, it may also address more routine problems in education. Research on schools in Virginia, where districts have been required to establish threat assessment teams since 2013, found that the practice has reduced disciplinary referrals and reports of bullying and aggressive behaviors. In one survey, teachers in schools with threat response systems reported feeling safer.
+The apparent success has led to growing acceptance; threat assessment is now required by law in 18 states. The model has also become popular among companies looking to prevent violence in workplaces, but Follman points to concerns among professionals that people who aren't qualified are moving into the space as it grows. He writes about "'training seminars' run by people who have no operational experience with threat assessment."
+Behavioral threat assessment raises some concerns. One is that the practice may encourage profiling of students and workers. Another is that threat teams may invade people's privacy by, for example, conducting broad surveillance on what people are posting on social media. Follman argues such dragnet measures are impractical. Although many mass shooters fit a profile -- a lot of them are young white men, for instance -- the characteristics are so broad as to be useless for predictive purposes. Combing through all of the posts on Facebook in search of problematic ones would be similarly unhelpful -- you'd turn up way too many to be of use. Threat assessment instead focuses on would-be shooters' behavior -- on what they say and do and how they act around others rather than who they are. Experts might look at an individual's Facebook posts, but usually only if they had other reasons to be concerned about that person's behavior.
+Behavioral threat assessment in no way obviates the need for better gun laws. Just the opposite: Stricter gun rules could aid assessment teams in keeping guns away from people exhibiting dangerous patterns of behavior -- not to mention addressing the tens of thousands of other lives lost to guns every year.
+But behavioral threat assessment does move the discussion about mass shootings beyond the gun debate. It is a pragmatic recognition of the world we live in -- a world in which we're unlikely to get tougher gun laws anytime soon and where even if we did, we'd still have an estimated hundreds of millions of guns floating around. In that world, we need some other way out of this endless parade of mass gun violence. Behavioral assessment may be the best tool we have.
+Office Hours With Farhad Manjoo
+Farhad wants to chat with readers on the phone . If you're interested in talking to a New York Times columnist about anything that's on your mind, please fill out this form. Farhad will select a few readers to call.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+People gathered in Parkland, Fla., in February to remember the victims of the Marjory Stoneman Douglas High School shooting. (PHOTOGRAPH BY MATIAS J. OCNER/MIAMI HERALD, VIA ASSOCIATED PRESS)
+
+Subject: Behavior; Students; Schools; Teams; Mental health care; Social networks; Mental disorders; Violence; Threat assessment; Shootings; Mass murders; Firearm laws & regulations; Firearms; Teachers
+
+Business indexing term: Subject: Social networks
+
+URL: https://www.nytimes.com/2022/04/07/opinion/mass-shooting-prevention.html
+
+Title: We May Be Able to Prevent Some Mass Shootings: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.3
+
+Publication year: 2022
+
+Publication date: Apr 10, 2022
+
+column: Farhad Manjoo
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2648623197
+
+Document URL: https://www.proquest.com/newspapers/we-may-be-able-prevent-some-mass-shootings-op-ed/docview/2648623197/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Apr 10, 2022
+
+Last updated: 2022-07-07
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

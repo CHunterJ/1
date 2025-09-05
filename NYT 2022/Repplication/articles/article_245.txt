@@ -1,0 +1,85 @@
+Document 245 of 566
+
+Out-of-Pocket Costs Put Americans Into Medical Debt: [Op-Ed]: [Op-Ed]
+
+Author: Carroll, Aaron E
+
+Publication info: Carroll, Aaron E. 
+
+https://www.proquest.com/newspapers/out-pocket-costs-put-americans-into-medical-debt/docview/2685874900/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Out-of-Pocket+Costs+Put+Americans+Into+Medical+Debt%3A+%5BOp-Ed%5D&amp;rft.au=Carroll%2C+Aaron+E&amp;rft.aulast=Carroll&amp;rft.aufirst=Aaron&amp;rft.date=2022-07-08&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.21&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: More than 100 million Americans have medical debt, according to a recent Kaiser Health News-NPR investigation. And about a quarter of American adults with this debt owe more than $ 5,000. This isn't because they're uninsured. More often, it's because they're underinsured.
+The Affordable Care Act was supposed to improve access to health insurance, and it did. It reduced the number of Americans who were uninsured through the Medicaid expansion and the creation of the health insurance marketplaces. Unfortunately, it has not done enough to protect people from rising out-of-pocket expenses in the form of deductibles, co-pays and co-insurance.
+Out-of-pocket expenses exist for a reason; people are less likely to spend their own money than an insurance company's money, and these expenses are supposed to make patients stop and think before they get needless care. But this moral-hazard argument assumes that patients are rational consumers, and it assumes that cost-sharing in the form of deductibles and co-pays makes them better shoppers. Research shows this is not the case. Instead, extra costs result in patients not seeking any care, even if they need it.
+Cost-sharing isn't set up in a thoughtful way such that it might steer people away from inefficient care toward efficient care. Deductibles are, frankly, ridiculous. The use of deductibles assumes that all medical spending is the same and that the system should disincentivize all of it, starting over each Jan. 1. There is no valid argument for why that should be. Flu season peaks in the winter. We were in an Omicron surge at the beginning of this year. Making that the time when people are most discouraged from getting care doesn't make sense.
+Co-pays and co-insurance aren't much better. They treat all patients the same, and they assume that all patients should be treated the same way.
+In a National Bureau of Economic Research working paper published last year, researchers looked at how increases in cost-sharing affected how older adults, who are more likely to need care, pay for and use drugs. Remember, people age 65 and older in the United States are insured with what most consider to be rather comprehensive coverage: Medicare. The researchers claimed, however, that a simple $ 10 increase in cost-sharing, which many would consider a small amount of money, led to about a 23 percent decrease in drug consumption. Worse, they said it led to an almost 33 percent increase in monthly mortality. In other words, making seniors pay $ 10 more per prescription led to people dying.
+These seniors weren't taking optional, esoteric, exceptionally expensive medications. This finding was for drugs that treat cholesterol and high blood pressure. In fact, they were considered "high value" drugs because they were proven to save lives. Further, those at higher risk of a heart attack or stroke were more likely to cancel their prescriptions than people at lower risk.
+People are not smart shoppers or rational spenders when it comes to health care. When you make people pay more, they consume less care, even if it's for lifesaving treatment.
+Moreover, a $ 10 increase in drug cost-sharing is small potatoes compared with what most people have to pay out of pocket for care each year. The average deductible on a silver-level plan on the A.C.A. exchanges rose to $ 4,500 in 2021. If people tried to buy plans with a lower premium, at a bronze level, the average deductible rose to more than $ 6,000. Granted, some cost-sharing reductions are available for those who make less than 250 percent of the federal poverty line, but even after accounting for those, the average deductible was more than $ 3,100 for silver plans.
+Those who receive insurance from their employers aren't much better off than those who buy on the A.C.A. marketplaces. The average deductible for insurance offered by large companies in the United States was more than $ 1,200. At small companies, it was more than $ 2,000.
+Those are only the deductibles. After they are paid, people must still cover co-pays and co-insurance until they hit the out-of-pocket maximums. The good news is that the A.C.A. limits these in plans sold in the exchanges. The bad news is that they're astronomical: $ 8,700 for an individual and $ 17,400 for a family.
+A large majority of Americans don't have that kind of money sitting in accounts, certainly not after paying an average of about $ 5,000 in premiums each year for a benchmark individual silver plan. Half of U.S. adults don't have even $ 500 to cover an unexpected bill. Anyone who requires significant health care will be out the entire deductible, meaning thousands of dollars, and if severely ill, is likely to hit the out-of-pocket maximum.
+Of course Americans are in medical debt. The Kaiser Family Foundation estimates the country's collective medical debt is almost $ 200 billion.
+It's worth noting that the cost of health care in the United States is so high that even expensive premiums are not enough to cover the full amount without significant out-of-pocket spending. That doesn't mean no better options exist for cost-sharing. We could treat those with diagnosed chronic diseases differently, as many countries in Europe do. It makes sense to try to disincentivize healthy people from overtreatment, but lots of people, including me, need care that costs money every day. It makes no sense to try to persuade me to rethink that. U.S. leaders could also consider adapting a reference pricing system, where the health system determines what constitutes the lowest-cost, highest-quality care and makes that available without any out-of-pocket spending. Cost-sharing can then be applied to other options that might cost more or have less evidence behind them.
+The purpose of insurance is to protect people from financial ruin if they face unexpected medical expenses. Reducing the amount that they need to pay from six figures to five is necessary, but not sufficient. It's not enough to give people insurance. That insurance must also be comprehensive.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+AARON E. CARROLL, the chief health officer of Indiana University, writes often on health policy
+(PHOTOGRAPH BY Illustration by Sam Whitney/the New York Times; image by Grafissimo via Getty Images FOR THE NEW YORK TIMES)
+
+Subject: Medical debt; Older people; Health care policy; Costs; Uninsured people; Health insurance
+
+Business indexing term: Subject: Medical debt Costs Uninsured people Health insurance
+
+Location: United States--US; New York
+
+Company / organization: Name: New York Times Co; NAICS: 513110, 516110, 516120
+
+URL: https://www.nytimes.com/2022/07/07/opinion/medical-debt-health-care-cost.html
+
+Title: Out-of-Pocket Costs Put Americans Into Medical Debt:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.21
+
+Publication year: 2022
+
+Publication date: Jul 8, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2685874900
+
+Document URL: https://www.proquest.com/newspapers/out-pocket-costs-put-americans-into-medical-debt/docview/2685874900/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jul 8, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

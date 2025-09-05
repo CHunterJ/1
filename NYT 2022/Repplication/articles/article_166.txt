@@ -1,0 +1,85 @@
+Document 166 of 566
+
+Has Bidenomics Been Good for Workers?: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/has-bidenomics-been-good-workers-op-ed/docview/2709828033/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Has+Bidenomics+Been+Good+for+Workers%3F%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-09-06&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.20&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: President Biden has presided over a huge employment boom that, according to Friday's employment report, is still in progress. That's simply a fact, although stating it (like pointing out that we aren't in a recession at the moment) guarantees that I will receive a truckload of hate mail. By Biden's second Labor Day, the U.S. economy had added substantially more jobs on his watch than it did in the Trump administration's first 37 months -- that is, before Covid-19 put the economy into a temporary coma.
+To be fair, many of the job gains under Biden probably reflected a natural recovery from lockdowns, and in general it's easier to add many jobs when you start, as Biden did, from a position of depressed employment. On the other hand, employment has recovered faster than almost anyone expected. In late 2020, professional forecasters expected average unemployment in 2022 to be 5.2 percent; so far, it has averaged only 3.7 percent.
+But while the Biden boom was and is real, has it been good for U.S. workers? Ask many American workers, and they'd probably answer in the negative. After all, hasn't inflation eaten up all their wage gains and then some? (Although their answers might be a bit different now that gas is back under $ 4 a gallon.)
+Well, inflation has definitely been a big problem. And if controlling inflation ends up requiring a long period of high unemployment -- I don't think it will, but I could be wrong -- workers could end up worse off, despite the current employment boom.
+So far, however, Bidenomics has been good for American workers, whether they know it or not.
+There are two big conceptual issues you need to deal with when assessing the impacts of rising employment on American workers.
+First, do we look at the wages of only fully employed workers, or do we consider the gains to Americans who would have been unemployed or working reduced hours but for the Biden boom? Second, how much of the inflation the U.S. economy has suffered since Biden took office do we attribute to the boom, as opposed to things that would have happened whatever his policies had been?
+If we include wage gains due to the rising share of Americans with jobs and the rising number of hours for those employed, the Biden boom has, unambiguously, been good for workers' incomes. Thomas Blanchet, Emmanuel Saez and Gabriel Zucman of the University of California at Berkeley have a new website, Real Time Inequality, that tracks American incomes by source on a monthly basis. They found that overall labor income per working-age adult, adjusted for inflation, rose 3.5 percent from January 2021 to July 2022.
+Furthermore, the biggest gains went to the lowest-paid workers. So the Biden boom didn't just increase overall incomes; it reduced inequality.
+But what about workers who already had jobs when Biden took office? Haven't they seen the purchasing power of their wages fall, thanks to inflation? The answer is yes, but.
+Look at the hourly wages of nonsupervisory workers -- that is, workers who aren't managers. Adjusting for consumer prices, those workers' wages fell about 3 percent from January 2021 to June 2022.
+But that decline was entirely caused by rising prices for food and energy, which have a lot to do with global forces and little, if anything, to do with U.S. policy -- even if right-wing commentators love to point out how cheap gas was during the Trump years. (Oil tends to be cheap when the world economy is flat on its back.) And real wages have stopped declining for the time being; in fact, they rose about half a percentage point in July, largely thanks to falling gas prices, and probably rose again in August.
+If you want to assess the impacts of Bidenomics on wages, you should probably compare wages with prices excluding food and energy. And on that basis, real wages have basically been flat since Biden took office.
+So, yes, the Biden boom has been good for workers. More Americans -- a lot more Americans -- got jobs, and while those who were already employed suffered a decline in real wages, that decline reflected events in global food and energy markets, not U.S. policy.
+Beyond that, a strong labor market seems to have helped reduce inequality. And the Biden boom may also have indirect effects that will raise wages and reduce inequality further in the future. For the sellers' market for labor may have helped revive America's long-moribund labor movement.
+There has definitely been a surge in attempts to organize workplaces, although there haven't yet been enough successes to show up in overall unionization statistics. Still, attitudes have clearly changed, and not just among workers. Gallup recently reported that public approval of unions has reached 71 percent -- its highest level since 1965.
+So it is at least possible that Bidenomics will lead to a revitalization of unions in America. And yes, unions do raise wages, especially the wages of less-skilled workers.
+Again, whatever gains American labor has made will be lost if controlling inflation requires that the economy go through an extended period of high unemployment. But so far, Bidenomics has indeed helped workers.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Maria Contreras Coll for The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Inflation; Energy industry; Inequality; Employment; Wages & salaries
+
+Business indexing term: Subject: Inflation Energy industry Employment Wages & salaries
+
+Location: New York; United States--US
+
+URL: https://www.nytimes.com/2022/09/05/opinion/has-bidenomics-been-good-for-workers.html
+
+Title: Has Bidenomics Been Good for Workers?:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.20
+
+Publication year: 2022
+
+Publication date: Sep 6, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary
+
+ProQuest document ID: 2709828033
+
+Document URL: https://www.proquest .com/newspapers/has-bidenomics-been-good-workers/docview/2709828033/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Sep 6, 2022
+
+Last updated: 2022-09-06
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

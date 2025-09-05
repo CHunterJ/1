@@ -1,0 +1,6 @@
+Name,Age,City,Senior
+3,25,New York,False
+3,30,Los Angeles,False
+3,35,Chicago,True
+3,40,New York,True
+3,28,Chicago,False

@@ -1,0 +1,88 @@
+Document 378 of 566
+
+The Myth of the Great Resignation: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/myth-great-resignation-op-ed/docview/2648623208/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Myth+of+the+Great+Resignation%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-04-10&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.3&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: All of the evidence suggests that right now, it's unusually easy for U.S. workers to find jobs and unusually hard for employers to find workers. The odd thing is that we have a very tight labor market, even though the number of employees is still about a million and a half below prepandemic levels and even further below the prepandemic trend:
+For some time, many people, myself included, have been telling a story about this situation that goes by the name of the Great Resignation. That tale goes like this: The Covid pandemic caused many Americans to reconsider whether they really wanted or needed to keep working. Fear of infection or lack of child care kept some workers home, where they discovered that the financial rewards of their jobs weren't enough to compensate for the costs of commuting and the unpleasantness of their work environment. Older workers, forced into unemployment, decided that they might as well take early retirement. And so on.
+Well, when my information changes, I change my mind -- a line often but dubiously attributed to John Maynard Keynes, but whatever. And the past few months of data have pretty much destroyed the Great Resignation narrative.
+Have large numbers of Americans dropped out of the labor force -- that is, they are neither working nor actively seeking work? To answer this question, you need to look at age-adjusted data; falling labor force participation because a growing number of Americans are over 65 isn't meaningful in this context. So economists often look at the labor force participation of Americans in their prime working years: 25 to 54. And guess what? This participation rate has surged recently. It's still slightly below its level on the eve of the pandemic, but it's back to 2019 levels, which hardly looks like a Great Resignation:
+What about early retirement? If a lot of that was happening, we'd expect to see reduced labor force participation among older workers, 55 to 64. But they've come rapidly back into the labor force:
+A few months ago, it still seemed reasonable to talk about a Great Resignation. At this point, however, there's basically nothing there. It's true that an unusually high number of workers have been quitting their jobs, but they have been leaving for other, presumably better jobs, rather than leaving the work force. As the labor economist Arindrajit Dube says, it's more a Great Reshuffling than a Great Resignation.
+Yet if workers have for the most part come back to the labor force, how do we explain the seeming paradox with which I began this newsletter? How can labor markets be so tight when payroll employment is still well below the prepandemic trend?
+I'm sure that labor economists are scrambling to figure this out properly, but a quick look at the evidence suggests a couple of factors that many people telling the Great Resignation narrative -- again, myself included -- missed.
+First, as the economist Dean Baker has been pointing out, the most commonly cited measures of employment don't count the self-employed, and self-employment is up by a lot, around 600,000 more workers than the average in 2019. Some of this self-employment may be fictitious -- gig workers who are employees in all but name but work for companies that classify them as independent contractors to avoid regulation. But it also does seem as if part of the Great Reshuffling has involved Americans concluding that they could improve their lives by starting their own businesses.
+Second, a point that receives far less attention than it should is the decline of immigration since Donald Trump came to office, which turned into a plunge with the coming of the pandemic:
+Many immigrants are working age and highly motivated; their absence means that we shouldn't have expected employment to maintain its old trend.
+Does the declining plausibility of the Great Resignation narrative have any policy implications?
+Well, I don't like saying this, but it does seem to reinforce the case for higher interest rates. Until recently, it was fairly common for monetary doves to argue that we weren't really at full employment, because there were many potential workers still sitting on the sidelines. That's now a hard case to make; the U.S. economy now looks overheated by just about every measure, which means that it needs to be cooled off a bit.
+The other implication is that if we want to revive U.S. economic vitality, we really should try to re-establish our nation's historic role as a destination for ambitious immigrants. But that's not a policy idea likely to get much traction, given the American right's anti-immigrant hysteria.
+Anyway, you should know that all of those stories about how Americans are no longer willing to work seem to have evaporated. The Great Resignation now looks like a Great Misunderstanding.
+Quick Hits
+Wage inflation may be slowing.
+The great trucking shortage may be ending, too.
+Things are calming down a bit on shipping.
+There's a lot of grain stuck in Ukraine.
+Facing the Music
+[Video: Watch on YouTube.]
+This isn't actually happening.
+A job fair at an office park in Holmdel, N.J. (PHOTOGRAPH BY STEPHEN SPERANZA FOR THE NEW YORK TIMES)
+
+Subject: Resignations; Early retirement; Older workers; Self employment; Labor force; Pandemics; Labor market
+
+Business indexing term: Subject: Resignations Early retirement Older workers Self employment Labor force Labor market
+
+Location: United States--US
+
+URL: https://www.nytimes.com/2022/04/05/opinion/g reat-resignation-employment.html
+
+Title: The Myth of the Great Resignation: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.3
+
+Publication year: 2022
+
+Publication date: Apr 10, 2022
+
+column: Paul Krugman
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2648623208
+
+Document URL: https://www.proquest.com/newspapers/myth-great-resignation-op-ed/docview/2648623208/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Apr 10, 2022
+
+Last updated: 2022-07-07
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

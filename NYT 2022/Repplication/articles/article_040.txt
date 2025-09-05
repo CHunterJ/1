@@ -1,0 +1,86 @@
+Document 40 of 566
+
+Africa Is Waiting for What Big Tech Promised: [Op-Ed]: [Op-Ed]
+
+Author: Ajunwa, I feoma
+
+Publication info: Ajunwa, Ifeoma. 
+
+https://www.proquest.com/newspapers/africa-is-waiting-what-big-tech-promised-op-ed/docview/2745235323/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Africa+Is+Waiting+for+What+Big+Tech+Promised%3A+%5BOp-Ed%5D&amp;rft.au=Ajunwa%2C+Ifeoma&amp;rft.aulast=Ajunwa&amp;rft.aufirst=Ifeoma&amp;rft.date=2022-12-03&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.23&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Jack Dorsey, a billionaire co-founder of Twitter, is a major investor on the African continent. Meta's C.E.O., Mark Zuckerberg, has heavily invested in tech start-ups in Nigeria. Earlier this year, The Economist declared that Africa is the only region in the world "not suffering from a slowdown in venture capital."
+Where are the tangible benefits of this infusion of venture capital for everyday Africans?
+Developing nations in Africa have yet to experience enduring political, economic or social development gains from Silicon Valley's financial speculation. A worry still is that these nations will never see any true benefits from tech investments until tech investors address the lack of the basic infrastructure necessary to support business success.
+The promises of a tech boom seem particularly fantastical given the reality of life in these developing nations. A few months ago, I was sitting in my home office in Lagos, Nigeria, conducting an interview via Zoom when the electricity went out for the second time that day. I would normally turn to the generator, but the generator runs on diesel, and I had not been able to buy any the previous day because of a nationwide shortage. I spent the rest of the evening in darkness. This was not an uncommon occurrence during my time as a U.S. Fulbright scholar there from 2021 to July 2022.
+The news that I had chosen to spend a year as a Fulbright scholar in Nigeria was met with alarm by some. In the average American imagination, the entire African continent remains shrouded in danger and deprivation. For some, the points of reference for Africa are the paternalistic, woebegone portrayals of a war-torn and poverty-stricken region in desperate need of Western resources -- or the more malevolent depictions of a disease-ridden continent. Nigeria, in particular, has been stuck with the label of being host to a sophisticated scam industry, despite research showing that the "Nigerian prince" wire fraud can now come from almost anywhere.
+The new American interest in Africa as a hospitable site for tech business investment is part of a paradigm that I call "technodevelopment" -- the idea that technological development will also drive economic, political and social development. Some see the development of tech industries on the African continent as a step toward building a type of Wakanda, the technologically and economically advanced fictional African nation depicted in Marvel's "Black Panther" and "Wakanda Forever" films.
+However, Silicon Valley's progress in Africa has fallen short. Mr. Dorsey, in a visit to Ethiopia in 2019, declared he would move to Africa for a brief period, but backpedaled on those plans amid the pandemic and attacks by critics that he was overstretching himself, given that he was C.E.O. of both Twitter and Square at the time.
+Meta (then Facebook) attempted to become the face of the internet for developing nations through its Free Basics initiative, which would offer users access to the internet through its mobile phones. Presented as philanthropic, the initiative was roundly criticized as "digital colonialism" because of the way it confined users to content preselected by Facebook. This violated the net neutrality principle -- the idea that internet users should have equal access to all sites -- and generated accusations that Facebook was attempting to manipulate the flow of information. Although the initiative was banned in India in 2016, it has continued to expand to several African countries, with some mobile carriers reportedly charging users. Still, Facebook projected that the initiative would help the platform acquire about 10 million new monthly users in the second half of 2021.
+There is a concern that some African countries are being duped by Silicon Valley players who inject capital into the continent and extract talent and cheap labor, without necessarily bettering those nations.
+To take Nigeria as a case study, there are several challenges to technodevelopment as a driver of economic stability. The first is the lack of basic physical infrastructure. Nigeria is missing a reliable electricity grid to power businesses 24/7, and the country also lacks reliable, low-cost, rapid internet service.
+Recruiting and retaining capable engineers to run a better power grid necessitates concerted efforts to reverse the "brain drain" of engineers from Nigeria to countries in North America and Europe, where they generally find better pay.
+Tech investors and philanthropists like Bill Gates who are truly interested in accelerating the development of African countries could establish fellowships to provide economic security for technically trained workers. In Nigeria, there should also be renewed efforts to decentralize the power grid and allow for more energy to be generated from renewable resources such as solar and wind. Silicon Valley players have the wealth to invest in these grid improvements. This not only would allow their own business interests in Nigeria to thrive but also would leave Nigeria in a better position for its continued development as a nation.
+During the time I was in Nigeria, I had two internet service providers. The first one, which cost about $ 300 to set up, almost never worked. I switched to a more reliable internet provider that cost me about $ 80 to $ 120 (depending on the Naira exchange rate) a month. Consider that the average Nigerian wage is around $ 175 per month.
+The creation of reliable internet service in Nigeria or other developing nations cannot be delegated to corporations with a profit interest. Instead, Silicon Valley corporations could pay into a fund, managed by an intergovernmental organization, that would then work to create the infrastructure needed free or at an affordable cost.
+The Silicon Valley mantra of "move fast and break things" forcefully asserts that technological innovation does not have to play by the rules. It is a rhetoric of regulatory dodge, aimed at excusing tech companies from following laws meant to protect consumers. The export of Silicon Valley disrupter ideas may bode ill for developing nations where the rule of law is not yet strong enough to provide consumer protections.
+Take cryptocurrency. While there have been a few examples of Bitcoin being deployed successfully -- two years ago it helped fund and bring attention to Nigerian youth protests against police brutality -- its introduction to the Nigerian economy carries substantial risks.
+Just look at what has happened in El Salvador, which last year became the first country in the world to make Bitcoin legal tender, a move premised on the belief that it would generate jobs and help provide "financial inclusion to thousands outside the formal economy." El Salvador's presidential administration spent more than $ 100 million buying Bitcoins that are now worth less than $ 50 million. And the compulsory switch to Bitcoin has negatively affected El Salvador's credit rating and damaged its reputation with the International Monetary Fund.
+The dream of technology shepherding worldwide development is a nice one. But the theory of technodevelopment as a driver of economic, political and social stability for developing nations can become reality only if those nations first acquire the infrastructure (physical and legal) needed to sustain such businesses.
+Ifeoma Ajunwa is a law professor at the University of North Carolina School of Law. Her book "The Quantified Worker" is forthcoming.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+Nigeria is missing a dependable electricity grid to power businesses 24 hours a day, seven days a week. It also lacks reliable, low-cost, rapid internet service. (PHOTOGRAPH BY AKINTUNDE AKINLEYE/REUTERS, VIA REDUX IMAGES) This article appeared in print on page A23.
+
+Subject: Social change; Digital currencies; Infrastructure; Electricity; Internet access; Electricity distribution; Internet service providers; Venture capital
+
+Business indexing term: Subject: Digital currencies Infrastructure Venture capital
+
+Location: Africa; Silicon Valley-California; United States--US; Nigeria; El Salvador
+
+URL: https://www.nytimes.com/2022/12/01/opinion/silicon-valley-zuckerberg-dorsey-nigeria-africa.html
+
+Title: Africa Is Waiting for What Big Tech Promised:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.23
+
+Publication year: 2022
+
+Publication date: Dec 3, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2745235323
+
+Document URL: https://www.proquest.com/newspapers/africa-is-waiting-what-big-tech-promised/docview/2745235323/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Dec 3, 2022
+
+Last updated: 2022-12-22
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

@@ -1,0 +1,71 @@
+Document 411 of 566
+
+Covid's Mutating Future: [Op-Ed]: [Op-Ed]
+
+Author: Cobey, Sarah; Bloom, Jesse; Starr, Tyler; Lash, Nathaniel
+
+Publication info: Cobey, Sarah; Bloom, Jesse; Starr, Tyler; Lash, Nathaniel. 
+
+https://www.proquest.com/newspapers/covids-mutating-future-op-ed/docview/2646446933/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Covid%27s+Mutating+Future%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Cobey%2C+Sarah%3B+Bloom%2C+Jesse%3B+Starr%2C+Tyler%3B+Lash%2C+Nathaniel&amp;rft.aulast=Cobey&amp;rft.aufirst=Sarah&amp;rft.date=2022-04-03&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.2&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: As scientists who study how viruses evolve, we are often asked about the future of the coronavirus. Will it go away? Get worse? Fade into the background of our lives? Become seasonal like the flu?
+Here's what we know: The virus's Omicron variant was significantly more infectious and more resistant to vaccines than the original strain that first emerged in Wuhan, China. There's no reason, at least biologically, that the virus won't continue to evolve. The coronavirus variants that have emerged thus far sample only a fraction of the genetic space that is most likely available for evolutionary exploration.
+A virus like SARS-CoV-2 faces one overriding pressure: to become better at spreading. Viruses that cause more infections will be more successful. The virus can do this by becoming more contagious and by skirting the immune system. This coronavirus has undergone several adaptations that make it better at spreading in humans.
+But although many scientists, including us, expected SARS-CoV-2 would be under evolutionary pressure to transmit better, it's been remarkable just how well the virus has responded to that pressure. Recent variants like Omicron and Delta are several times more transmissible than the strain that first spread around the globe in early 2020. That's a huge increase, and makes SARS-CoV-2 more contagious than many other human respiratory viruses. These big jumps in contagiousness have played a major role in driving the pandemic so far.
+How much more transmissible SARS-CoV-2 can become is an open question, but there are limits. Even evolution is constrained: a cheetah can't evolve to be infinitely fast, and SARS-CoV-2 won't become infinitely transmissible.
+Other viruses have reached plateaus in their ability to spread. Some respiratory viruses such as measles are more contagious than today's SARS-CoV-2. Others, such as influenza, are generally not as contagious as SARS-CoV-2. We don't know when this coronavirus will hit its transmissibility plateau, but it will happen eventually.
+Viruses such as this one can also spread better by "escaping" immunity to prior variants. Early in the pandemic, few people had immunity to SARS-CoV-2. But now much of the world has antibodies from vaccination or prior infection. Because these antibodies can block infection, variants with mutations that skirt them have an increasing advantage.
+The importance of immune escape has become apparent with Omicron. Prior variants like Delta were only modestly able to sidestep antibodies, but Omicron has many mutations that reduce the ability of antibodies to recognize it. This, coupled with how contagious Omicron is, has enabled it to cause a huge wave of infections.
+The fact that the virus developed the ability to infect people who had been vaccinated or previously infected shouldn't have been a surprise, but how it happened with Omicron certainly was. Evolution often proceeds stepwise, with new successful variants descended from recent successful ones. That's why six months ago many scientists, including us, thought the next variant would descend from Delta, which was dominant at the time. But evolution defied our expectations, and we got Omicron, which has a huge number of mutations and isn't descended from Delta. It's not known exactly how the virus made the big evolutionary jump that led to Omicron, although many scientists (including us) suspect the variant may have emerged from someone who couldn't fight off the virus well, allowing it time to mutate.
+It's impossible to say whether future variants will have more big Omicron-like jumps or more typical stepwise changes, but we are confident SARS-CoV-2 will continue to evolve to escape immunity.
+While transmissibility of viruses does plateau at a certain point, other human viruses that escape immunity keep doing so. The influenza vaccine has been updated annually for decades to chase viral evolution, and some influenza viruses show no sign of slowing down. Immune escape is an endless evolutionary arms race, because the immune system can always make new antibodies and the virus has a vast set of mutations to explore in response. For instance, Omicron has just a tiny fraction of the many mutations that have been observed in SARS-CoV-2 or related bat viruses, which are in turn just a small fraction of what lab experiments suggest the virus could potentially explore.
+Taking all this together, we expect SARS-CoV-2 will continue to cause new epidemics, but they will increasingly be driven by the ability to skirt the immune system. In this sense, the future may look something like the seasonal flu, where new variants cause waves of cases each year. If this happens, which we expect it will, vaccines may need to be updated regularly similar to the flu vaccines unless we develop broader variant-proof vaccines.
+And of course, how much all this matters for public health depends on how sick the virus makes us. That is the hardest prediction to make, because evolution selects for viruses that spread well, and whether that makes disease severity go up or down is mostly a matter of luck. But we do know that immunity reduces disease severity even when it doesn't fully block infections and spread, and immunity gained from vaccination and prior infections has helped blunt the impact of the Omicron wave in many countries. Updated or improved vaccines and other measures that slow transmission remain our best strategies for handling an uncertain evolutionary future.
+
+Subject: Infections; Influenza; Vaccines; Viruses; Antibodies; Severe acute respiratory syndrome coronavirus 2; Coronaviruses; Mutation; Immune system; Pandemics; COVID-19; Disease transmission
+
+URL: https://www.nytimes.com/2022/04/01/opinion/tk.html
+
+Title: Covid's Mutating Future: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.2
+
+Publication year: 2022
+
+Publication date: Apr 3, 2022
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--Unit ed States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2646446933
+
+Document URL: https://www.proquest.com/newspapers/covids-mutating-future-op-ed/docview/2646446933/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Apr 3, 2022
+
+Last updated: 2022-07-07
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

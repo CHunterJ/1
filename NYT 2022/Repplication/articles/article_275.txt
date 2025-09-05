@@ -1,0 +1,81 @@
+Document 275 of 566
+
+Is a Musket Similar to an AR-15?: [Op-Ed]: [Op-Ed]
+
+Author: Blocher, Joseph; Darrell A.H. Miller
+
+Publication info: Blocher, Joseph; Darrell A.H. Miller. 
+
+https://www.proquest.com/newspapers/is-musket-similar-ar-15-op-ed/docview/2683002298/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Is+a+Musket+Similar+to+an+AR-15%3F%3A+%5BOp-Ed%5D&amp;rft.au=Blocher%2C+Joseph%3BDarrell+A.H.+Miller&amp;rft.aulast=Blocher&amp;rft.aufirst=Joseph&amp;rft.date=2022-07-02&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.22&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Justice Clarence Thomas's majority opinion last Thursday expanding gun rights chisels into constitutional law a questionable and judge-empowering form of historical reasoning intelligible only to a very small number of legal elites. The result will most likely be a Second Amendment jurisprudence increasingly out of step with public opinion, and court decisions ever more inscrutable to the hundreds of millions of people whose lives they affect.
+In its first major Second Amendment decision in more than a decade, the Supreme Court struck down by a vote of 6 to 3 a century-old New York law requiring a person to show "proper cause" before carrying a concealed handgun in public. The ruling effectively negates similar laws in states where nearly a quarter of Americans live, and limits the power of lawmakers to regulate concealed handguns in public places.
+But the larger problem with the decision is the reasoning that underpins it, which will have far-reaching consequences for Second Amendment doctrine. The majority rejected the Second Amendment analysis adopted throughout the federal appellate courts -- which evaluated both history and contemporary evidence -- and instead endorsed a purely historical approach that diminishes if not eliminates the relevance of the real-life costs and benefits of gun regulation.
+From now on, the constitutionality of firearm regulations, like prohibitions on guns on airplanes or in the hands of domestic abusers, will depend solely on whether they are, in some ill-defined sense, "analogous" to a historical regulation, not whether they are effective in preventing serious harms.
+Properly applied, such a test could still leave many modern gun laws in effect, because regulation of deadly weapons is part of America's common law tradition going all the way back to medieval England. Historians have written volumes on the topic, and the Duke Center for Firearms Law, of which we are co-directors, maintains an online repository containing more than 1,600 illustrative regulations.
+But drawing relevant analogies between some of these historical laws and contemporary ones will be perilous work. Is a modern AR-15-style rifle relevantly similar to a colonial musket? In what ways? Is a gun prohibition on the subway or in Times Square relevantly similar to medieval laws prohibiting weapons at fairs and markets? How?
+The answers will certainly depend on the level of generality at which courts conduct the inquiry -- an interpretive choice that often enlarges rather than reduces judicial power. Most of Justice Thomas's opinion is spent dismissing or distinguishing one historical law after another as irrelevant to the constitutionality of modern "proper cause" requirements. By contrast, when she was a judge on the Court of Appeals for the Seventh Circuit, Justice Amy Coney Barrett broadly observed that "founding-era legislatures categorically disarmed groups whom they judged to be a threat to the public safety."
+That principle should presumably uphold laws like those that disarm domestic abusers or that permit the temporary sequestration of guns from people who may harm themselves or others, even though those laws didn't exist in 1791. Whether judges will read the historical record narrowly or broadly is anybody's guess.
+But what is certain is that the fate of gun laws will depend more than ever on the whims of federal judges. The majority in the case last week, New York Rifle & Pistol Association v. Bruen, said that alternative forms of licensing for concealed carry, such as "shall issue" laws that provide more objective criteria for licenses, are still constitutional. (Those laws require the authorities to issue a concealed carry permit to anyone who meets certain mostly objective criteria, as opposed to the New York law, which required permit applicants to show "proper cause.")
+A concurring opinion by Justice Brett Kavanaugh, joined by Chief Justice John Roberts, emphasized that "properly interpreted, the Second Amendment allows a variety of gun regulations," and quoted a previous Supreme Court opinion saying that a host of regulations remain "presumptively lawful," including prohibitions on guns in the hands of felons and in schools and rules against "dangerous and unusual" weapons.
+But even if that is how things turn out, the reputation of the court, whose only power is reason, will almost certainly suffer, because Bruen's new approach utterly fails to provide a transparent way to connect those historical laws to circumstances today. Whether a regulation survives this historical test will depend almost entirely on whether an individual judge thinks a regulation written to deal with a modern problem "looks like" a historical one. It is an "I know it when I see it" approach to historical analogy.
+It does not have to be this way, and in most areas of constitutional law, it isn't. Typically, courts apply some kind of scrutiny to examine whether limits on the constitutionally protected activity advance a legitimate government interest -- like the prevention of gun violence -- without unnecessarily burdening the protected right. Until last Thursday, the Second Amendment operated this way as well.
+Now, the Second Amendment -- far from being a "second-class right," as many gun rights supporters complain -- appears to enjoy more insulation from modern regulatory demands than almost any other constitutional provision.
+Indeed, the court's own application of its historical test threatens to create a one-way ratchet in favor of ever more expansive gun rights. For example, modern guns are vastly more powerful than colonial-era muskets, yet Justice Thomas indicated that these contemporary weapons presumptively fall within a category of constitutionally protected "arms." At the same time, present-day regulations responding to the increased danger posed by modern firearms could fall because they aren't "analogous" enough to historical regulations.
+Hours after the justices announced their decision in Bruen, the Senate approved the Bipartisan Safer Communities Act, the first federal gun legislation passed in roughly 30 years. Under Bruen's purely historical test, whether the act actually makes communities safer seems constitutionally irrelevant. The new law was the product of a difficult but transparent debate about how best to achieve public safety while respecting constitutional rights. It is precisely this kind of open and accessible conversation about guns that the court should strive to enable, instead of the opaque and judge-empowering one it has decided to impose.
+Joseph Blocher and Darrell A.H. Miller are professors at Duke Law School, co-directors of the Duke Center for Firearms Law and authors of "The Positive Second Amendment: Rights, Regulation, and the Future of Heller." They filed an amicus brief in Bruen in favor of neither side; it made the case for the test used by the federal appellate courts but rejected by the Supreme Court.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPHS BY MIKROMAN6 AND ULTRAONES, VIA GETTY IMAGES��)
+
+Subject: Bipartisan Safer Communities Act 2022-US
+
+Location: United States--US; New York
+
+URL: https://www.nytimes.com/2022/07/01/opinion/guns-supreme-court.html
+
+Title: Is a Musket Similar to an AR-15?:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.22
+
+Publication year: 2022
+
+Publication date: Jul 2, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--Unit ed States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary
+
+ProQuest document ID: 2683002298
+
+Document URL: https://www.proquest.com/newspapers/is-musket-similar-ar-15/docview/2683002298/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jul 2, 2022
+
+Last updated: 2022-07-08
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

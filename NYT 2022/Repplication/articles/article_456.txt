@@ -1,0 +1,79 @@
+Document 456 of 566
+
+Our Covid Future Is Uncertain, but There Are Signs to Look Out For: [Op-Ed]: [Op-Ed]
+
+Author: Shaman, Jeffrey
+
+Publication info: Shaman, Jeffrey. 
+
+https://www.proquest.com/newspapers/our-covid-future-is-uncertain-there-are-signs/docview/2635739457/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Our+Covid+Future+Is+Uncertain%2C+but+There+Are+Signs+to+Look+Out+For%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Shaman%2C+Jeffrey&amp;rft.aulast=Shaman&amp;rft.aufirst=Jeffrey&amp;rft.date=2022-03-05&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.20&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: Omicron cases, hospitalizations and deaths have been substantially declining across the United States for more than a month. In response, governors and mayors are rolling back restrictions like mask mandates and vaccine passports. Many wonder whether this period of low cases and decreasing demands on hospitals is a turning point in the pandemic or is simply a lull before a new variant causes another dangerous surge.
+Even before Omicron swept across the world, scientists and public health officials pondered how Covid-19 would continue to affect society once the pandemic phase was behind us. It is the trillion-dollar question: Will outbreaks occur several times a year, once a year or every few years? And how much sickness and disease will those outbreaks produce?
+Epidemiologists refer to the persistence of a pathogen in a community or population as endemicity. How endemicity manifests varies from pathogen to pathogen. In the United States, some respiratory viruses, such as influenza and respiratory syncytial virus, also known as R.S.V., are much more abundant during winter. These viruses regularly exact a toll on society in lost work, strained health care systems and deaths. An estimated 12,000 to 52,000 people die of the flu each year in the United States.
+Yet not all respiratory viruses follow this pattern; some, such as rhinovirus, circulate year-round at lower levels and with less disruption to human health. Others, such as parainfluenza, may produce outbreaks more erratically or during other seasons.
+So what will the pattern look like for SARS-CoV-2, the virus that causes Covid-19, once it becomes endemic? And how much disruption will it cause? The short answer is: We don't know yet. The endemic pattern of any disease is more easily understood retrospectively, and the coronavirus has been with us for only about two years. However, there are signs and factors that we can all watch for, which provide indications of how Covid-19 will affect our lives in the seasons and years to come. Those signs are worth discussing and bookmarking in our brains as we move toward a more normal, functioning society.
+An optimistic scenario is for SARS-CoV-2 to settle into a less disruptive flulike pattern, producing wintertime outbreaks with hospitalization and mortality rates lower than we saw in 2020 and 2021. A more pessimistic scenario is for the virus to continue to generate variants that evade immunity and are capable of infecting large numbers of the population.
+While it is difficult to know how endemic coronavirus will manifest, there are two important characteristics worth monitoring in the coming months and years: the frequency and severity of outbreaks. These two factors will delineate the disruption caused by the coronavirus going forward.
+The future frequency of coronavirus outbreaks is strongly linked to population immunity and how the virus changes. A population's resistance to circulating variants depends on people's history of infection, vaccination and boosting. Variants with only minor differences from a vaccine formulation or an older variant may not produce much disease. However, a variant with substantive changes -- such as Omicron -- may infect many people by evading immunity. This winter, many people who had good protection against Delta, the variant that Omicron displaced, were still susceptible to infection and disease from Omicron.
+A big unknown is whether SARS-CoV-2 can continue to produce variants that skirt around the immune system like Delta and Omicron. If the virus has this capacity, outbreaks could occur several times a year, much like during 2021. This endemic pattern might hold for a few more years or indefinitely. On the other hand, if the capacity to produce highly immune evasive variants is tapped out, future versions of the virus might be less aggressive and produce fewer outbreaks, perhaps once a year during winter, much like the flu.
+The severity of outbreaks will depend on a number of factors, including the intrinsic capacity of new variants to make people sick. To date, not all SARS-CoV-2 variants have produced identical levels of disease. Omicron, for instance, has typically produced milder illness.
+A popular narrative is that the virus will become progressively milder over time and that perhaps Omicron is the first evidence of this progression. Unfortunately, this is most likely wishful thinking. Though Omicron has been milder, the next impactful variant could easily be more deadly, as Delta was.
+While the virus is not driven toward becoming milder, other factors, like protection from prior infections, vaccinations, boosting and drugs, should help reduce disease severity, hospitalization rates, time spent in the hospital and the risk of death from Covid. For instance, mRNA vaccination has already reduced the likelihood of hospitalization and death to roughly one-tenth of that for the unvaccinated. It is important that vaccine effectiveness continues to be monitored and that vaccine formulations are updated as needed so that any loss of protection can be countered through boosting.
+Given all this uncertainty, we should not become complacent. The coronavirus is wily and much more transmissible than influenza. We need to keep a watchful eye even though we now appear to be entering a lull in activity, because it is uncertain how long any lull will last. We shouldn't assume Covid will ultimately become a mild flulike nuisance. Instead, stay prepared: Get vaccinated and boosted, listen to public health advisories, keep some at-home Covid tests on hand and use them if you're exposed or feeling sick and mask up when needed. And keep an eye on the frequency and severity of future outbreaks.
+Jeffrey Shaman (@ShamanJeffrey) is an infectious disease modeler and epidemiologist in the department of environmental health sciences at the Mailman School of Public Health at Columbia. His team built one of the first Covid-19 models.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Janik Söllner FOR THE NEW YORK TIMES)
+
+Subject: Influenza; Public health; Population; COVID-19 vaccines; Pathogens; Viruses; Severe acute respiratory syndrome coronavirus 2; Coronaviruses; Pandemics; Masks; Hospitalization
+
+Location: United States--US
+
+URL: https://www.nytimes.com/2022/03/04/opinion/endemic-covid-future.html
+
+Title: Our Covid Future Is Uncertain, but There Are Signs to Look Out For: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.20
+
+Publication year: 2022
+
+Publication date: Mar 5, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2635739457
+
+Document URL: https://www.proquest.com/newspapers/our-covid-future-is-uncertain-there-are-signs/docview/2635739457/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Mar 5, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

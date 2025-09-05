@@ -1,0 +1,82 @@
+Document 537 of 566
+
+Omicron Cases Are Likely to Peak in the U.S. in January: [Op-Ed]: [Op-Ed]
+
+Author: Shaman, Jeffrey
+
+Publication info: Shaman, Jeffrey. 
+
+https://www.proquest.com/newspapers/omicron-cases-are-likely-peak-u-s-january-op-ed/docview/2617644183/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Omicron+Cases+Are+Likely+to+Peak+in+the+U.S.+in+January%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Shaman%2C+Jeffrey&amp;rft.aulast=Shaman&amp;rft.aufirst=Jeffrey&amp;rft.date=2022-01-08&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.20&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: The Omicron variant is spreading widely and infecting large numbers of people, including the vaccinated and those previously infected with the virus. While spikes in cases have been the norm for the past two years, there are clear indications this wave will differ substantially from previous ones.
+The record number of cases in the United States and globally is largely because Omicron is more contagious than other variants and has a greater ability to evade immunity to infection. At the same time, early evidence indicates that it's less common for people infected with Omicron to experience severe disease and end up in the hospital. This has important implications when estimating just how disruptive Omicron will be in terms of deaths, hospitalizations and work and school interruptions.
+To assess the future burden of a variant like Omicron, epidemiologists like myself often turn to mathematical modeling and projection. The idea is to use a computer-based representation of how the virus spreads to simulate potential future outcomes.
+It is important for modelers to explore the unknowns around Covid. For instance, evidence indicates that Omicron is more transmissible than the Delta variant, but by how much? By incorporating uncertainties into our models, we don't merely project a single outcome. Instead, we create a distribution of outcomes, much like the cone of uncertainty used for a hurricane landfall forecast.
+Projecting the Covid-19 burden is also more difficult now because of the December holidays. Reporting of cases is often delayed during the two weeks beginning shortly before Christmas until shortly after New Year's Day. As a consequence, reported case numbers can give the misleading short-term appearance of steep case increases, or even declines.
+All these issues create uncertainty and limit how far we can reliably project the burden of Omicron. My inclination is that four to six weeks is as far as modelers should routinely project.
+So what does my team see for January 2022?
+Our models project that the United States is likely to document more Covid-19 cases in January than in any previous month of the pandemic, but a smaller fraction of those cases will require hospitalization. Whether hospitals experience more or less strain than they did in January 2021 will depend on case numbers and how severe they are. For example, if twice as many people become infected but these people are half as likely to be hospitalized, the demand for hospital beds would be the same. This calculus also applies to estimated deaths from the virus, as well as expected disruptions to the work force.
+Our projections depict a rapid surge of cases nationally that peaks at record high numbers during the first one to three weeks of January. Just how many? Our middle-of-the-cone projection produces five million cases during the worst week but ranges from three million to more than eight million cases. And the estimates vary by location. New York City is projected to peak during the first week of January; other locations peak later.
+As we move deeper into January, it will be important to monitor whether the steep rise of Omicron cases is followed by a rapid decline, as has been seen in South Africa. This would make the Omicron wave intense but short-lived. However, a rapid decline is not guaranteed. South Africa has a younger population compared to the United States, and younger people are more likely to have mild, undetected infections. South Africa is also in summer, which is less favorable for virus transmission.
+Other countries like Britain, which has demographics more similar to the United States and is also in winter, will be critical to watch. If Britain also experiences a rapid case decline, that may bode well for the United States.
+The implications for hospitalizations and deaths here from the Omicron wave are even less certain. While Omicron is causing record numbers of infections, the hope is that vaccinations, booster shots and prior infections by other variants will still protect most people from the worst effects of the virus. Early evidence supports this conclusion. However, Omicron may still greatly affect our daily lives in other ways: If teachers test positive and schools move to remote instruction; if flights, subways and buses are disrupted because of a lack of workers, or if elective surgeries are postponed because of staffing shortages.
+What will happen beyond January? We don't yet know the ultimate fate of SARS-CoV-2 and all its variants. The future burden of Covid depends in large part on whether highly transmissible variants able to evade pre-existing immunity, such as Omicron, continue to emerge.
+If new variants arise roughly twice per year, for example, then we should expect multiple outbreaks each year, even in the summer. If such variants emerge less frequently, then outbreaks might occur annually or even less frequently. The severity of these outbreaks will depend on the characteristics of those new variants and whether prior infections, vaccination and new drugs can keep people at a lower risk of severe disease.
+The long-term implications of Omicron remain unknown, but in the near term, everyone should expect an intense month of disruption. Still, the familiar advice remains the best: get vaccinated, get booster shots and prepare for a bumpy January.
+Graphics by Gus Wezerek and Sara Chodosh.
+Jeffrey Shaman (@ShamanJeffrey) is an infectious disease modeler and epidemiologist in the department of environmental health sciences at the Mailman School of Public Health at Columbia. His team built one of the first Covid-19 models. He is also director of the Climate and Health Program, a senior associate dean in the Columbia Climate School and faculty chair of the Earth Institute at Columbia University.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY FOR THE NEW YORK TIMES)
+
+Subject: Infections; COVID-19 vaccines; Severe acute respiratory syndrome coronavirus 2; Coronaviruses; Disease transmission; Epidemiology; Pandemics; Disease control
+
+Location: United States--US
+
+URL: https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html
+
+Title: Omicron Cases Are Likely to Peak in the U.S. in January: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.20
+
+Publication year: 2022
+
+Publication date: Jan 8, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2617644183
+
+Document URL: https://www.proquest.com/newspapers/omicron-cases-are-likely-peak-u-s-january-op-ed/docview/2617644183/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jan 8, 2022
+
+Last updated: 2022-01-10
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

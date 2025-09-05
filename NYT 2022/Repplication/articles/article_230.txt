@@ -1,0 +1,85 @@
+Document 230 of 566
+
+Monkeypox Could Be Our Next Public Health Failure: [Op-Ed]: [Op-Ed]
+
+Author: Gottlieb, Scott
+
+Publication info: Gottlieb, Scott. 
+
+https://www.proquest.com/newspapers/monkeypox-could-be-our-next-public-health-failure/docview/2696779689/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Monkeypox+Could+Be+Our+Next+Public+Health+Failure%3A+%5BOp-Ed%5D&amp;rft.au=Gottlieb%2C+Scott&amp;rft.aulast=Gottlieb&amp;rft.aufirst=Scott&amp;rft.date=2022-08-01&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.18&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: When about 100 cases of ‌‌monkeypox had been confirmed or suspected in Europe‌ in May, it was clear the virus was spreading outside the areas where it was previously seen‌‌. Some on social media ‌‌suggested it might already be ‌spreading rapidly in communities in Europe and the ‌United States. These reports should have been a code red for federal infectious disease response.
+But it wasn't until late June that the C‌enters for Disease Control and Prevention expanded testing for monkeypox to large commercial labs like Quest Diagnostics and Labcorp for more capacity and access. The C.D.C. had gone through its standard playbook, ticking through its protracted checklist.
+Compared with the agency's botched rollout of a test for the coronavirus, the monkeypox test came at warp speed. But the virus spread even faster. If ‌American leaders wanted to quash the outbreak, ‌‌the United States should have been testing all people who presented with what was presumed to be atypical cases of diseases like genital herpes and zoster infection; both can cause rashes that sometimes resemble monkeypox. That might have required 15,000 tests a week, by my rough estimate. From mid-May to the end of June, the U‌‌nited States tested only about 2,000 samples.
+Our country's response to monkeypox ‌‌has been plagued by the same shortcomings we had with Covid-19. Now if monkeypox ‌gains a permanent foothold in the U‌nited States and becomes an endemic virus that joins our circulating repertoire of pathogens, it will be one of the worst public health failures in modern times not only because of the pain and peril of the disease but also because it was so avoidable. Our lapses extend beyond political decision making to the agencies tasked with protecting us from these threats. We don't have a federal infrastructure capable of dealing with these emergencies.
+The failures that got us here fit a now familiar pattern.
+Early on, similar to the early days of Covid, testing access for monkeypox was limited, despite ample evidence that monkeypox was spreading in the United States. The Strategic National Stockpile was meant as a hedge against viral contingencies, but when the coronavirus struck, it lacked adequate supplies of testing equipment, ventilators and masks. With monkeypox, the government hadn't stockpiled enough of the only vaccine, Jynneos, that was indicated for prevention of the disease and considered safe for use. The United States had on hand fewer than 2,400 doses in mid-May, mostly as a hedge against the risk of smallpox, which was the vaccine's other indication.
+There are more parallels between our failings ‌‌to combat Covid and monkeypox. Each time, the reflex has been to blame political leadership for poor planning, lack of urgency‌‌ and clumsy execution. It's true that ‌‌both responses have been plagued by an absence of coordination among federal agencies like the Food and Drug Administration, which I led under the first two years of the Trump administration; the C.D.C.; and the components of the Health and Human Services Department that are responsible for different aspects of response. But systemic failings also rest with the bureaucracy charged with countering these threats.
+The C.D.C. should lead America's response to viral exigencies. But the agency isn't a crisis organization. It lacks the infrastructure to mobilize a rapid response and is too hidebound and process driven to move quickly. Its cultural instinct is to take a deliberative approach, debating each decision. With Covid, the virus ‌‌gained ground quickly. With ‌‌monkeypox, which spreads more slowly, typically through very close contact, the shortcomings of C.D.C.'s cultural approach haven't been as acute yet. But the shortfalls are the same.
+Take the scant information available about the domestic outbreak and how it has spread. The C.D.C. has publicly complained that it can't compel sufficient reporting from states and that it lacks insight into the scope and nature of reported monkeypox cases. That's true. But the C.D.C. still possesses information from states that do share case reports, which the agency could have used to provide a better clinical mosaic on how the virus was spreading and presenting to physicians.
+It's very hard for the agency to self-organize around a new mission in the setting of a crisis or lead an internal effort to reform long‌standing processes. ‌But it has proved equally hard for Congress to take meaningful action to reorganize the agency to make it more robust and quicker to respond. Proper reform would require empowering public health agencies with new tools, funding and authority, but from my conversations with congressional members and their staffs, I believe there's scant appetite for such a move not just on the political right but on the left as well. After Covid, there's a view among some that public health agencies used flawed analysis and miscalculated their advice. Securing a political consensus that the C.D.C. needs to be further empowered to complete its mission ‌‌ -- for example, invested with the authority to compel reporting from states ‌‌ -- is politically unobtainable.
+That leaves it up to the Biden administration. But its late stab at reform also falls short. It has effectively created an agency out of an office inside ‌the Department of Health and Human Services that is charged with coordinating the federal response to bioterrorism, among other things. The reordering puts the new Administration for Strategic Preparedness and Response on equal footing with the C.D.C. It's a classic Washington response to a problem: create an agency around it. The move will only add to the muddle.
+The pandemic mission must remain with the C.D.C., which has the requisite tools and expertise to respond to these crises. I know from my time at the F.D.A. that it's the agencies that have the operational know-how and capabilities. The C.D.C. has the boots on the ground that provide the frontline needs for attacking these kinds of outbreaks, with its sophisticated tools for detection and surveillance. What it lacks is the authority‌ and a national security mind-set.
+The Biden administration needs to get the C.D.C. back to its disease control roots, by transferring some of its disease prevention work to other agencies. The F.D.A. can handle smoking cessation, leveraging its regulatory toolbox. The National Institutes of Health can tackle cancer and heart disease. Focus the C.D.C. more on its core mission of outbreak response. And imbue the agency with the national security mind-set that it had at its origins. If the C.D.C.'s mission were more tightly focused on the elements required for handling contagion, Congress might be more willing to invest it with the robust authority to do that targeted mission well. Congress would need to reprogram budget lines to get it done, but someone needs to start that conversation.
+Time is running out. Diseases like Zika, Covid‌ and ‌‌monkeypox are a dire warning that dangerous pathogens are on the march. The next one could be worse -- a deadly strain of flu or something more sinister like Marburg virus. We've now had ample notice that the nation continues to be unprepared and that our vulnerabilities are enormous.
+Dr. Scott Gottlieb was a commissioner of the Food and Drug Administration from May 2017 to April 2019. He is a senior fellow at the American Enterprise Institute and serves on the board of Pfizer and Illumina. He's also the author of "Uncontrolled Spread: Why Covid-19 Crushed Us and How We Can Defeat the Next Pandemic."
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+A former commissioner of the Food and Drug Administration. Dr. Gottlieb is a senior fellow at the American Enterprise Institute and serves on the board of Pfizer and Illumina.
+(PHOTOGRAPH BY CAITLIN OCHS FOR THE NEW YORK TIMES)
+
+Subject: COVID-19 vaccines; Pathogens; National security; Politics; Pandemics; Social networks; Epidemics; Public health; Disease prevention; Medical supplies; Coronaviruses; Disease control; Disease transmission; Health care policy; Mpox
+
+Business indexing term: Subject: Social networks
+
+Location: United States--US
+
+Company / organization: Name: Food & Drug Administration--FDA; NAICS: 926150
+
+URL: https://www.nytimes.com/2022/07/30/opinion/monkeypox-public-health-failure.html
+
+Title: Monkeypox Could Be Our Next Public Health Failure:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.18
+
+Publication year: 2022
+
+Publication date: Aug 1, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2696779689
+
+Document URL: https://www.proquest.com/newspapers/monkeypox-could-be-our-next-public-health-failure/docview/2696779689/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Aug 1, 2022
+
+Last updated: 2024-12-16
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

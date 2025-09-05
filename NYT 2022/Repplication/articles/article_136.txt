@@ -1,0 +1,91 @@
+Document 136 of 566
+
+One of the Hottest Trends in the World of Investing Is a Sham: [Op-Ed]: [Op-Ed]
+
+Author: Taparia, Hans
+
+Publication info: Taparia, Hans. 
+
+https://www.proquest.com/newspapers/one-hottest-trends-world-investing-is-sham-op-ed/docview/2719961776/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=One+of+the+Hottest+Trends+in+the+World+of+Investing+Is+a+Sham%3A+%5BOp-Ed%5D&amp;rft.au=Taparia%2C+Hans&amp;rft.aulast=Taparia&amp;rft.aufirst=Hans&amp;rft.date=2022-10-02&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.4&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Wall Street has been hard at work on a rebrand. Gone is the "Greed is good" swagger that embodied its culture in the 1980s. "Greed and good" may best summarize its messaging today as it seeks to combine high profits with lofty intentions.
+"To prosper over time," Laurence D. Fink, the founder and chief executive of the investment giant BlackRock, wrote in a remarkable public letter in 2018, "every company must not only deliver financial performance, but also show how it makes a positive contribution to society."
+At the heart of this rebranding is a new industry of funds, created by BlackRock and peers such as Vanguard and Fidelity, that purport to invest in companies that are good corporate citizens -- that is, companies that meet certain environmental, social and governance criteria. These E.S.G. criteria are wide ranging, pertaining to issues such as carbon emissions, pollution, data security, employment practices and the diversity of corporate board members.
+On the face of it, E.S.G. investing could be transformative, which is why it's one of the hottest trends in the world of investing. After all, allocating more capital to companies that do good helps them grow faster and lower their cost of capital, creating an incentive for all companies to be more socially and environmentally conscious.
+But the reality is less inspiring. Wall Street's current system for E.S.G. investing is designed almost entirely to maximize shareholder returns, falsely leading many investors to believe their portfolios are doing good for the world.
+For E.S.G. investing to achieve its potential, Wall Street players will have to change their system. More likely, the Securities and Exchange Commission will have to change it for them.
+Perhaps the biggest problem is the ratings industry. To construct E.S.G. funds, investment managers rely on rating agencies -- such as Sustainalytics, S&P and MSCI -- that create indexes grouping sets of companies that are meant to be good corporate citizens. (Some examples are the Dow Jones Sustainability World Index and the MSCI ESG Universal Indexes.) These agencies also rate companies on E.S.G. criteria and sell the ratings to investment firms.
+But contrary to the spirit of E.S.G. investing (and likely unknown to most investors), the leading rating agencies are not scoring companies on their degree of environmental or social responsibility. Instead, they are measuring how much potential harm E.S.G. factors like carbon emissions have on companies' financial performance.
+Corporate responsibility and financial risk, however, are not the same thing. Indeed, they can be diametrically opposed.
+McDonald's, for instance, was given an upgrade of its E.S.G. rating last year by MSCI, which cited reduced risks to the company's bottom line as a result of changes that the company made concerning packaging material and waste. But greenhouse gas emissions from the operations and supply chain of McDonald's, which is one of the world's largest buyers of beef, grew by 16 percent from 2015 to 2020. Those emissions are a direct cause of climate change, but because MSCI didn't see them as posing a financial risk for McDonald's, they didn't negatively affect the rating.
+This is hardly an isolated case. According to a recent Bloomberg analysis of 155 rating upgrades, only one cited a cut in emissions as a factor.
+Given this lenient rating system, it's not difficult for a company to be deemed environmentally or socially responsible. Indeed, 90 percent of stocks in the S&P 500 can be found in an E.S.G. fund built with MSCI ratings.
+Most technology stocks, including Alphabet and Meta, are part of E.S.G. funds, despite concerns about their role in facilitating the spread of misinformation and hate speech. Coca-Cola and Pepsi have gotten very high E.S.G. scores and find themselves in most big E.S.G. funds, despite manufacturing products that are a major cause of diabetes, obesity and early mortality and despite being the world's largest contributors to plastic pollution. Perhaps most egregiously, BP and Exxon get respectable ratings from MSCI.
+This system works well for Wall Street. It keeps the raters in business because it ensures that their customers, the investment firms, have lots of stocks with which to construct portfolios. It enables financial institutions to present themselves as contributing to the well-being of society and the planet. And it allows them to charge higher fees to investors, because E.S.G. funds are seen as different from conventional index funds, in part because they tap into investors' consciences.
+But this system isn't good for the world. Instead of measuring the risks that environmental and social developments pose to companies, raters and investors should measure the risks to humanity posed by companies.
+The best approach would be for rating agencies to measure the costs to society and the environment that are not directly borne by companies -- what economists call negative externalities. This would include the health care costs to society of smoking or excessive soda consumption or the acceleration of climate change as a result of greenhouse gas emissions.
+Policymakers -- specifically, the Securities and Exchange Commission -- can and should play a role in designing and enforcing an E.S.G. rating system worthy of the name. In March the commission took a step in this direction, proposing new requirements for public companies to disclose greenhouse gas emissions from their operations. But it would require them to disclose what are called Scope 3 emissions -- emissions that result from companies' suppliers and customers -- only if they are considered material to investors.
+What is material for the planet and society, however, may not be material for investors in the short term, and companies may choose not to disclose them. Considering that Scope 3 emissions can account for 75 percent of greenhouse gases that big companies are responsible for, it would be remiss of the commission to not require all public companies to report on all emissions generated through their supply chains.
+The commission has also proposed rules that would require E.S.G. funds to disclose their strategies -- though what the commission means by that word remains unspecified. And the commission has not proposed any major changes to the role of rating agencies, which is where the problems begin.
+Paradoxically, some on the political right have started citing E.S.G. investing as an example of woke capitalism -- a marriage of progressive causes with corporate power. But the current system for E.S.G. investing is just regular capitalism at its slickest: ingenious marketing in the service of profits.
+The current system needs an overhaul. Reform may not be as kind to corporate America, but it would make it easier to invest in the future of our society and planet.
+Hans Taparia (@hanstap) is a clinical associate professor at the New York University Stern School of Business and a former entrepreneur.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY JEFF HUTCHENS/GETTY IMAGES)
+
+Subject: Social responsibility; Stocks; Greenhouse gases; Ratings & rankings; Trends; Capitalism; Emissions; Greenhouse effect; Securities markets; Society
+
+Business indexing term: Subject: Social responsibility Stocks Capitalism Securities markets
+
+Location: New York; United States--US
+
+Company / organization: Name: Securities & Exchange Commission; NAICS: 926150
+
+URL: https://www.nytimes.com/2022/09/29/opinion/esg-investing-responsibility.html
+
+Title: One of the Hottest Trends in the World of Investing Is a Sham:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.4
+
+Publication year: 2022
+
+Publication date: Oct 2, 2022
+
+column: Guest Essay
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2719961776
+
+Document URL: https://www.proquest.com/newspapers/one-hottest-trends-world-investing-is-sham/docview/2719961776/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Oct 2, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

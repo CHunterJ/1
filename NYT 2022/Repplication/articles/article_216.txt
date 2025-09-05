@@ -1,0 +1,99 @@
+Document 216 of 566
+
+A Proposal for School Covid Policies This Year: [Op-Ed]: [Op-Ed]
+
+Author: Allen, Joseph G
+
+Publication info: Allen, Joseph G. 
+
+https://www.proquest.com/newspapers/proposal-school-covid-policies-this-year-op-ed/docview/2699016433/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=A+Proposal+for+School+Covid+Policies+This+Year%3A+%5BOp-Ed%5D&amp;rft.au=Allen%2C+Joseph+G&amp;rft.aulast=Allen&amp;rft.aufirst=Joseph&amp;rft.date=2022-08-06&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.19&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Millions of kids went "missing" from schools after the start of the coronavirus pandemic -- totally unaccounted for. Reading and math scores plummeted. There has been a youth mental health crisis. There are inequities in Covid impacts and learning loss by race, ethnicity and family income. More than a million people in America have died from Covid-19, and more than 200,000 kids lost one or both parents. Predictions for endemic Covid in this country are 100,000 deaths per year.
+All of this is staring us in the face as we enter the fourth school year of the Covid era. And it leaves us with a heavy question many schools are grappling with: Which Covid policies should schools use this fall?
+The Centers for Disease Control and Prevention and individual states are about to answer this question, with guidance coming very soon. Here's how I'm thinking about it: As a public health scientist. As someone who has spent nearly 20 years doing risk assessments of indoor environmental hazards. As a dad of three school-age kids, and an uncle to 15.
+The societal risk from Covid is rapidly changing for the better. The individual risk to kids is -- and has always been -- low. The crisis kids face at this point in the pandemic is not the virus, but the cost of so many years of disrupted school. The overriding goal for the next school year should be to maximize time in the classroom and make school look and feel much like it did before the pandemic started. The way to do this is to get rid of excessive quarantine and isolation policies, and to rely on the protective power of vaccines and prior infections, with masking reserved as a strategy to get kids back in the classroom quicker after they've been sick.
+The current hospitalization rate for school-age kids in the United States is 0.4 per 100,000. Of all age groups, they have the lowest risk of hospitalization. The highest daily rate of hospitalization for children was during the January 2022 Omicron surge, and topped out at just over one per 100,000.
+Parents have the option to make this low risk of hospitalization more trivial through vaccination. A new study published in The New England Journal of Medicine that looked at data for 250,000 5-to-11-year-olds reported that vaccinated children were between five and six times less likely to be hospitalized than unvaccinated children, on top of their already very low baseline risk. And the data also show, similar to that of adults, that despite widespread doubt-casting about the power of vaccines to slow transmission, vaccines do in fact reduce the risk that children will catch Covid at all.
+Vaccines also help protect against MIS-C, a rare but potentially serious condition that had parents concerned. The high efficacy of the vaccines -- plus the high percentage of kids who had infections this past year as well as changing variants -- explains why MIS-C "has almost disappeared" now.
+There is also good news about long Covid and kids. A new study published in The Journal of the American Medical Association found that the rate of long Covid in kids who were hospitalized was "only slightly higher" than rates in the control group. Prior studies had overestimated the incidence of long Covid because they didn't have a control population to compare against -- a critical flaw.
+And while for adults the risks associated with Covid can be serious, it's a risk that can be managed. The death rate for the unvaccinated in New York City is five per 100,000 per week on average; for the vaccinated, it's less than one; and for the vaccinated and boosted, it's 0.77. On top of all this, the combination of prior infection and vaccination has led to an estimated 95 percent of American adults having an immune system that has seen the virus. (To be unambiguously clear, the safest way to see the virus is through vaccination.) Each vaccination, boost and infection builds up the immunity wall for individuals and for society.
+When someone over 50 or at high risk for Covid complications does get sick, there's the treatment Paxlovid, which has an efficacy against hospitalization of nearly 90 percent. And for very high-risk and immune-compromised people, there is another drug that can be taken ahead of time, Evusheld.
+With that as the backdrop, we can now answer the question about what should school look like this fall. Schools in some parts of the country have had minimal Covid precautions for months and even years now. But many districts have held on to restrictive policies, and some are even considering reintroducing mask mandates for the coming year.
+Before vaccines and the growing immunity wall, it was understandable to put extra precautions in schools to keep those at most risk -- adult teachers, staff and their family members -- safe. But once vaccines were widely available, this rationale should have lost its luster, because the risk to kids themselves is so low.
+First, schools should be open. They should never have closed and should never close again. That was a mistake we will pay for over decades.
+Ventilation and filtration should continue to be key focuses. These measures operate in the background and don't require behavior changes, and they provide multiple benefits beyond preventing the spread of Covid. We should think of this as a once-in-a-generation opportunity to address decades of school infrastructure neglect.
+As for testing, there are four main goals: clinical diagnosis ("Do I have Covid?"), surveillance ("How much Covid is circulating in our school or community?"), as a control measure ("Does this person who might enter the school unknowingly have asymptomatic Covid?") and as a way to end isolation ("Is this person no longer infectious?").
+For the coming school year we should use testing only for the first goal: testing to diagnose disease, not for surveillance or potential transmission control. If a child is ill, testing should be used to know what they're sick with, so they can get the right treatment. The use of tests for general surveillance to understand disease spread should be stopped (we know that Covid is widespread at this point, and even places like Harvard and M.I.T. have stopped routine testing), and we shouldn't be using this to screen asymptomatic kids from coming to school.
+Quarantining should end. We shouldn't have kids miss school because they are close contacts of someone who had Covid. This practice is disruptive, has forced entire classrooms to miss two weeks of school unnecessarily and led to increased rates of "chronic absenteeism."
+That leaves one hard question: What to do about a child who has Covid? The first part is obvious. Kids with symptoms should stay home. But the trickier part, of course, is determining when they can return.
+People can remain infectious past five days, and some for 10 days and even beyond. The C.D.C.'s recommendation is to isolate for five days, and then mask for five more. That's smart. It relies on masks because they work.
+Ideally, we would have kids "test to return," as a colleague and I recommended last year, where kids must have two negative rapid tests before returning to school. But I think the strict science here is running up against the reality of the moment -- that the longer kids who test positive are required to be out of school, and the longer parents miss work, the stronger the incentive for parents not to test their children if they show symptoms.
+Next best is the current C.D.C. "5 and 5" approach, where students who test positive must stay home for the first five days and then return to school masked for the next five. But that still means that the default is for kids who test positive to miss up to a week of school. If masks work on day five, they also work on day three, right? So it's reasonable to have kids stay home while they have symptoms, return once their symptoms have passed and wear a mask until 10 days after symptoms began.
+Most school districts dropped their mask mandates by the end of the 2021-22 school year. This is a good policy choice that should continue into the fall because the value of mandates drops over time, as people become less likely to comply. Still, anyone who wants to should be allowed to wear an N95 mask. One-way masking works, and those arguing that N95s work only if everyone is wearing one have brought their messaging dangerously close to that of anti-maskers.
+Masks should be a go-to, quick implementation strategy if something changes in a dire way. For example, a variant that disproportionately affects kids, or that has severe immune escape and resets us back to March 2020, God forbid.
+It's also time to end the practices that were put in place early in the emergency response phase of the pandemic that have remained for no apparent reason other than inertia. No more barring parents from entering school buildings, making kids have "no talking" lunches or eating lunch in the classroom instead of the cafeteria, limiting extracurricular activities or canceling field trips. Certainly, these policies do not contribute to risk reduction at this point.
+If any of this seems extreme, consider what's happening elsewhere. In Britain, for example, the guidelines for a child who has a respiratory infection, including Covid, are: Children feeling unwell or with a high temperature should stay home, but if they have minor symptoms, like a runny nose, sore throat or slight cough, they can go to school. And they don't need to mask.
+The guidelines detail their rationale: "Very few children and young people with respiratory infections become seriously unwell." They go on to say, "Attending education is hugely important for children and young people's health and their future."
+By the fall of 2021, most schools finally and thankfully were back to in-person learning, but many kids still found themselves surrounded by plexiglass, having to sit six feet from one another and not talking during lunches. All the while, sporting events went on with thousands of unmasked fans in attendance, and casinos and bars were open.
+Basically, adults could do whatever they wanted, while kids bore the brunt of the last vestiges of pandemic controls despite being at the lowest risk for Covid. We cannot let anything like this happen again in the upcoming school year.
+We need to push for vaccines and boosters in adults, reinforce the fact that N95s work for those who don't feel comfortable with the already very low risk to their kids and get kids back to school after their symptoms abate. These strategies will save lives, protect our health care system and keep kids where they need to be: in the classroom.
+Joseph G. Allen is the director of the healthy buildings program and an associate professor at Harvard T.H. Chan School of Public Health. He leads the Lancet Covid-19 Commission Task Force on Safe Work, Safe School and Safe Travel.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY JONATHAN KIRN/GETTY IMAGES)
+
+Subject: COVID-19 vaccines; Surveillance; Asymptomatic; Coronaviruses; Pandemics; Masks; Hospitalization; Childrens health; Students; Schools; Health risk assessment; Public health; Disease control; Proposals; Government mandates
+
+Business indexing term: Subject: Proposals
+
+Location: United States--US
+
+Company / organization: Name: Centers for Disease Control & Prevention--CDC; NAICS: 923120
+
+URL: https://www.nytimes.com/2022/08/04/opinion/covid-school-policies.html
+
+Title: A Proposal for School Covid Policies This Year:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.19
+
+Publication year: 2022
+
+Publication date: Aug 6, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2699016433
+
+Document URL: https://www.proquest.com/newspapers/proposal-school-covid-policies-this-year/docview/2699016433/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Aug 6, 2022
+
+Last updated: 2022-08-08
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

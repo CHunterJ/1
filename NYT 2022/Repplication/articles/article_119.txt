@@ -1,0 +1,85 @@
+Document 119 of 566
+
+Big Tech Needs to Support the Iranian People: [Op-Ed]: [Op-Ed]
+
+Author: Alimardani, Mahsa; Albert, Kendra; Rigot, Afsaneh
+
+Publication info: Alimardani, Mahsa; Albert, Kendra; Rigot, Afsaneh. 
+
+https://www.proquest.com/newspapers/big-tech-needs-support-iranian-people-op-ed/docview/2720749382/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Big+Tech+Needs+to+Support+the+Iranian+People%3A+%5BOp-Ed%5D&amp;rft.au=Alimardani%2C+Mahsa%3BAlbert%2C+Kendra%3BRigot%2C+Afsaneh&amp;rft.aulast=Alimardani&amp;rft.aufirst=Mahsa&amp;rft.date=2022-10-04&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.23&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Mahsa Amini died, but the hashtag #MahsaAmini lives on.
+Ms. Amini, a 22-year-old Kurdish woman known as Jina in Kurdish, was stopped on Sept. 13 by the Islamic Republic of Iran's morality police as she came out of Tehran's Haghani metro station. Ms. Amini's purported crime was "improperly" wearing hijab, violating Iran's law requiring veiling. Her death in police custody has become the rallying cry of a new movement in Iran.
+Despite the significant censorship and efforts by the Iranian government to limit its citizens' access to the internet, Twitter and other social networks have played an outsized role in informing the world -- and people in the country -- of the protests against the violent treatment of women and crackdowns on the opposition. From the moment that a photo of Ms. Amini unconscious, with tubes running from her mouth, was shared over Twitter, the hashtag #مهسا_امینی (#MahsaAmini in Persian) has been used in some 160 million tweets, despite limited internet access in Iran.
+The movement may have started with protests of the Islamic Republic's violence against women, but it is now a nationwide uprising across 85 cities demanding the dismantling of the entire system of leadership and governance. In contrast to previous protest movements in Iran, this women-led movement has people of all backgrounds taking to the streets against a regime that does not hesitate to use brutality to repress dissent.
+Iranians in the diaspora have been amplifying citizen media and protesters, even as they don't always know whether their family members in Iran are safe. The demonstrators have risked it all, and the violence against them doesn't appear to be letting up. There have been at least 83 deaths directly attributable to crackdowns on the protests since they began on Sept. 16, and reports suggest that more than 1,200 people have been arrested.
+Citizens' access to technology can put pressure on the government that cannot come from any other source. Western technology companies, recently freed from sanctions, should grant full access to Iranians.
+The Treasury Department has relaxed some sanctions that discouraged technology companies from providing service to the people of Iran. These sanctions had a damaging history of complementing the state's repression and control of its citizens by limiting the people's options to state-controlled technologies. Expanded services such as Google's cloud computing and circumvention technology are no longer hindered by sanctions. Enabling them will allow technologists to reduce harm by moving away from state-controlled platforms. And since many Iranians lack access to credit cards or online financial services because of sanctions, companies should offer services without cost.
+The most important technological interventions for this moment don't look like flashy, untested satellite networks or questionable VPNs that may contain malware. There are concrete steps for the platforms people are already using: Twitter, Telegram and Meta are three companies vital to protesters' expression and documentation, and each has a role to play. They should equip moderation and engineering teams with contextual nuance, creating direct lines of communication to activists to prevent imminent harm and providing communications tools that work.
+For Twitter, there's one initial easy step: making #MahsaAmini and #مهسا_امینی official. Despite the record-breaking number of #MahsaAmini tweets, the hashtag remains flagless. Hashflags are custom emojis specific to Twitter that help boost a particular hashtag on the platform and draw attention to a movement.
+By introducing a hashflag, Twitter would also make it less likely that misleadingly similar hashtags for #MahsaAmini will divert attention. Whether just accidental typos or part of an effort by pro-government or government-owned accounts to reduce engagement, similar hashtags can divert attention and cause confusion.
+The latest protests have once again highlighted the dangers of Telegram's lack of effective content moderation policies and practices. This has endangered vulnerable users, especially activists targeted by authoritarian states. Telegram channels associated with or supporting the Islamic Republic's security forces have sprung up to identify protesters. We know that in the past, Telegram responded to pressure to protect its users: It banned Russian state media accounts after the invasion of Ukraine. It's past time for Telegram to commence dialogue with civil society and experts to proactively put in place basic human rights standards.
+Meta hosts two of the most used applications in Iran: Instagram and WhatsApp, among only a few foreign communication tools available uncensored in Iran before the protests. Despite this, Meta's Persian-language content moderation, like its moderation in other non-English-speaking countries, has harmed users' rights. As a poignant example, some accounts documenting protests from the first couple of days, including the protest documentation network 1500Tasvir, were flagged for spam because of the amount of content they were publishing on Instagram.
+Although Meta ultimately restored those posts, removed posts and blocked access become a matter of life and death in these contexts. All social media platforms must strengthen their rapid response mechanisms in non-English contexts, including relationships to trusted human rights organizations and activists on the ground. Formalized, direct lines of communication are vital for companies to respond to urgent requests to protect protesters, for example, by removing accounts that can be used against protesters after they are arrested and their devices are searched.
+Meta's responsibilities are infrastructural, too. On Sept. 22, many users reported experiencing difficulty connecting to their WhatsApp accounts associated with Iran's 98 country code even when outside the country. Whether a technical difficulty or some sort of disruption, these kinds of outages can cause significant harm. The company tweeted that it hadn't blocked Iranian numbers, but it did not give any additional information. And with its considerable technical resources, it must do better for this Iranian lifeline for communication.
+A successful movement or -- dare we hope -- revolution, is more than just tweets and technology. And the history of the Arab Spring may rightly make experts reluctant to buy into a narrative of Western technology companies as saviors. But information flows matter for safety, for accountability, for documentation and for solidarity. With lifted sanctions, companies have no more excuses. They can finally do what they've always said they wanted to: support the Iranian people, not the regime.
+Mahsa Alimardani is a senior researcher at Article 19 and a doctoral candidate at the University of Oxford. Kendra Albert is a clinical instructor at the Cyberlaw Clinic at Harvard Law School, and the board chair of the Tor Project. Afsaneh Rigot is a senior researcher at Article 19 and an affiliate at the Berkman Klein Center for Internet & Society at Harvard University.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY MARKUS SCHREIBER/ASSOCIATED PRESS)
+
+Subject: Activists; Internet access; Content management; Demonstrations & protests; Human rights; Sanctions; Social networks; Islamic culture; Religious clothing; Violence; Islamism; Morality; Womens rights movements; Political dissent
+
+Business indexing term: Subject: Sanctions Social networks
+
+Location: Iran
+
+People: Amini, Mahsa
+
+URL: https://www.nytimes.com/2022/09/30/opinion/tech-companies-iran.html
+
+Title: Big Tech Needs to Support the Iranian People:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.23
+
+Publication year: 2022
+
+Publication date: Oct 4, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2720749382
+
+Document URL: https://www.proquest.com/newspapers/big-tech-needs-support-iranian-people/docview/2720749382/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Oct 4, 2022
+
+Last updated: 2022-10-04
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

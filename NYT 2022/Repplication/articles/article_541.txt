@@ -1,0 +1,85 @@
+Document 541 of 566
+
+The Economic Argument For Goldilocks: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/economic-argument-goldilocks-op-ed/docview/2617154696/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Economic+Argument+For+Goldilocks%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-01-07&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.23&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: For the U.S. economy, 2021 was both the best of times and the worst of times -- well, maybe not that bad, but still.
+The good news: Unemployment plunged thanks to rapid growth and job creation, falling as fast as it did during the "morning in America" recovery of the early 1980s.
+The bad news: Inflation hit its highest level in decades. So economists who warned early last year about inflation were right, while those of us who downplayed the risk or predicted only a brief interlude of rising prices were wrong.
+There are, however, two questions about the mix of good and bad news that people should be asking, but for the most part, at least as far as I can tell, aren't. Could we have had substantially lower inflation without a much worse job picture? And, if not, would accepting a slower employment recovery in return for less inflation have been a good idea? I'm a definite no on the first question, and a probable although not completely certain no on the second.
+If I'm right on both counts, however, a surprising conclusion follows: Economic policy in 2021 was actually pretty good. In fact, given the dislocations associated with a continuing pandemic, we ran what was in effect a Goldilocks economy, one that was neither too cold nor too hot.
+I can already hear the screaming, but bear with me for a bit.
+Let's start with what should be an unobjectionable point: The Covid-era recovery has been very unbalanced. Fear of infection has limited demand for in-person services like restaurant meals, and people have compensated by buying physical goods like cars and household appliances. Real purchases of consumer durables are still running more than 20 percent above the prepandemic level, while purchases of services have only recently returned to their level of two years ago.
+And supply chains have had a hard time keeping up with surging goods purchases.
+Econ 101 tells us what should happen in the face of skewed demand and constrained supply: The prices of the things people are scrambling to buy should rise relative to the prices of things people are still shunning. Sure enough, the ratio of the price index for durable goods to that for services has risen substantially, reversing its normal technology-driven downward trend.
+This relative inflation in the prices of goods as compared with services was unavoidable if we didn't want to experience crippling shortages -- which we did, in fact, avoid: some consumer items have been hard to get, but predictions of a holiday-season "shipageddon" didn't come true.
+But we could have had lower overall inflation if we had squeezed service prices -- say, by slashing aid to families or raising interest rates, and thereby restraining private spending -- instead of doing what we did, which was to make the whole adjustment via higher goods prices. Would that have been a better path?
+Well, I don't see any way we could have squeezed service prices without also squeezing service-sector employment. That is, unless policymakers have access to some magic wand I haven't heard about, we could have kept 2021 inflation down only at the cost of a substantially slower jobs recovery.
+And that would have been a bad thing. High unemployment isn't just harmful when it's happening; it also has destructive long-term effects, because the evidence says that young people starting their work lives amid economic weakness suffer persistent damage to their earnings.
+So holding back the recovery would have been a serious mistake if -- and it's a big if -- the inflation spike of 2021 doesn't turn into a wage-price spiral, and we can eventually get inflation back down without having to go through a serious recession. Not to put too fine a point on it, it would have been a tragedy if hundreds of thousands of currently employed Americans had been denied jobs merely in order to reduce congestion at the Ports of Los Angeles and Long Beach.
+So can we unwind inflation fairly gracefully? The Fed thinks we can. So do most independent forecasters. So do I, although of course we could all be wrong.
+And for those following the financial news, no, indications from the just-released Fed minutes that officials are concerned about inflation and expect to raise interest rates this year aren't an admission that they were wrong to keep rates low last year. When I'm merging with highway traffic, I keep my foot on the gas pedal while accelerating then let up once I've reached cruising speed. What do you do?
+As I suggested earlier, I expect many people to be very upset at any suggestion that economic policymakers have done a pretty good job lately. Before you start ranting about inflation, however, ask yourself what you would have done differently and whether your alternative policies would have been consistent with the very good news we've had on jobs.
+I'm not saying that we should ignore inflation. The Fed is right to be considering interest rate hikes now that the economy appears to be getting close to capacity. But accepting inflation for a while was probably the right call.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Ashley Gilbertson for The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Interest rates; Employment; Economic policy; Federal Reserve monetary policy; Inflation; Economic theory; Price increases
+
+Business indexing term: Subject: Interest rates Employment Economic policy Federal Reserve monetary policy Inflation Economic theory Price increases
+
+Location: United States--US
+
+URL: https://www.nytimes.com/2022/01/06/opinion/inflation-unemployment-economy-growth.html
+
+Title: The Economic Argument For Goldilocks: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.23
+
+Publication year: 2022
+
+Publication date: Jan 7, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2617154696
+
+Document URL: https://www.proquest.com/newspapers/economic-argument-goldilocks-op-ed/docview/2617154696/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jan 7, 2022
+
+Last updated: 2022-01-07
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

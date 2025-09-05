@@ -1,0 +1,81 @@
+Document 296 of 566
+
+From the Big Short to the Big Scam: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/big-short-scam-op-ed/docview/2673491005/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=From+the+Big+Short+to+the+Big+Scam%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-06-07&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.21&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Remember "The Big Short"? The 2010 book by Michael Lewis, made into a 2015 film, told the story of the 2008 global financial crisis by following a handful of investors who were willing to bet on the unthinkable -- the proposition that the huge rise in housing prices in the years before the crisis was a bubble, and that many of the seemingly sophisticated financial instruments that helped inflate housing would eventually be revealed as worthless junk.
+Why were so few willing to bet against the bubble? A large part of the answer, I'd suggest, was what we might call the incredulity factor -- the sheer scale of the mispricing the skeptics claimed to see. Even though there was clear evidence that housing prices were out of line, it was hard to believe they could be that far out of line -- that $ 6 trillion in real estate wealth would evaporate, that investors in mortgage-backed securities would lose around $ 1 trillion. It just didn't seem plausible that markets, and the conventional wisdom saying that markets were OK, could be that wrong.
+But they were. Which brings us to the current state of crypto.
+Last week the Federal Trade Commission reported that "cryptocurrency is quickly becoming the payment of choice for many scammers," accounting for "about one of every four dollars reported lost to fraud." Given how small a role cryptocurrency plays in ordinary transactions, that's impressive.
+True, the sum reported by the F.T.C. isn't that big -- around $ 1 billion since 2021 -- but this counts only reported losses to outright fraud, where people were suckered into paying for nonexistent assets. It doesn't count scams that went unreported, let alone money invested in assets that existed, sort of, but were fundamentally worthless -- assets like TerraUSD, a "stablecoin" that was neither stable nor a coin. TerraUSD's collapse last month eliminated $ 18 billion in value, in some cases consuming people's life savings. As far as we know, TerraUSD's founders actually believed in their product and didn't simply steal investors' money, so they didn't engage in fraud in a legal sense. But their investors lost their savings anyway.
+Who's next? As Hillary Allen recently wrote in The Financial Times, TerraUSD may have been exceptionally fragile, but the truth is that it's hard to see why stablecoins in general should exist. "Stablecoins start with a convoluted and inefficient base technology in order to avoid intermediaries" -- that is, conventional banks -- "and then add intermediaries (often with apparent conflicts of interest) back in."
+As a number of analysts have pointed out, stablecoins may seem high-tech and futuristic, but what they most resemble are 19th-century banks, specifically U.S. banks during the "free banking" era before the Civil War, when paper currency was issued by largely unregulated private institutions. Many of these banks failed, in some cases due to fraud but mostly due to bad investments.
+Now, some modern economists defend the free banking era. Perhaps not surprisingly, free-banking defenders, like crypto enthusiasts, tend to have a libertarian bent; the most ardent defenders of free banking are associated with right-wing think tanks that have also promoted environmental denialism and opposed measures against Covid-19. Still, during the free-banking era, private currencies did indeed circulate and function as mediums of exchange.
+Arguably, however, that was because there were no better alternatives: greenbacks -- dollar notes issued by the U.S. Treasury -- didn't yet exist. Today greenbacks and government-insured bank deposits do exist, so stablecoins play almost no role in ordinary business transactions. What purpose, then, do these assets serve?
+You can ask the same question about crypto in general. I've been in a number of meetings in which skeptics ask, as politely as they can, what cryptocurrencies do that can't be done more easily with more conventional means of payment. They also ask why, if crypto is the future, Bitcoin -- which was introduced in 2009(!) -- has yet to find any significant real-world uses. In my experience, the answers are always word salad devoid of concrete examples.
+OK, criminals seems to find crypto useful; a recent Reuters investigation found that over the past five years the crypto exchange Binance has laundered at least $ 2.35 billion in illicit funds. But where are the legitimate applications?
+Yet suggesting that crypto makes no sense runs up against the incredulity factor. At their peak last November, cryptocurrencies were worth almost $ 3 trillion; early investors made huge profits. Famous business schools offer blockchain courses; mayors compete over who can make their cities most crypto-friendly.
+It sounds extreme and implausible to suggest that an asset class that has become so large, whose promoters have acquired so much political influence, could lack any real value -- that it is a house built not on sand, but on nothing at all.
+But I remember the housing bubble and the subprime crisis. And if you ask me, it looks as if we've gone from the Big Short to the Big Scam.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Shutterstock FOR THE NEW YORK TIMES)
+
+Subject: Digital currencies; Housing; International finance; Housing prices; Banking; Fraud
+
+Business indexing term: Subject: Digital currencies International finance Housing prices Banking
+
+Location: United States--US
+
+URL: https://www.nytimes.com/2022/06/06/opinion/cryptocurrency-bubble-fraud.html
+
+Title: From the Big Short to the Big Scam:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.21
+
+Publication year: 2022
+
+Publication date: Jun 7, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2673491005
+
+Document URL: https://www.proquest.com/newspapers/big-short-scam/docview/2673491005/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jun 7, 2022
+
+Last updated: 2022-07-07
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

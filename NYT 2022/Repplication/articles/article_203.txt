@@ -1,0 +1,86 @@
+Document 203 of 566
+
+The Meaning of Falling Inflation: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/meaning-falling-inflation-op-ed/docview/2699340067/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Meaning+of+Falling+Inflation%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-08-07&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.3&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Inflation is coming down -- fast.
+Gas prices, defying predictions of a nightmare summer for motorists, are leading the parade:
+The majority of gas stations in the United States are already charging less than $ 4 a gallon, and declining wholesale prices suggest that retail prices still have farther to fall.
+Food prices are also coming down. Here's the futures price for wheat:
+And business surveys are suggesting a broader decline in inflation. For example, the widely cited Institute of Supply Management survey of purchasing managers shows that prices paid for raw materials are still rising, but at a slower rate than they have in many months:
+All of this means that official data on consumer prices will almost certainly show much smaller increases over the next few months than the shocking numbers we've become accustomed to lately. But what will this improvement mean?
+I'll get to the implications for economic policy in just a bit. But give me a minute to savor the political implications.
+Republican efforts to regain control of Congress have rested almost entirely on blaming Joe Biden for inflation -- and gas prices in particular.
+Did Donald Trump, who is still the dominant figure in the G.O.P., attempt to overturn a legitimate election? Gas is over $ 5 a gallon! Are Republican judges and state legislators taking away rights women have had for decades? Gas is $ 5 a gallon!
+Now the party's main election plank -- pretty much their only election plank -- is being sawed off at the base. I've been wondering what they'll do. After spending many months doing all they can to dumb down the debate, Republicans will have a hard time suddenly pivoting to nuanced arguments about headline numbers versus underlying inflation.
+So far, their main response seems to be to ignore the inflation slowdown and hope voters don't notice. Here, for example, is Mehmet Oz, running to be a Pennsylvania senator, on Thursday:
+Has this man visited a gas station near his New Jersey home lately?
+When -- I'm pretty sure that's a "when," not an "if" -- official data also shows a sharp decline in inflation, my guess is that we'll see denial supplemented by conspiracy theories: claims that the Biden administration is faking the numbers or somehow manipulating the commodity markets.
+Should Democrats emphasize the good news on inflation and mock their opponents' doomsaying? Yes! Any Democratic politician who responds to falling energy and food prices with a discourse about transitory versus underlying inflation should be in a different business.
+Policymakers, however -- which in this case basically means the Federal Reserve -- are in a different business, and they should respond to the good inflation news by keeping calm and carrying on.
+Many fashionable economic concepts have failed the test of time, but the concept of core inflation -- distinguishing between volatile prices, like food and energy, and slower-moving prices that have a lot of inertia -- has been highly successful since the economist Robert Gordon introduced it in the 1970s. Time and again, the Fed has steered through crises by ignoring critics who wanted it to panic over blips in inflation caused by temporary jumps in commodity prices.
+Now, defining core inflation has gotten harder in the Covid era, because just excluding food and energy seems inadequate at a time when wild swings in things like used car prices and shipping costs have also driven fluctuations in the rate of inflation. At the moment, however, every measure of underlying inflation I'm aware of, from traditional core to measures that exclude any large price changes and changes in labor costs, points to unacceptably high underlying inflation.
+So why is inflation coming down? Biden administration policy -- releasing oil from the Strategic Petroleum Reserve, urging gas stations to pass on declines in wholesale prices, efforts to unsnarl supply chains -- may have contributed. But the main story is likely a global economic slowdown: America probably isn't in a recession, but Europe probably is, China remains hobbled by its zero-Covid policy and so on.
+All of which has remarkably little bearing on appropriate U.S. policy. The Fed's strategy is to bring underlying inflation down by using interest rate hikes to cool off the economy. Despite Friday's hot labor market report, I have no doubt that this strategy will eventually work. But the good news we're about to get about short-term inflation isn't evidence that the strategy has already worked, and alas (I'm usually a monetary dove), it offers no justification for a pivot toward easier money.
+Does this mean that inflation is going to pop right back up again? Not necessarily. The Fed's efforts probably will bring underlying inflation down over the next few months, so that by the time the transitory good news from gas prices fades out, it may be replaced by more permanent good news.
+In any case, for the moment, inflation is headed down, no doubt to the great dismay of politicians who were counting on gas prices to deliver a red wave in November. Pass the popcorn.
+(PHOTOGRAPH BY SARAH SILBIGER FOR THE NEW YORK TIMES)
+
+Subject: Gasoline prices; Inflation; Food prices; Service stations; Strategic petroleum reserve; Economic conditions
+
+Business indexing term: Subject: Gasoline prices Inflation Food prices Service stations Strategic petroleum reserve Economic conditions
+
+Location: United States--US
+
+URL: https://www.nytimes.com/2022/08/05/opinion/inflation-declining-gas-prices.html
+
+Title: The Meaning of Falling Inflation:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.3
+
+Publication year: 2022
+
+Publication date: Aug 7, 2022
+
+column: Paul Krugman
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2699340067
+
+Document URL: https://www.proquest.com/newspapers/meaning-falling-inflation/docview/2699340067/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Aug 7, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

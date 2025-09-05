@@ -1,0 +1,90 @@
+Document 248 of 566
+
+The Federal Reserve Is Being Too Aggressive on Inflation: [Op-Ed]: [Op-Ed]
+
+Author: Coy, Peter
+
+Publication info: Coy, Peter. 
+
+https://www.proquest.com/newspapers/federal-reserve-is-being-too-aggressive-on/docview/2685289234/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Federal+Reserve+Is+Being+Too+Aggressive+on+Inflation%3A+%5BOp-Ed%5D&amp;rft.au=Coy%2C+Peter&amp;rft.aulast=Coy&amp;rft.aufirst=Peter&amp;rft.date=2022-07-07&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.22&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: The Federal Reserve would do well to remember the old saying: Two wrongs don't make a right. Its first wrong was ignoring inflation. The second -- the one it's committing right now -- is fighting inflation too hard.
+Fed officials were embarrassed by their failure to keep inflation under control, so they're leaning hard in the other direction, raising interest rates rapidly to cool off the economy and bring inflation down.
+But inflation is already showing signs of moderating. The economy is losing steam, in part because of the rate increases that have already occurred. There's a good chance the Fed's inflation-fighting campaign will cause, or help cause, a recession.
+Fed officials seem to be putting too much weight on the one sign of continuing strength in the economy, which is the job market. The unemployment rate was a low 3.6 percent in May and economists are predicting that the Bureau of Labor Statistics will report on Friday that it stayed at 3.6 percent in June. There have been more than 10 million unfilled jobs in the United States each month since July 2021, double the average of the previous two decades.
+The economy is in "strong shape," the Federal Reserve chair, Jerome Powell, said last week at a forum of central bankers in Portugal. In addition to jobs, he cited strong household and business finances, saying that the United States is "well positioned to withstand tighter monetary policy."
+More and more, though, the strength of the job market is looking like the shiny coating on a machine that is rusting on the inside. Consider just a few key indicators:
+-- Economic output shrank in the first quarter at an annual rate of 1.6 percent. And while the dip was originally portrayed as a fluke, it doesn't look that way anymore. The Federal Reserve Bank of Atlanta estimates that gross domestic product shrank at an annual rate of 2.1 percent in the second quarter, which ended June 30.
+-- Incomes aren't rising rapidly enough to keep up with prices, so consumers are losing spending power. That's critical because personal consumption accounts for a majority of economic output. Adjusted for inflation, disposable personal income fell 0.1 percent in May and personal consumption expenditures fell 0.4 percent.
+-- The University of Michigan's index of consumer sentiment fell to 50 in June, the lowest ever recorded.
+-- Prices of many commodities are falling, a sign that industrial buyers are cutting back in anticipation of weak demand for their products. Since the start of the year, futures prices have fallen 23 percent for copper, 13 percent for platinum and 41 percent for lumber. Prices of oil and wheat are still higher than at the start of the year, but that's in large part because of shortages caused by Russia's invasion of Ukraine, not because of strong demand. That said, even those commodities are off their highs of the year.
+-- Investors, who are sensitive to the risk of an economic downturn, are running scared. The stock market had its worst first half since 1970. The dollar's value against other major currencies, which rises when people seek a safe haven from risk, is at a 20-year high. And investors have started demanding extra yield for the risk of holding junk bonds, which are more likely to default in a recession.
+Despite all this, the Federal Open Market Committee is still expected to raise the target range for the federal funds rate, the short-term rate it controls, by another three-quarters of a percentage point at its next meeting, scheduled for July 26-27. That would bring the cumulative increase since the start of the year to two percentage points, an increase so rapid that it's reverberating throughout the financial system. The U.S. financial stress index of the Office of Financial Research has risen to its highest since the pandemic recession.
+While Americans hate inflation, there's also mounting worry about its opposite, deflation, which is a broad-based decline in prices and incomes that's usually a symptom of economic weakness and rising joblessness. (Still a distant threat, I'd say.) Deflation makes debt more onerous because you owe the same amount of money but have less income to pay it off.
+In the latest University of Michigan survey of consumers, "the share of households who see 'deflation' as the principal theme for the coming five years rose in June to a record 17 percent -- it was 7 percent at the turn of the year," David Rosenberg, chief economist and strategist of Rosenberg Research in Toronto, wrote to his clients last week.
+"These are the folks who can see the forest past the trees."
+Elsewhere: V.A. Hospitals Save Lives
+Veterans who by chance are taken to a Department of Veterans Affairs hospital are 46 percent less likely to die within 28 days of the ambulance ride than veterans who are taken to a private hospital, new research shows. Care in a V.A. hospital also costs 21 percent less in those first 28 days, and the cumulative spending differential endures over time, according to the research by David C. Chan of Stanford University, David Card of University of California, Berkeley, and Lowell Taylor of Carnegie Mellon University.
+A possible explanation is that private hospitals, which charge fees for services, "may be motivated to provide care that is highly reimbursed and avoid care that is not," according to a summary of the research. V.A. hospitals receive funding based on the needs of the enrolled veterans, not the specific care that is provided. The research was partly funded by a V.A. research grant.
+Quote of the Day
+"Banks do not need to wait for a customer to deposit money before they can make a new loan to someone else. In fact, it is exactly the opposite: the making of a loan creates a new deposit in the borrower's account."
+-- Josh Ryan-Collins, Tony Greenham, Richard Werner and Andrew Jackson, "Where Does Money Come From?: A Guide to the U.K. Monetary and Banking System" (2011)
+We want to hear from you.
+Tell us about your experience with this newsletter by answering this short survey.
+(PHOTOGRAPH BY Illustration by the New York Times; image by ChrisGorgio via Getty Images FOR THE NEW YORK TIMES)
+
+Subject: Stock exchanges; Gross Domestic Product--GDP; Consumers; Inflation; Central banks; Unemployment; Veterans; Deflation; Economic conditions; Recessions; Consumption
+
+Business indexing term: Subject: Stock exchanges Gross Domestic Product--GDP Consumers Inflation Central banks Unemployment Deflation Economic conditions Recessions Consumption
+
+Location: United States--US
+
+Company / organization: Name: University of Michigan; NAICS: 611310
+
+URL: https://www.nytimes.com/2022/07/06/opinion/inflation-fed-recession-deflation.html
+
+Title: The Federal Reserve Is Being Too Aggressive on Inflation:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.22
+
+Publication year: 2022
+
+Publication date: Jul 7, 2022
+
+column: Er Coy
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2685289234
+
+Document URL: https://www.proquest.com/newspapers/federal-reserve-is-being-too-aggressive-on/docview/2685289234/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jul 7, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

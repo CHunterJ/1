@@ -1,0 +1,92 @@
+Document 235 of 566
+
+Next Time, Trump Won't Need a Mob: [Op-Ed]: [Op-Ed]
+
+Author: Bouie, Jamelle
+
+Publication info: Bouie, Jamelle. 
+
+https://www.proquest.com/newspapers/next-time-trump-wont-need-mob-op-ed/docview/2687166855/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Next+Time%2C+Trump+Won%27t+Need+a+Mob%3A+%5BOp-Ed%5D&amp;rft.au=Bouie%2C+Jamelle&amp;rft.aulast=Bouie&amp;rft.aufirst=Jamelle&amp;rft.date=2022-07-10&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.9&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Last week, the Supreme Court announced it would hear arguments in Moore v. Harper, a challenge to North Carolina's new congressional map.
+The long and short of the case is that North Carolina Republicans proposed a gerrymander so egregious that the state Supreme Court ruled that it violated the state's Constitution. Republicans sought to restore the legislative map, citing the "independent state legislature doctrine," which asserts that state legislatures have almost absolute power to set their own rules for federal elections. Once passed into law, then, those rules cannot be overturned -- or even reviewed -- by state courts.
+A Republican victory at the Supreme Court would, according to the election law expert Rick Hasen, "radically alter the power of state courts to rein in state legislatures that violate voting rights in federal elections. It could essentially neuter the ability of state courts to protect voters under provisions of state constitutions against infringement of their rights."
+This radical interpretation of the Elections Clause of the Constitution also extends to the Presidential Electors Clause, such that during a presidential election year, state legislatures could allocate Electoral College votes in any way they see fit, at any point in the process. As I argued earlier this year, we could see Republican-led states pass laws that would allow them to send alternative slates of electors, overruling the will of the voters and doing legally what Donald Trump and his conspirators pressured Republicans in Arizona and Georgia to do illegally. Under the independent state legislature doctrine, the next time Trump tries to overturn the results of an election he lost, he won't need a mob.
+There are many problems with this doctrine beyond the outcomes it was engineered to produce. Some are logical -- the theory seems to suggest that state legislatures are somehow separate and apart from state constitutions -- and some are historical. And among the historical problems is the fact that Americans have never really wanted to entrust their state legislatures with the kind of sweeping electoral powers that this theory would confer.
+For most of the first 50 years of presidential elections, there was no uniform method for the allocation of electors. In the first truly competitive race for president, the election of 1800, two states used a winner-take-all system where voters cast ballots to pick their electors directly, three states used a system where electors were chosen on a district-by-district basis, 10 states used a system where the legislature simply chose the electors, and one state, Tennessee, used a combination of methods.
+Methods changed from election to election depending on partisan advantage. Virginia moved from the district system in 1796 to the winner-take-all "general ticket" in 1800 to ensure total support for Thomas Jefferson in his contest against John Adams. In retaliation, Adams's home state of Massachusetts abandoned district elections for legislative selection, to ensure that he would get all of its electors.
+This kind of manipulation continued until the mid-1830s, when every state save South Carolina adopted the "general ticket." (South Carolina would not allow voters to directly choose electors until after the Civil War.)
+Beginning in 1812, however, you can start to see the public and its elected officials turn against this use of state legislative power.
+Jefferson's Democratic-Republican Party was still in power. James Madison, his longtime friend and political ally, was president. But he, and the war he was now fighting, were unpopular.
+Most members of Congress had backed Madison's call for war with Britain. But it was a partisan vote with most Republicans in favor and every Federalist opposed.
+The reasons for war were straightforward. The "conduct of her government," said Madison in his message to Congress requesting a declaration of war, "presents a series of acts hostile to the United States as an independent and neutral nation." Among those acts were impressment of American seamen ("thousands of American citizens, under the safeguard of public law and of their national flag, have been torn from their country") and attacks on American commerce ("British cruisers have been in the practice also of violating the rights and the peace of our coasts.").
+In fighting Britain, the administration and its allies hoped to pressure the crown into a more favorable settlement on these maritime issues. They also hoped to conquer Canada and shatter British influence in the parts of North America where it allied with Native tribes to harass American settlers and stymie American expansion.
+Those hopes crashed into reality, however, as an untrained and inexperienced American militia flailed against British regulars. And as the summer wore on, bringing him closer and closer to the next presidential election, Madison faced defeat abroad and division at home. In New England especially, his Federalist opponents used their hold on local and state offices to obstruct the war effort.
+"In Hartford," writes the historian Donald Hickey in "The War of 1812: A Forgotten Conflict," "Federalists sought to end loud demonstrations by army recruiters by adopting a pair of city ordinances that restricted public music and parades." In Boston, "the Massachusetts legislature threatened to sequester federal tax money if militia arms due to the state under an 1808 law were not delivered."
+Fearing defeat in the presidential race as a result of this anger and discontent over the war, Republicans did everything they could to secure Madison's victory. The historian Alexander Keyssar details these shenanigans in the book "Why Do We Still Have the Electoral College?" He notes:
+In North Carolina, which had utilized a district system since 1796, the legislature announced that it would choose electors by itself: its majority feared that Madison might lose the state to DeWitt Clinton, who ran with the support of both Federalists and dissident Republicans.
+On the other side, "the Federalist legislature in New Jersey announced, just days before the election, that it was canceling the scheduled balloting and appointing electors of its own." And in Massachusetts, the Republican-led senate and Federalist-led lower house could not agree on a method for choosing electors. "In the end," notes Keyssar, "an extra legislative session had to be convened to save the state from losing its electoral votes altogether."
+Madison was re-elected, but according to Keyssar, the attempt on both sides to manipulate the outcome "ignited firestorms of protest and recrimination." A number of lawmakers would try, in the immediate aftermath and the years that followed, to amend the Constitution to end legislative selection of electors and mandate district-based elections for the Electoral College.
+District elections, according to one supportive congressman, were best because they fit the "maxim that all legitimate power is derived from the people" and because they would reduce the chance that "a man may be elected to the first office of the nation by a minority of votes of the people."
+This concern for democracy (or "popular government") was a big part of the case for reform. For Senator Mahlon Dickerson of New Jersey, allowing legislators to choose electors without giving voters a say was "the worst possible system" as it "usurped" power from the people and departed from "the spirit if not from the letter of the Constitution."
+Even at this early juncture in our nation's history, many Americans believed in democratic participation and sought to make the institutions of the Republic more receptive to the voice of the people. One supporter of district elections, Representative James Strudwick Smith of North Carolina, put it simply: "You will bring the election near to the people, and, consequently you will make them place more value on the elective franchise, which is all-important in a republican form of Government."
+There is a somewhat common view that the counter-majoritarianism of the American system is acceptable because the United States is a "Republic, not a democracy." That notion lurks behind the idea of the "independent state legislature," which would empower partisans to limit the right of the people to choose their leaders in a direct and democratic manner.
+But from the start, Americans have rejected the idea that their system is somehow opposed to more and greater democracy. When institutions seemed to subvert democratic practice, the voters and their representatives pushed back, demanding a government more responsive to their interests, desires and republican aspirations. It is not for nothing that the men who claimed Jefferson as their political and ideological forefather labeled their party "The Democracy."
+As Americans recognized then, and as they should recognize now, the Constitution is not a charter for states or state legislatures, it is a charter for people, for our rights and for our right to self-government.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Damon Winter/The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Electoral reform; Constitutions; Legislatures; Democracy
+
+Location: South Carolina; United States--US; New York; Massachusetts; United Kingdom--UK; New Jersey; North Carolina
+
+Company / organization: Name: Electoral College; NAICS: 921190; Name: Congress-US; NAICS: 921120
+
+URL: https://www.nytimes.com/2022/07/08/opinion/trump-democracy-states.html
+
+Title: Next Time, Trump Won't Need a Mob:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.9
+
+Publication year: 2022
+
+Publication date: Jul 10, 2022
+
+column: Jamelle Bouie
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary
+
+ProQuest document ID: 2687166855
+
+Document URL: https://www.proquest.com/newspapers/next-time-trump-wont-need-mob/docview/2687166855/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jul 10, 2022
+
+Last updated: 2024-08-28
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

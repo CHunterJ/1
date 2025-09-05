@@ -1,0 +1,88 @@
+Document 429 of 566
+
+Combating Disinformation Can Feel Like a Lost Cause. It Isn't.: [Op-Ed]: [Op-Ed]
+
+Author: Kang, Jay Caspian
+
+Publication info: Kang, Jay Caspian. 
+
+https://www.proquest.com/newspapers/combating-disinformation-can-feel-like-lost-cause/docview/2637128922/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Combating+Disinformation+Can+Feel+Like+a+Lost+Cause.+It+Isn%27t.%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Kang%2C+Jay+Caspian&amp;rft.aulast=Kang&amp;rft.aufirst=Jay&amp;rft.date=2022-03-09&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.18&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: A couple of weeks ago, I wrote about disinformation and how it has been used as a cudgel to dismiss and silence opinions that some people might not like. This doesn't mean that disinformation isn't a problem -- the speed with which unverified, mislabeled or outright false news came out of Ukraine was a grim reminder of this -- but it's become increasingly difficult to tell the difference between what's a purposeful attempt to mislead the public and what's being called disinformation because of a genuine difference of opinion.
+Plus, we really can't trust that technology can solve the trouble it creates. After the 2016 election, the tech giants attempted to fix the disinformation problem by placing labels on potentially harmful posts. This, in theory, isn't a bad idea if one can somehow corral and then sort every bit of online information. A 2020 study found that the filters for this sort of project could not catch all of the disinformation, which presented a problem: If you can identify only, say, 20 percent of the bad information and label it as such, what happens to the 80 percent? The researchers found that readers would be more likely to assume that the unlabeled disinformation was trustworthy.
+Given the difficulty of regulating every online post, especially in a country that protects most forms of speech, it seems far more prudent to focus most of our efforts on building an educated and resilient public that can spot and then ignore disinformation campaigns.
+An educational alternative
+Over the past five years, Finland has become one of the world's leaders in disinformation education. High school students there are given a series of political topics and asked to compile lists of stories and commentary from across the internet. They're then tasked with investigating the veracity of claims. In some schools, even elementary school students are given a "tool kit" that provides them with ways to spot dubious information online.
+Finland also ranks at the top of the Media Literacy Index, a metric developed by the Open Society Institute of Sofia that, according to the group's website, tries to gauge which countries have "the highest potential to withstand the negative impact of fake news and misinformation due to the quality of education, free media and high trust among people." But it's hard to know what rankings like this actually reflect. Four of the five highest-ranking countries -- Finland, Denmark, Sweden and Ireland -- are also among the 25 wealthiest countries when it comes to per capita G.D.P. So is a country's level of media literacy anything more than a measure of the wealth and the education of its population? How can we tell if a country's disinformation curriculum is the reason its population is relatively protected against online falsehoods?
+A potentially useful outlier is Estonia, a country that has roughly the population of San Diego. In 2010, after years of political turmoil and a wide-ranging series of cyberattacks, the government of Estonia decided to mandate media literacy education for all of its public school students. Elementary and middle school students are taught, for example, how online content is created and how statistics can be manipulated. In high school, lessons about social media, trolls, the difference between fact and opinion and criteria for good sources help students become more critical thinkers.
+All this seems promising, especially when you consider that Estonia, a relatively poor country, has media literacy rates that surpass those of much wealthier countries like Germany and Sweden. Perhaps misinformation education alone can make the difference for poorer countries or even countries with great wealth disparities, such as the United States. But would a solution in Estonia work in a country as different from it as America?
+The huge gap we need to close
+In my last newsletter about disinformation, I wrote about a study by the Stanford History Education Group that showed that American high school students were failing basic media literacy and disinformation-spotting tests. Today, I want to dive a bit deeper into the results, which were largely divided by class and race.
+Poorer students mostly did much worse than wealthy students. White, Asian and multiracial students, on average, scored up to three times as high as Black students when it came to evaluating evidence. Those disparities held for the most part throughout the study.
+Students who qualified for free or reduced lunch did about half as well at evaluating evidence as other students. Those whose mothers had an advanced degree fared far better than those whose mothers had not finished high school. Students who received mostly A's on their report cards scored higher than those who got mostly C's and D's.
+What all this suggests, then, is that America's disinformation problem isn't all that much different from pretty much every other educational problem in this country. The same class and race disparities exist in standardized testing, grade point average and even the quality of essays students write for college applications. They also show up in vaccination rates and in levels of mistrust of public health officials. We live in a country where profound inequality affects nearly every part of a person's life. Why would we expect disinformation resistance to be any different?
+Lessons that work
+So how do we create a more disinformation-resistant public in a country with such rampant inequality?
+As of last year, there were 14 states that offered some form of mandatory media literacy education, but there's a lot of variation in what "media literacy" means. Florida, Utah and Texas are seen as leaders in media literacy education, but it's difficult to gauge how effective their programs are. Bad information morphs so quickly from, say, an erroneous and dubiously sourced article into a social media post to even a newsletter that lands in your inbox. Given the fact that disinformation is such a moving target, it's possible that any lesson about it may be out of date before it can land on a student's desk.
+Joel Breakstone, the director of the Stanford History Education Group, believes that there needs to be more attention paid to what, exactly, is taught in these media literacy programs. Frequently used lessons like the memorably named Currency Reliability Authority Purpose (CRAP) test ask students to put their information through a gantlet of questions. But Breakstone believes they do not really work for a variety of reasons, the most salient being that most people don't really know how to check sources and the reliability of information.
+What he and his group suggest, instead, is a more comprehensive approach that teaches kids how to assess not only the reliability of the specific information they've found online but also who published it and for what purpose. In doing this, students are looking at the whole ecosystem in which the information resides, which improves their ability to question things that may seem to come from sources that look reputable enough. When Dr. Breakstone and his group incorporated these lessons into a 12th-grade civics course, they found almost immediate improvement in the students' ability to think critically about that information.
+These efforts won't magically increase the vaccination rate in America or keep your uncle from taking on some very strange beliefs, but they seem to be the only viable solution to a problem that looks designed to exploit the American traditions of inequality and mistrust.
+Have feedback? Send a note to kang-newsletter@nytimes.com.
+Jay Caspian Kang (@jaycaspiankang), a writer for Opinion and The New York Times Magazine, is the author of "The Loneliest Americans."
+(PHOTOGRAPH BY Alberto Miranda FOR THE NEW YORK TIMES)
+
+ERIC Subject: Literacy Education; High School Students; Elementary School Students; Standardized Tests; Media Literacy; History Instruction
+
+Subject: Media literacy; False information; Inequality; Immunization; Secondary schools; Secondary school students; Newsletters; Social networks
+
+Business indexing term: Subject: Social networks
+
+Location: Sweden; Estonia; Finland
+
+URL: https://www.nytimes.com/2022/03/07/opinion/fighting-disinformation-education.html
+
+Title: Combating Disinformation Can Feel Like a Lost Cause. It Isn't.: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.18
+
+Publication year: 2022
+
+Publication date: Mar 9, 2022
+
+column: Jay Caspian Kang
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary, Opinions
+
+ProQuest document ID: 2637128922
+
+Document URL: https://www.proquest.com/newspapers/combating-disinformation-can-feel-like-lost-cause/docview/2637128922/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Mar 9, 2022
+
+Last updated: 2024-07-15
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

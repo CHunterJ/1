@@ -1,0 +1,88 @@
+Document 564 of 566
+
+Inflation Isn't Just One Number: [Op-Ed]: [Op-Ed]
+
+Author: Goolsbee, Austan
+
+Publication info: Goolsbee, Austan. 
+
+https://www.proquest.com/newspapers/inflation-isnt-just-one-number-op-ed/docview/2615549666/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Inflation+Isn%27t+Just+One+Number%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Goolsbee%2C+Austan&amp;rft.aulast=Goolsbee&amp;rft.aufirst=Austan&amp;rft.date=2022-01-01&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.18&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: With inflation growing at its fastest rate in decades, economists are locked in a debate over whether it stems from too much stimulus or from temporary, pandemic-induced supply-chain pressures. Less discussed are the ways that the pain of inflation may not be shared equally.
+Prices have soared for physical products but have risen only modestly for services. The cost of gasoline is up 58 percent in the last year, while health insurance prices have fallen almost 4 percent. Meat prices are up 13 percent, dairy 1.6 percent. Boys' apparel is up 8.4 percent, while girls' apparel is down 0.4 percent.
+Differences like that mean that the inflation rate a person faces depends on what that person buys and where he or she lives and shops. People who live in more rural states, for example, most likely drive significantly more miles per year -- so fuel inflation would matter a great deal to them.
+The federal government breaks out detailed information on the growth of personal income for different groups and has the data to do the same with inflation rates, but it doesn't. Without that information, there is no way to assess accurately how various groups are doing in what economists call the real sense -- that is, whether their wages are growing faster than prices.
+Understanding inflation's unequal impact across income groups could have far-reaching implications for policymaking. It would be likely to animate those who advocate a stronger social safety net about the real situation facing the poor. It could also affect the concerns around inflation voiced by Republicans and centrist Democrats like Senator Joe Manchin of West Virginia, a state racked by poverty.
+For all the talk about income inequality, we need a matching discussion about inflation inequality.
+The pain associated with inflation may be the most acute for those at the bottom. From mid-2019 to early 2020, the Consumer Expenditure Survey, the government's primary data source on how consumers spend money, showed that those in the highest 20 percent of earnings spent, on average, less than two-thirds of their annual income. Households among the lowest 40 percent of earners actually spent more than their annual income, meaning they are most likely dipping into savings or taking out loans (although inflation can reduce the burden of debt for borrowers). Even at the same inflation rate, rising prices pinch spenders more.
+Online shopping is also surely exacerbating inflation inequality. Before the Covid pandemic, I helped Adobe Analytics create a measure of online inflation analogous to the government's Consumer Price Index (C.P.I.). Using anonymized data from Adobe's marketing analytics division, we examined more than one trillion online transactions made between 2014 and 2017. We found annual online price inflation averaged almost 1.5 percentage points lower than the equivalent C.P.I.
+Over the past 12 months, that gap has likely widened. Adobe's latest release found online prices over that interval to be 3.5 percent higher -- more than three full percentage points below the headline inflation rate of 6.8 percent. In November, online prices fell 0.2 percent as the C.P.I. rose 0.8 percent.
+In other words: The more someone shops online rather than in stores, the less inflation the individual has faced. Notably, shopping online is far more common among high-income people. And during the pandemic the practice has grown more prevalent. Digital Commerce 360, a research company, estimates that three-quarters of the growth in the retail business in the United States in 2020 came from e-commerce.
+In recent years, prominent economists from Harvard Business School, the University of Chicago, the Federal Reserve Bank of Chicago and the London School of Economics conducted studies with industry data on consumer shopping to compute personal inflation rates. They each found that lower-income earners may face higher inflation rates than top earners do.
+Yet the federal government does not release data showing how rising prices affect Americans across different income brackets. Without it, we may have a distorted picture of the economy. And with data the government already collects, it wouldn't be hard to do.
+The Bureau of Labor Statistics already publishes the monthly C.P.I., which includes data on prices broken out by product. The agency also keeps data on consumer expenditures and spending locations. The Biden administration could ask the agency to compile distribution tables for inflation similar to what one might see for unemployment or taxes.
+These tables would measure how much prices rose for people at different levels of the income distribution. The Bureau of Labor Statistics has done similar things: It measures inflation rates in different metro areas and even developed an experimental series on how inflation affects those age 62 and above.
+If the government released these tables regularly, it could influence key policy discussions, especially those relating to lower-income people. The federal poverty level, for example, determines eligibility for major components of the safety net like Medicaid, food stamps and school lunch subsidies.
+Based on the national C.P.I., the government updates the poverty threshold each year to account for inflation. Columbia's Center on Poverty and Social Policy has found that using a higher inflation rate that better reflected the consumer experience of low-income earners would have added more than three million people to the poverty rolls, an adjustment with major ramifications for domestic policy.
+To put it plainly: An honest inflation inequality discussion would paint a clearer picture of how price increases actually impact broad swaths of America. As currently used, nationwide measures of inflation like the C.P.I. provide a distorted benchmark for the state of the economy.
+Documenting the degree of inflation inequality could also affect decision making at the Federal Reserve. When Jay Powell, the Fed chair, unveiled the central bank's policy framework in 2020, he emphasized that when setting rates, the Fed would follow the health of different parts of the labor market -- especially lower-income workers -- rather than just national averages. Our public discussions around labor markets have centered only on wage and employment growth differences across groups and not inflation because that's what the government reports.
+It's always possible that economists are wrong to worry about inflation inequality. The data may show the cost of living rising at about the same rate for everyone. If it does show differences, measures of inflation inequality are likely to become weapons in the partisan battles over the economy in the same way other data has.
+But people understand that their economic situation is based on whether their income grows faster than their cost of living. Both of those vary across American society. It's time for the government data to reflect that.
+Austan Goolsbee (@Austan_Goolsbee) is a professor of economics at the University of Chicago Booth School of Business and was chairman of the Council of Economic Advisers from 2010 to 2011.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY ELAINE THOMPSON/ASSOCIATED PRESS)
+
+Subject: Poverty; Cost of living; Price increases; Pandemics; Income distribution; Shopping; Electronic commerce; Inflation; Central banks; Consumer Price Index; Inequality; Economists; Cost control; Labor market
+
+Business indexing term: Subject: Cost of living Price increases Income distribution Electronic commerce Inflation Central banks Consumer Price Index Economists Cost control Labor market
+
+Company / organization: Name: Bureau of Labor Statistics; NAICS: 921110, 923110; Name: University of Chicago; NAICS: 611310
+
+URL: https://www.nytimes.com/2021/12/30/opinion/inflation-economy-biden-inequality.html
+
+Title: Inflation Isn't Just One Number: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.18
+
+Publication year: 2022
+
+Publication date: Jan 1, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2615549666
+
+Document URL: https://www.proquest.com/newspapers/inflation-isnt-just-one-number-op-ed/docview/2615549666/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jan 1, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

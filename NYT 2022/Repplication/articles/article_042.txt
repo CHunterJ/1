@@ -1,0 +1,86 @@
+Document 42 of 566
+
+Blockchains: What Are They Good For?: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/blockchains-what-are-they-good-op-ed/docview/2743875368/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Blockchains%3A+What+Are+They+Good+For%3F%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-12-02&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.23&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: A year ago Bitcoin and other cryptocurrencies were selling at record prices, with a combined market value of around $ 3 trillion; glossy ads featuring celebrities -- most infamously Matt Damon's "Fortune Favors the Brave" -- filled the airwaves. Politicians, including, alas, the mayor of New York, raced to align themselves with what seemed to be the coming thing. Skeptics like yours truly were told that we just didn't get it.
+Since then the prices of crypto assets have plunged, while a growing number of crypto institutions have collapsed amid allegations of scandal. The implosion of FTX, which appears to have used depositors' money in an attempt to prop up a related trading firm, has made the most headlines, but it's only one entry on a growing list.
+We are, many people say, going through a "crypto winter." But that may understate the case. This is looking more and more like Fimbulwinter, the endless winter that, in Norse mythology, precedes the end of the world -- in this case the crypto world, not just cryptocurrencies but the whole idea of organizing economic life around the famous "blockchain."
+And the real question, it seems to me, is why so many people -- not just naïve small investors, but also major financial and business players -- bought into the belief that this bad idea was the wave of the future.
+A blockchain is a digital ledger associated with an asset, recording the history of transactions in that asset -- who bought it from whom and so on. The asset could be a digital token like a Bitcoin, but it could also be a stock or even a physical thing like a shipping container. Ledgers, of course, are nothing new. What's distinctive about blockchains is that the ledgers are supposed to be decentralized: They aren't sitting on the computers of a single bank or other company; they're in the public domain, sustained by protocols that induce many people to maintain records on many servers.
+These protocols are, everyone tells me, extremely clever. I'll take their word for it. The question I've never heard or seen satisfactorily answered, however, is, "What's the point?" Why go to the trouble and expense of maintaining a ledger in many places, and basically carrying that ledger around every time a transaction takes place?
+The original rationale for Bitcoin was that it would do away with the need for trust -- you wouldn't have to worry about banks making off with your money, or governments inflating away its value. In reality, however, banks rarely steal their customers' assets, while crypto institutions more easily succumb to the temptation, and extreme inflation that destroys money's value generally happens only amid political chaos.
+Still, there was an alternative, more modest justification for using blockchain technology, if not necessarily for cryptocurrencies: It was supposed to offer a lower-cost, more secure way to keep track of transactions and stuff in general.
+But that dream appears to be dying, too.
+Amid all the sound and fury over FTX, I'm not sure how many people have noticed that the few institutions that seriously tried to make use of blockchains seem to be giving up.
+Five years ago, it was supposed to be a big deal -- a sign of mainstream acceptance -- when Australia's stock exchange announced that it was planning to use a blockchain platform to clear and settle trades. Two weeks ago, it quietly canceled the plan, writing off $ 168 million in losses.
+Maersk, the shipping giant, has also announced that it is winding down its efforts to use a blockchain to manage supply chains.
+A recent blog by Tim Bray, who used to work for Amazon Web Services, tells us why Amazon chose not to implement a blockchain of its own: It couldn't get a straight answer to the question, "What useful thing does it do?"
+So how did this enterprise, which never stood up to scrutiny, become such a big deal?
+It was probably a combination of factors. Political ideology played a role: Not all crypto enthusiasts were right wingers, but distrust of banks -- we all know who runs them -- and government-managed money provided a hard core of support.
+The romance of high tech also played a role, with the very incomprehensibility of crypto discourse acting, for a while, as a selling point. And then, as prices soared, fear of missing out -- plus large outlays on marketing and political influence-buying -- brought many others into the bubble.
+It's an amazing story, and also a tragedy. It's not just the small investors who have lost much if not all of their life savings. The crypto bubble has had huge costs to society as a whole. Bitcoin mining alone uses as much energy as many countries; I've been trying to estimate the value of the resources consumed in producing fundamentally worthless tokens, and it's probably in the tens of billions of dollars, not counting the environmental damage.
+Add in the costs associated with other tokens and the resources burned up in abortive efforts to apply a blockchain approach to everything, and we're probably talking about waste on an epic scale.
+No doubt I'll hear from many people still insisting that I don't get it. But it really looks as if there never was an it to get.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+This article appeared in print on page A23.
+
+Subject: Digital currencies; Blockchain; Cost control
+
+Business indexing term: Subject: Digital currencies Blockchain Cost control
+
+Location: New York; United States--US
+
+URL: https://www.nytimes.com/2022/12/01/opinion/blockchains-what-are-they-good-for.html
+
+Title: Blockchains: What Are They Good For?:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.23
+
+Publication year: 2022
+
+Publication date: Dec 2, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2743875368
+
+Document URL: https://www.proquest.com/newspapers/blockchains-what-are-they-good/docview/2743875368/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Dec 2, 2022
+
+Last updated: 2022-12-22
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

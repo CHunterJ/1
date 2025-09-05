@@ -1,0 +1,85 @@
+Document 518 of 566
+
+Guns, Germs, Bitcoin and the Antisocial Right: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/guns-germs-bitcoin-antisocial-right-op-ed/docview/2624070425/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Guns%2C+Germs%2C+Bitcoin+and+the+Antisocial+Right%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-02-01&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.20&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: In February 2021 a deep freeze caused widespread power outages in Texas, leaving about 10 million Texans without electricity, in many cases for days. Hundreds died.
+The biggest proximate cause of the crisis was disrupted production of natural gas, the state's most important power source. After a 2011 freeze, federal regulators had urged Texas to require winterization of gas and electricity facilities. But it didn't.
+And for the most part it still hasn't: So far, no winterization requirements have been placed on the politically powerful gas sector. Instead, Gov. Greg Abbott is hoping to secure the power grid by encouraging ... Bitcoin mining. This would supposedly reduce the risk of outages because Bitcoin's huge electricity consumption would eventually expand the state's generation capacity.
+Yes, that's as crazy as it sounds. But it fits a pattern. When confronted with problems that could easily be alleviated through cooperative action, the radical right-wingers who have taken over the Republican Party often turn instead to bizarre nonsolutions that appeal to their antisocial ideology. I'll explain why I use that word in a minute.
+First, let's talk about the most obvious current example: Covid policy. In Florida, Gov. Ron DeSantis has tried to block just about every measure intended to limit the spread of the coronavirus; he and his officials have stopped just short of being explicitly anti-vaccine, but they have catered to the anti-vax fringe, with DeSantis even refusing to say whether he has received a booster shot.
+They have, however, gone all in on antibody treatments that are far more expensive than vaccines, with DeSantis demanding that the Food and Drug Administration allow use of antibodies that, the F.D.A. has found, don't work against Omicron.
+Why support expensive, ineffective treatments while opposing measures that would help prevent severe illness in the first place? Well, consider a parallel that may not be immediately obvious but is actually quite close: school shootings.
+Among major advanced nations, such shootings are an almost uniquely U.S. phenomenon. And while there may be multiple reasons America leads the world in massacres of schoolkids, we could surely mitigate the horror with common-sense measures like restrictions on gun sales, required background checks and a ban on privately owned assault weapons.
+But no. Republicans want to expand access to guns and, in many states, protect students by arming schoolteachers.
+What do these examples have in common? As Thomas Hobbes could have told you, human beings can only flourish, can only avoid a state of nature in which lives are "nasty, brutish and short," if they participate in a "commonwealth" -- a society in which government takes on much of the responsibility for making life secure. Thus, we have law enforcement precisely so individuals don't have to go around armed to protect themselves against other people's violence.
+Public health policy, if you think about it, reflects the same principle. Individuals can and should take responsibility for their own health, when they can; but the nature of infectious disease means that there is an essential role for collective action, whether it is public investment in clean water supplies or, yes, mask and vaccine mandates during a pandemic.
+And you don't have to be a socialist to recognize the need for regulation to maintain the reliability of essential aspects of the economy like electricity supply and the monetary system.
+Which is why I'm calling the modern American right antisocial -- because its members reject any policy that relies on social cooperation, and they want us to return instead to Hobbes's dystopian state of nature. We won't try to keep guns out of the hands of potential mass murderers; instead, we'll rely on teacher-vigilantes to gun them down once the shooting has already started. We won't try to limit the spread of infectious diseases; instead, we'll tell people to take drugs that are expensive, ineffective or both after they've already gotten sick.
+What about Bitcoin? I don't think it's even worth trying to make sense of Abbott's tortured logic, why he imagines that promoting an environmentally destructive, energy-hogging industry will somehow make his state's electricity supply more reliable. (An energy grid overloaded by crypto mining helped set off the recent crisis in Kazakhstan.)
+A better question is why Republicans have become fanatics about cryptocurrency, to the extent that one Senate candidate has defined his position as being "pro-God, pro-family, pro-Bitcoin." The answer, I'd argue, is that Bitcoin plays into a fantasy of self-sufficient individualism, of protecting your family with your personal AR-15, treating your Covid with an anti-parasite drug or urine and managing your financial affairs with privately created money, untainted by institutions like governments or banks.
+In the end, none of this will work. Government exists for a reason. But the right's constant attacks on essential government functions will take a toll, making all of our lives nastier, more brutish and shorter.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Rebecca Blackwell/Associated Press FOR THE NEW YORK TIMES)
+
+Subject: Infectious diseases; Digital currencies; Blackouts; Electricity; Electricity distribution; Conservatism; COVID-19 vaccines; Electric power; Public health; Health care policy
+
+Business indexing term: Subject: Digital currencies
+
+Location: United States--US
+
+Company / organization: Name: Republican Party; NAICS: 813940
+
+URL: https://www.nytimes.com/2022/01/31/opinion/republican-misinformation-coronavirus.html
+
+Title: Guns, Germs, Bitcoin and the Antisocial Right: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.20
+
+Publication year: 2022
+
+Publication date: Feb 1, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2624070425
+
+Document URL: https://www.proquest.com/newspapers/guns-germs-bitcoin-antisocial-right-op-ed/docview/2624070425/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Feb 1, 2022
+
+Last updated: 2022-02-01
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

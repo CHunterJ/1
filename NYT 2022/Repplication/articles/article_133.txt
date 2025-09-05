@@ -1,0 +1,86 @@
+Document 133 of 566
+
+A Tax to Help With Inflation: [Op-Ed]: [Op-Ed]
+
+Author: Klein, Ezra
+
+Publication info: Klein, Ezra. 
+
+https://www.proquest.com/newspapers/tax-help-with-inflation-op-ed/docview/2719961817/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=A+Tax+to+Help+With+Inflation%3A+%5BOp-Ed%5D&amp;rft.au=Klein%2C+Ezra&amp;rft.aulast=Klein&amp;rft.aufirst=Ezra&amp;rft.date=2022-10-02&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.3&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Inflation often begins as a mismatch of supply and demand. But if people get accustomed to prices rising, then inflation becomes about expectations. And so the task of ending it grows fuzzier: You need to use policy not just to manage the economy but also to alter psychology. The arid language of economics obscures the brutality this demands. You need to hit the economy hard enough to cow everyone who makes decisions within it.
+Because that's what prices are: decisions. Those decisions, even when mediated by algorithms, are made by people trying to predict the decisions other people will make. When people start to believe that other people are raising prices, they will raise prices. If they think other people are raising prices even faster, they will raise prices even faster than that. "One thing to recognize is inflation can be completely self-fulfilling," Emi Nakamura, an economist at the University of California at Berkeley, told me.
+How can you persuade people to expect differently? Ideally, you would do it by increasing supply. In 2021, cars and certain household appliances became scarce and prices rose. The instant production of far more cars and dishwashers would have dropped prices. We cannot deliver that kind of abundance swiftly: Workers are hard to retrain; factories are slow to build. There are limits to the people and resources and land we can deploy.
+What the Fed can do quickly is cut demand by raising interest rates. That, too, can change expectations: If businesses think their customers will have less money next year than they do this year, they will price more cautiously. But again, let's not mince words. The Fed drives down demand by making it harder to borrow money and harder to afford homes, and by throwing people out of work. "We have got to get inflation behind us," Jerome Powell, the chairman of the Federal Reserve, said in September. "I wish there were a painless way to do that; there isn't."
+In the late 1970s, Paul Volcker, who was then the chairman of the Federal Reserve, inaugurated the modern era of central banking by hiking interest rates high enough to break stagflation. But the cost was terrible. In August of 1979, when Volcker became chairman, unemployment was 6 percent. By December of 1982, it was 10.8 percent. He wanted to shock the economy into a new normal, and he did. Early in his tenure, when his rate hikes threw stock markets into chaos, he gave an interview to PBS. Asked about the market turmoil, he said, "I think the point may be that we captured their attention, we captured people's attention, and I think that's constructive in a sense."
+Volcker forced a recession so deep that the entire psychology of the American economy changed. Today he is celebrated for his steel. Powell invokes him as inspiration. In a speech at a Fed conference in Jackson Hole this summer, he mentioned Volcker twice and said, of the intended rate hikes, "we must keep at it until the job is done," presumably a reference to Volcker's memoir, "Keeping At It."
+Inflation is a scourge, but interest rates are a blunt tool. Adam Posen, the president of the Peterson Institute for International Economics and a former member of the Bank of England's Monetary Policy Committee, calls them a "sledgehammer," and he means it as a compliment. "When you've got rising trend inflation, the sledgehammer really is the right tool," he told me. "It's a blunt tool. It leaves a mess. There are human costs. But you're doing demo on people's expectations."
+But as Posen implies, interest rate hikes do demo on much else, too. They destroy not only demand but also supply. When people lose their jobs, they stop producing the goods and services the economy needs. When mortgage rates spike, developers build fewer houses, despite the fact that high housing costs are often caused by too few houses. When borrowing money becomes expensive, people stop borrowing it and cease to make the investments that create future productivity.
+"We're not trying to produce less," Betsey Stevenson, an economist at the University of Michigan, told me. "That's not what we want. The problem is it's very hard to hit the demand side without hitting companies hard enough that they cut back or go out of business."
+And the deepest pain falls, as it so often does, on the poor and the jobless. High interest rates can shift the decisions richer people make about spending. If it's a bad time to buy a house, even a multimillionaire might wait a few years. But higher interest rates won't change how much child care they buy or whether they upgrade their phones or how much they spend on clothes. And it's the spending of the better-off that drives the economy: In 2021, the top income quintile was responsible for almost 40 percent of total spending. The bottom income quintile accounted for less than 10 percent.
+It would be nice to have policies that could work alongside interest rates so adjustments could be less severe. It would be particularly nice to have a policy that targeted the rich rather than the poor and did so in a way that didn't hurt long-term investment. Such a policy exists.
+For years, Robert Frank, an economist at Cornell, has argued for a progressive consumption tax on the ground that it would discourage the rich from spending on luxuries and give them more reason to save and invest. The way it works is simple: Instead of reporting your income to the I.R.S. and being taxed on that, you report your income minus your savings, and you're taxed on that. That's a consumption tax: Your taxable income is what you spend, not what you save. Congress can make it progressive by adding a hefty standard deduction and applying a much higher tax rate to people making much more money, just as we do now.
+Frank wasn't writing in a time of high inflation, so his argument centered elsewhere: He considers much of the spending among the rich to be harmful, not just wasteful. Take wedding spending: The rich compete with one another to throw ever more lavish weddings. That competition cascades to the near rich, who want to appear rich and so increase their spending, too. The pressure then shifts to the next group down the income ladder and the next group and so on, until everyone is spending more on weddings because the frame of reference on how much they "should" spend on a wedding has changed. You can find similar dynamics in spending on everything from homes to schools to cars and jewelry.
+I've always liked Frank's argument, but now I'm more interested in another feature of the progressive consumption tax: the ability to dial it up and down to respond to different economic conditions. In a time of recession, we could drop taxes on new spending, giving the rich and poor alike more reason to spend. In times of inflation, we could raise taxes on new spending, particularly among the wealthy, giving them a concrete reason to cut back immediately and to save and invest more at the same time.
+Even better, we could make it automatic, as Posen suggested to me. Perhaps for every percentage point increase in unemployment above 5 percent, the tax rate would fall by three points, and for every percentage point increase in inflation above 3 percent, it would rise by four points. Other rules could apply for periods when unemployment and inflation moved together. The tax code would become responsive to the economy by default, rather than only through new acts of Congress.
+Are we likely to create a progressive consumption tax right now? Of course not. Congress isn't likely to do much of anything right now. But over the past two decades, we've seen a giant recession during which Congress passed far too little stimulus and now an inflationary crisis that Congress and the Federal Reserve were too slow to address. Maybe it's time to think about policies that move at the speed of economies and psychology rather than the pace of institutions.
+Additional research by Rollin Hu.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Yuvraj Khanna for The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Tax rates; Inflation; Interest rates; Unemployment
+
+Business indexing term: Subject: Tax rates Inflation Interest rates Unemployment
+
+Location: New York; United States--US
+
+Company / organization: Name: Congress; NAICS: 921120
+
+URL: https://www.nytimes.com/2022/10/01/opinion/inflation-consumption-tax-rich.html
+
+Title: A Tax to Help With Inflation:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.3
+
+Publication year: 2022
+
+Publication date: Oct 2, 2022
+
+column: Ezra Klein
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary
+
+ProQuest document ID: 2719961817
+
+Document URL: https://www.proquest.com/newspapers/tax-help-with-inflation/docview/2719961817/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Oct 2, 2022
+
+Last updated: 2022-10-14
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

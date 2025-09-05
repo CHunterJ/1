@@ -1,0 +1,80 @@
+Document 132 of 566
+
+Of Viruses, Houses and Zoom Calls: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/viruses-houses-zoom-calls-op-ed/docview/2719961833/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Of+Viruses%2C+Houses+and+Zoom+Calls%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-10-02&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.2&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: When you're telling stories about the economy, housing almost always looms large. It plays a huge role in the economy's ups and downs: A burst housing bubble was the prime mover in the Great Recession of 2007-9, and the Federal Reserve's leverage over the economy comes largely from the influence of interest rates on the housing market.
+When it comes to inflation, shelter accounts for 32 percent of the Consumer Price Index and 40 percent of core consumer prices that exclude volatile food and energy prices. Other measures that try to get at underlying inflation, like the median increase in prices, are basically tracking housing prices at this point.
+So the huge run-up in home prices and rents since the onset of the Covid pandemic is important. And I do mean huge. Home prices rose more than 40 percent from February 2020 to June 2022, although they may have recently peaked.
+At first glance, the pandemic housing price surge may seem reminiscent of the 2000s bubble. But this time really is different, in a couple of ways.
+What happened from 2000 to 2006 looked, even at the time, like pure speculative fever rather than a response to a real surge in housing demand. How could you tell? By the fact that the surge in home prices wasn't matched by a surge in rents:
+This time, however, rents have soared along with home prices. Official data, which measures how much renters are paying, on average, has lagged the rental rates on new leases, which are a better indicator of demand. Rental data is, however, available from a number of private sources like Realtor.com, Apartment List and Zillow. This data suggests that market rents have gone up around 25 percent since the beginning of the pandemic -- not quite as much as home prices but still a lot (although they seem to be plateauing):
+Another way in which the two house price surges differ is in their regional distribution. Soaring prices in the 2000s were generally limited to coastal metropolitan areas where zoning requirements and NIMBYism often made it hard to build more housing. Places like Dallas, where there are fewer restrictions, never saw as much of a price surge, probably because everyone understood that in the long run, prices would fall more or less to the cost of construction. This time, though, prices have soared everywhere:
+The most likely explanation is that this time there was, indeed, a big rise in the underlying demand for housing, not just speculation, and that this rise took place too fast for housing construction to keep up, even in places where building isn't overly restricted. (Supply-chain problems for construction materials didn't help, either.)
+So what happened? Like many people, I've speculated that the pandemic-induced rise in remote work led to a demand for more space at home. New research from economists at the San Francisco Fed supports this view. They found that remote work expanded most in locations where it was already relatively common and that home prices rose the most in these locations. ("Migration controls" refers to the Fed's attempt to measure this relationship with and without the separate, though not unrelated, movement of workers from place to place.)
+Crunching the numbers, they estimated that 60 percent of the increase in home prices was caused by the rise in remote work. This may seem like a lot, given that even now, only about 30 percent of work is taking place from home, but remote workers tend to have above-average incomes and presumably account for a disproportionate share of housing demand.
+I'd also speculate that the pandemic increased demand for space at home for reasons that go beyond remote working. For a while there, many of us couldn't go to restaurants and movie theaters, and that experience may have led to a lasting shift in preferences, say, toward streamed entertainment -- again, changes that may lead one to want more space.
+So what does all this mean? Well, there's good news and bad news.
+The good news is that one important source of recent inflation, especially high core inflation, may have reflected a one-time shift in people's housing preferences in response to the pandemic and the changes it wrought rather than an overheated economy in general. As I said, shelter prices -- which basically reflect rents, either actual apartment rents or estimates of what owner-occupied houses would rent for if they were on the market -- are a big component of core inflation. That effect now seems to be leveling off, which will help the Fed reduce inflation without imposing a severe recession.
+The bad news is that America's housing affordability crisis has gotten even worse. Rents will probably come down over time in places where housing construction isn't prevented by excessive regulation. (Sorry, this is one policy area where blue states generally get it wrong while many red states get it right.) But NIMBYism in places like California and, yes, New York will do even more damage in the remote-work era.
+The housing story, then, is that the pandemic changed the way we live and work -- or, more likely, brought forward changes that were going to happen eventually. This led people to want more space at home. And that's OK. What we need now is to let markets give people what they want, at a price more people can afford.
+(PHOTOGRAPH BY Illustration by The New York Times; images by Tom Werner and GCShutter, via Getty Images FOR THE NEW YORK TIMES)
+
+Subject: Housing; Inflation; Interest rates; Consumer Price Index; Price increases; Pandemics; Housing prices; Recessions
+
+Business indexing term: Subject: Inflation Interest rates Consumer Price Index Price increases Housing prices Recessions
+
+Location: New York; United States--US
+
+URL: https://www.nytimes.com/2022/09/30/opinion/remote-work-housing-prices-covid.html
+
+Title: Of Viruses, Houses and Zoom Calls:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.2
+
+Publication year: 2022
+
+Publication date: Oct 2, 2022
+
+column: Paul Krugman
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2719961833
+
+Document URL: https://www.proquest.com/newspapers/viruses-houses-zoom-calls/docview/2719961833/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Oct 2, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

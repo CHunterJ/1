@@ -1,0 +1,84 @@
+Document 154 of 566
+
+Wartime Economics Comes to Europe: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/wartime-economics-comes-europe-op-ed/docview/2711660296/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Wartime+Economics+Comes+to+Europe%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-09-09&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.23&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: The West isn't exactly at war with Russia. However, it isn't exactly not at war, either. Western weapons have helped Ukraine to stall Russia's invasion and even to counterattack, while Western economic sanctions have clearly created serious problems for Russian industry.
+Russia has retaliated with a de facto embargo on exports of natural gas to Europe. This shows how Vladimir Putin actually thinks the war is going. After all, this will have huge long-run costs: Nobody will ever again consider Russia a reliable trading partner. But Putin appears willing to bear those costs in an attempt to bully the West into reducing its support for Ukraine -- which he wouldn't do if he were confident about the military situation.
+In any case, the embargo has raised the economic stakes. Six months ago, there was a lot of discussion about whether Europe could or should stop importing energy from Russia. Well, Russia has in effect made that decision on Europe's behalf.
+And Europe seems set to respond by doing what democracies always do when confronted with wartime inflation: imposing windfall profits taxes, price controls and (probably) rationing.
+Before I get there, let's note that for now, at least, we're talking about a specifically European problem. America is currently experiencing a sort of inflation holiday, largely thanks to falling gasoline prices, but also reflecting other factors, like plunging shipping costs.
+Europe, however, allowed itself to become highly dependent on gas piped in from Russia -- a flow that has now been largely cut off.
+It's important to understand the nature of the problem this cutoff poses. The physical scarcity of gas, while real, shouldn't be crippling; Europe currently has above normal amounts of gas in storage, and between conservation measures and alternative energy sources Europe should be able to get through the winter without freezing.
+The key problem instead is financial and, ultimately, social. European gas prices have soared, and as buyers turn to alternatives, prices of other energy sources, including nuclear, renewable energy and coal, have also soared.
+Textbook economics says that this is how things are supposed to work. Europe is facing a major energy shortfall; higher prices give everyone an incentive to alleviate that shortfall. Consumers will have an incentive to turn down their thermostats, improve their insulation and wear sweaters. Producers will have an incentive to maximize production and add capacity. Letting markets do their thing is the efficient policy.
+It is also grotesquely inequitable. Energy producers whose costs haven't risen will reap huge profits, while many families and some businesses will face financial ruin from gigantic energy bills. Lecturing the losers about the importance of incentives for efficiency isn't going to mollify them.
+There's also a macroeconomic risk. Europe still has powerful unions, and some of them will be in a position to demand wage increases to offset a soaring cost of living. The result could be a wage-price spiral that would be costly to unwind.
+So just letting energy prices rise isn't really an option.
+What about handing out lump-sum checks to compensate families for higher energy costs? On paper this may look like a good idea, since people would still have an incentive to limit energy consumption. In practice, though, different families, even if they have similar incomes, can have very different energy bills -- and people who happen to live in poorly insulated homes can't fix that problem on very short notice.
+So Europe seems set to do what, as I said, democracies always do when faced with wartime inflation: try to protect the public from very large price increases, and also try to prevent extremely high profits at a time of public distress.
+On Wednesday, Ursula von der Leyen, the president of the European Commission, issued a statement on energy calling for "a mandatory target for reducing electricity use" (i.e., rationing), a "cap on the revenues" of low-cost energy producers (i.e., price controls) and a "solidarity contribution" for fossil fuel producers (i.e., excess profits taxes). It's important to note that von der Leyen isn't a head of government and has very little direct power. But her proposed measures probably give a pretty good idea of where Europe is heading.
+Will it work? The details will, of course, be crucial. One hopeful sign is that Europe clearly isn't going to pull a Nixon and try to suppress inflation with controls even while juicing up the economy. On the contrary, these sorts of wartime controls will come at the same time the European Central Bank is sharply tightening monetary policy, at considerable risk of causing a recession.
+We'll see how it plays out. But we're getting a real-time lesson in the realities of economic policy. You can't -- indeed, shouldn't -- always let markets rip. It would be a bad thing if the emergency controls Europe appears about to impose were to become permanent. But right now protecting families and preserving a sense of fairness have to take priority over textbook market efficiency.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+In order to save energy in Germany, buildings and monuments lit for aesthetic purposes will no longer be illuminated at night. (PHOTOGRAPH BY Lukas Barth/Reuters FOR THE NEW YORK TIMES)
+
+Subject: Gasoline prices; Inflation; Alternative energy sources; Energy resources; Costs; Wage & price controls; Windfall profits
+
+Business indexing term: Subject: Gasoline prices Inflation Costs Wage & price controls Windfall profits
+
+Location: Russia; Ukraine; Europe
+
+URL: https://www.nytimes.com/2022/09/08/opinion/europe-russia-energy.html
+
+Title: Wartime Economics Comes to Europe:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.23
+
+Publication year: 2022
+
+Publication date: Sep 9, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2711660296
+
+Document URL: https://www.proquest.com/newspapers/wartime-economics-comes-europe/docview/2711660296/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Sep 9, 2022
+
+Last updated: 2022-09-22
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

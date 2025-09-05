@@ -1,0 +1,83 @@
+Document 390 of 566
+
+The G.O.P. Failed the Unvaccinated: [Op-Ed]: [Op-Ed]
+
+Author: Douthat, Ross
+
+Publication info: Douthat, Ross. 
+
+https://www.proquest.com/newspapers/g-o-p-failed-unvaccinated-op-ed/docview/2647524927/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+G.O.P.+Failed+the+Unvaccinated%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Douthat%2C+Ross&amp;rft.aulast=Douthat&amp;rft.aufirst=Ross&amp;rft.date=2022-04-07&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.26&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: Last fall, a group of researchers conducted a vaccine promotion experiment: They showed an advertisement to millions of U.S. YouTube users highlighting Donald Trump's support for Covid-19 vaccines, using news footage in which the former president urged people to get vaccinated. This was a randomized controlled trial, comparing counties that were exposed to the ads to counties that weren't, and in a new paper, the researchers claim the ads worked: Over the course of the two-and-a-half-week experiment, the 1,014 counties that were part of the campaign saw an estimated 104,036 additional vaccinations overall.
+Like all studies, these results should be handled with care, but they speak to a key question as the United States emerges -- hopefully -- from the worst of the Covid era but also nears one million deaths: How much more could have been done to combat vaccine hesitancy, and how much more could Republican vaccine hesitancy, especially, have been overcome?
+This question is sharpest for conservatives, and we'll get to the right's responsibility in a moment. But it's an important question for liberals, too, because a liberal administration has been governing the country throughout most of the vaccination era, and a heavily liberal public health establishment has been responsible for figuring out how to get through to the unvaccinated. Communicating through a polarized environment is a hard task, and some degree of failure was inevitable. But once it became clear that Republican vaccine resistance was going to be a problem, it felt as if the liberal authorities had only two responses: mandates and scolding, trying to force people to get shots and complaining about misinformation when they didn't.
+My view last summer was that more creative options were available, including simply paying wavering Americans to get vaccinated -- not the small sums or lottery tickets offered by some states and localities, but a sum more commensurate with the risks that healthy people felt they were taking with newly developed shots and the time that they might fear losing to any side effects.
+But the advertisement experiment, the apparent effectiveness of just highlighting Trump's pro-vaccine rhetoric to receptive audiences, is an example of a different kind of creativity. Republican vaccine skepticism was hardly monolithic: Most Republicans got the vaccines, many prominent conservatives -- politicians, Fox News figures, more -- urged people to take them, and plenty of figures on the right insisted they were pro-vaccine, anti-mandate. All this could have been material for more Republican-friendly and therefore more persuasive forms of advertisement and outreach than what the Biden administration, with its mandates-and-misinformation focus, ultimately delivered.
+Or so I tend to think. But in the end, it's Republicans themselves -- officeholders, media personalities, Trump -- who had the best opportunity to do outreach to their own vaccine-hesitant supporters, to cut the ads and hold the events and otherwise break down the more understandable and sincerely motivated forms of skepticism. And so it's within conservatism that the failure of the past year was the clearest.
+The best way to understand that failure is to connect it to the things that conservatives got right, or partly right, during the course of 2020 and 2021. In particular, as we look back over the pandemic era, the right-wing doubts about the various mitigation strategies -- mask mandates, school closures, lockdowns, social distancing -- now have a certain amount of data to support them.
+For instance, there was a lot of talk throughout 2020 about how quick-to-reopen red states were killing their residents while blue states were protecting them. But as my colleague David Leonhardt has pointed out, "by the end of Covid's first year in the U.S., the virus had swept across the country, and there was no significant partisan divide in deaths." More recently, as Omicron swept through the country, he noted that it was hard to discern a clear difference in infection rates between liberal and conservative counties, even though liberal areas were still implementing more mitigation measures. Or to step outside the United States: A study published last month in The Lancet looking at excess death rates worldwide in the Covid era found that two European countries often critiqued for being too lax relative to their neighbors, Sweden and the Britain, didn't have notably worse outcomes relative to their peers.
+These trends are suggestive; they don't mean that all nonpharmaceutical interventions were in vain. But they do imply that they were often oversold, their capital-S Scientific basis emphasized at the expense of reasonable doubts. Combine this reality with the manifest harms of some interventions, school shutdowns especially, and you get the fact pattern that made a figure like Ron DeSantis into a conservative folk hero for resisting many of these measures.
+But then out of that fact pattern, the right drew erroneous conclusions for the vaccine phase of the Covid era. The more sweepingly erroneous conclusion was the one drawn by outright anti-vaxxers -- which was that if public health authorities had exaggerated benefits and played down costs when promoting nonpharmaceutical interventions, you should assume that they were wildly exaggerating the benefits and hiding some even greater cost when promoting the vaccines.
+But even the conservatives who didn't go all the way to vaccine opposition often seemed to take vaccine uptake somewhat for granted, treating it as a purely individual decision and training most of their fire on the perils of the next round of public health overreach. Those perils existed, in blue America especially -- but the vaccines were so much more effective at preventing deaths than the most common nonpharmaceutical interventions, the stakes of their uptake so much higher, that a lot of conservative leaders ended up imbalanced, saving their enthusiasm for opposition to whatever the liberals were up to next, when what was needed first was just some over-the-top Republican enthusiasm for the vaccines.
+A figure like DeSantis exemplified this problem. He made a big initial push for vaccination in Florida, but he was clearly much more comfortable pushing back against mandates than he was being a permanent salesman for vaccines that part of his core constituency resisted. And this was a problem because he, precisely because of the credibility he'd built up resisting prior public health overreach, was the best possible salesman available in Florida -- and not only in Florida -- not named Donald Trump. The fact that he wasn't anti-vaxx was not enough: Precisely because red America was more resistant than blue America, it needed its leaders to be vaccine salespeople not only at the outset but through the Delta and Omicron waves as well.
+As with my sentiments about the Biden administration's failings, I can't prove to you that DeSantis didn't do enough selling or that the red-over-blue gap in Covid death rates that opened after vaccines arrived would have been narrower with more zeal and enthusiastic P.R. among officially pro-vaccine Republicans. Confounding factors remain, and everyone in these debates would benefit from one degree more humility.
+But a study that used clips of Trump to sell over 100,000 more Americans on vaccination fits, at least, with what I think we observed in 2021. A lot of vaccine resistance, and not just on the right, was more contingent and malleable than narratives about lock-step anti-vaxxers often suggested. And it could have been more amenable to old-fashioned persuasion, if only the right persuasion had been used.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTOpinion) and Instagram .
+(PHOTOGRAPH BY ELIJAH BAYLIS FOR THE NEW YORK TIMES)
+
+Subject: Public health; Conservatism; Political campaigns; False information; Experiments; Immunization; Political advertising; COVID-19; COVID-19 vaccines; Political parties
+
+Location: Florida; United States--US
+
+People: Trump, Donald J
+
+Company / organization: Name: Republican Party; NAICS: 813940
+
+URL: https://www.nytimes.com/2022/04/06/opinion/covid-vaccine-republicans.html
+
+Title: The G.O.P. Failed the Unvaccinated: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.26
+
+Publication year: 2022
+
+Publication date: Apr 7, 2022
+
+column: Ross Douthat
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2647524927
+
+Document URL: https://www.proquest.com/newspapers/g-o-p-failed-unvaccinated-op-ed/docview/2647524927/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Apr 7, 2022
+
+Last updated: 2022-04-15
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

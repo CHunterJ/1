@@ -1,0 +1,85 @@
+Document 509 of 566
+
+More Thoughts On America's Feel-Bad Boom: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/more-thoughts-on-americas-feel-bad-boom-op-ed/docview/2625163665/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=More+Thoughts+On+America%27s+Feel-Bad+Boom%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-02-04&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.21&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: By the numbers, 2021 was a boom year for the U.S. economy. Back in 2020 many forecasters expected a sluggish recovery, with unemployment staying high for years. Instead, unemployment has already come down almost to prepandemic levels, and a record percentage of Americans say that this is a good time to find a quality job.
+It's true that inflation has eroded the purchasing power of wages, but new estimates indicate that despite this, real income has gone up for most adults.
+Oh, and while the spread of Omicron may cause a bad month or two for jobs, rapidly falling cases in New York and elsewhere suggest that the good economic news will resume soon.
+Yet consumer sentiment has plunged: Americans' assessments of the economy are worse now, on average, than they were in the early months of the pandemic recession. Why?
+Regular readers know that I've been speculating about this issue for some time, wondering in particular why people say that the economy is bad even when they're fairly upbeat about their personal finances. At this point, however, I think I'm closing in on an answer.
+Poor assessments of the economy, I'd now argue, mainly reflect two things. First is a longstanding issue: People react more negatively to inflation than textbook economics would have predicted. Second is extreme partisanship, fed by right-wing media.
+About inflation: Consider two imaginary economies. In one, the typical family's income rises 2 percent a year, but consumer prices are rising at the same rate. In the other, inflation is running at 6 percent, but family incomes are rising 7 percent a year. Which economy is better?
+Economists would, I'm pretty sure, overwhelmingly vote for Economy No. 2, in which real incomes are going up. But the public might disagree: People are bothered by inflation, even when their own incomes are more than keeping up. Maybe that's because inflation conveys a sense that things are out of control.
+Whatever the psychology involved, inflation aversion is simply a fact of life. It was a Democratic economist, Arthur Okun, who first suggested evaluating the economic situation using the "misery index," the sum of unemployment and inflation. As an economic concept, this index doesn't make much sense: The costs of unemployment are huge and real, while the costs of inflation are subtle and surprisingly elusive. But the misery index works pretty well as a predictor of economic sentiment.
+And since U.S. inflation has risen a lot over the past year, it's not surprising that economic sentiment has declined despite falling unemployment.
+But my analysis of the data says that economic sentiment is considerably worse than you'd expect even given inflation; The Times's Nate Cohn, using a more elaborate model, finds the same thing. What's that about?
+The dispiriting persistence of Covid is one possible answer. But let's not ignore the elephant -- and I do mean elephant -- in the room: extreme right-wing partisanship.
+These days partisanship shapes almost everything in America. For example, you can't talk sensibly about lagging rates of Covid vaccination without acknowledging that Republicans are four times as likely as Democrats to be unvaccinated. And the partisan gap in perceptions of the economy has exploded in recent years.
+Let's not bothsides this. Yes, Democrats may have been reluctant to acknowledge good economic news under Donald Trump. But right-wing negativity right now is absurd, with Republicans assessing the current economy as worse than the economy in June 1980, when unemployment was almost twice as high and the inflation rate was 14 percent. My back-of-the-envelope calculations suggest that this craziness might explain a large part of the shortfall in consumer sentiment.
+But where's the craziness coming from? Even mainstream media have accentuated the negative; one liberal think tank analysis found that CNN and MSNBC devoted 50 percent more screen time in November to inflation than to all other economic developments combined.
+But Fox News has devoted almost three times as much screen time to inflation as CNN over the last two years, while among other things illustrating its reports with photos of empty shelves taken in other countries and other years. No wonder the G.O.P. base says that the economy is in terrible shape.
+What does this say about the future, in particular the political future? If and when inflation comes down, as forecasters, the bond market and even consumers expect it to do eventually, overall consumer sentiment should start to reflect the economy's real strength. But as we've seen, a substantial part of the electorate has economic perceptions quite far from reality; even if things improve, they probably won't hear about the good news or will be regaled with other negative stories.
+So Democrats will need more than an improving economy to survive the midterms. They'll need to get receptive voters to perceive that improvement, and then get enough of those voters to the polls to match the sizable minority determined to believe that Joe Biden's America is a Mad Max-type wasteland.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Doug Mills/The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Partisanship; Screen time
+
+Location: United States--US; New York
+
+Company / organization: Name: CNN; NAICS: 516210
+
+URL: https://www.nytimes.com/2022/02/03/opinion/inflation-consumer-confidence.html
+
+Title: More Thoughts On America's Feel-Bad Boom: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.21
+
+Publication year: 2022
+
+Publication date: Feb 4, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary
+
+ProQuest document ID: 2625163665
+
+Document URL: https://www.proquest.com/newspapers/more-thoughts-on-americas-feel-bad-boom-op-ed/docview/2625163665/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Feb 4, 2022
+
+Last updated: 2022-10-14
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

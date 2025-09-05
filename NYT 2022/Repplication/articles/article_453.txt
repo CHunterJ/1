@@ -1,0 +1,86 @@
+Document 453 of 566
+
+America Isn't Ready for the Cyberattacks That Are Coming: [Op-Ed]: [Op-Ed]
+
+Author: Gerstell, Glenn S
+
+Publication info: Gerstell, Glenn S. 
+
+https://www.proquest.com/newspapers/america-isnt-ready-cyberattacks-that-are-coming/docview/2635739479/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=America+Isn%27t+Ready+for+the+Cyberattacks+That+Are+Coming%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Gerstell%2C+Glenn+S&amp;rft.aulast=Gerstell&amp;rft.aufirst=Glenn&amp;rft.date=2022-03-05&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.21&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: As Russian missiles rain on Ukraine, there's another battle brewing -- in the cybersphere. Destructive malware has flooded hundreds of Ukrainian websites and computers since Vladimir Putin announced his invasion. It would be a mistake to assume such attacks will remain limited to Ukrainian targets.
+Last week President Biden warned Mr. Putin against Russian cyberattacks on the United States' critical infrastructure. But American businesses aren't ready for a war in cyberspace. Although Mr. Biden designated the Department of Homeland Security to lead what he vowed would be a forceful response to any such aggression, this isn't enough. The D.H.S. doesn't have the legal authority to order the private sector to follow its lead. More broadly, the federal government, even if warned by companies like Microsoft of incoming cyberattacks, doesn't have the necessary infrastructure in place to protect American businesses from many of these attacks.
+That the United States has to resort to threats of retaliation is itself a problem. America should already be cyberattack-proof, but coordinating these efforts across the country has been an uphill battle.
+As the former general counsel of the National Security Agency, I witnessed daily the scope and sophistication of such maliciousness from Russia, China, Iran and North Korea. All of them leverage the various sectors of power at their disposal -- including commercial and state-owned enterprises as well as spy agencies -- to come out against U.S. businesses and citizens in full force.
+Yet the United States lacks an organized response. The weekly reports of ransomware attacks and data breaches make it clear that we're losing this battle. That's why America's leaders must rethink the current cyberdefense system and rally around a centralized regulator to defend both citizens and the private sector against current and future attacks.
+The decentralized nature of the American government does not lend itself to fighting foreign cyberthreats. Government agencies handle cyberregulation and threats in the sectors they oversee -- an inefficient and ineffective way to address an issue that cuts across our entire economy. In just the past few months, the D.H.S.'s Transportation Security Agency announced new cybersecurity requirements for pipelines and railroads; the Federal Communications Commission put out its own proposal for telecommunication companies; the Securities and Exchange Commission voted on rules for investment advisers and funds; and the Federal Trade Commission threatened to legally pursue companies that fail to fix a newly detected software vulnerability found in many business applications. And on Capitol Hill, there are approximately 80 committees and subcommittees that claim jurisdiction over various aspects of cyberregulation.
+These scattered efforts are unlikely to reduce, let alone stop, cybercrime.
+Echoing a number of expert studies, our first national cyber director says that the United States needs a fresh approach that "meaningfully alters the relationship between public and private sectors." But social and bureaucratic inertia, industry resistance and partisan divisions have stood in the way of centralizing cyberdefense efforts and regulations. At a recent congressional hearing, several industry representatives and Republican members of Congress objected to stricter requirements for notification of breaches. It's time to move past partisanship and standard objections to regulation.
+From a private-sector perspective, the case for a centralized effort makes sense as well. Almost every industry runs its computers on one of three operating systems: Windows, macOS and Linux. In many cases, they also use the same business software -- a defense contractor's payroll system isn't much different from a pharmacy's. That means vulnerabilities are similar across industries, and will therefore require similar solutions. A centralized government response center, then, makes sense. Getting information about hacks and vulnerabilities flowing quickly and effectively between the government and the private sector -- as a central agency would -- is essential to stopping cyberattacks before they spread too far. And such an agency would help standardize security products and services, which in turn would reduce the overall burden on businesses by lowering costs.
+The overarching goal for a central cyberregulator would be to have standards uniformly applied, yet specifically tailored where necessary to the needs of a particular sector. I'm not envisioning a rigid one-size-fits-all policy, but it should be possible to design cross-industry regulation effective enough to safeguard the public without crimping innovation.
+A number of other industrialized democracies are already adopting a centralized approach: With its recent Network and Information Security Directive, the European Union is now proposing uniform cybersecurity standards across industries and its 27 member nations. True, Americans tend to be more wary of regulation than Europeans are. But some of America's closest allies -- Britain, Canada and Australia -- have also moved to consolidate their cybersecurity functions into one agency that works with the private sector, while retaining specialized functions for intelligence collection and law enforcement.
+These moves shouldn't be dismissed. While it is too early to fully assess the success of these new consolidating measures, the United States is clearly behind the curve: Britain has just adopted its second multiyear national cyberstrategy, while the United States struggles to come up with its first.
+Blueprints already exist that could guide the creation of a central cyberregulator. The S.E.C. worked with investment banks and stock exchanges in its early years to fashion an entirely new disclosure framework for public companies in every industry. As a result, a public company's prompt disclosure of market-moving news (good or bad) is now taken for granted -- just as insider trading and covering up corporate developments were routine practices in the days before the securities laws.
+Last month, the Environmental Protection Agency and its federal partners urged the nation's 52,000 private and municipal water supply systems to bolster defenses against a potential Russian cyberattack that could disrupt or contaminate our drinking water. A central regulator would greatly simplify this process. It could ensure that the managers of each water system were fully aware of the critical details of a possible Russian attack. It could immediately disseminate critical information regarding the attack. And it could educate potential victims on how to minimize the spread of the attack.
+None of this will be easy or put in place quickly. The Cyberspace Solarium Commission, established in 2019 to develop a bipartisan consensus on a strategic approach to defending the United States in cyberspace, recently reported that even some of its less extensive recommendations might require a "future emergency" to "create the political impetus needed to overcome existing barriers."
+Russia's war on Ukraine might be that "future emergency." If we don't want to have to worry about Russian hackers contaminating our drinking water every time we turn on the faucet, now is the time to rethink our approach.
+Glenn S. Gerstell is a senior adviser at the Center for Strategic and International Studies focused on technology and national security. He served as the general counsel of the National Security Agency and Central Security Service from 2015 to 2020.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY KIM STEELE FOR THE NEW YORK TIMES)
+
+Subject: National security; Reporting requirements; Private sector; Malware; Drinking water; Partisanship; Regulation of financial institutions; Security services; Cybercrime; Cybersecurity
+
+Business indexing term: Subject: Reporting requirements Private sector Regulation of financial institutions Security services
+
+Location: Russia; United States--US; United Kingdom--UK; Ukraine
+
+Company / organization: Name: National Security Agency; NAICS: 928110
+
+URL: https://www.nytimes.com/2022/03/04/opinion/ive-dealt-with-foreign-cyberattacks-america-isnt-ready-for-whats-coming.html
+
+Title: America Isn't Ready for the Cyberattacks That Are Coming: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.21
+
+Publication year: 2022
+
+Publication date: Mar 5, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2635739479
+
+Document URL: https://www.proquest.com/newspapers/america-isnt-ready-cyberattacks-that-are-coming/docview/2635739479/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Mar 5, 2022
+
+Last updated: 2024-06-26
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

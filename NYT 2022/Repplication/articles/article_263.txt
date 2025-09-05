@@ -1,0 +1,90 @@
+Document 263 of 566
+
+The Court Is Not the Final Word: [Op-Ed]: [Op-Ed]
+
+Author: Bouie, Jamelle
+
+Publication info: Bouie, Jamelle. 
+
+https://www.proquest.com/newspapers/court-is-not-final-word-op-ed/docview/2683548076/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Court+Is+Not+the+Final+Word%3A+%5BOp-Ed%5D&amp;rft.au=Bouie%2C+Jamelle&amp;rft.aulast=Bouie&amp;rft.aufirst=Jamelle&amp;rft.date=2022-07-03&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.11&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: The U.S. Constitution contains several idle provisions: words, phrases and clauses that have little to no bearing on our constitutional order as it currently exists.
+Let's start here: Article 3 of the Constitution gives the Supreme Court "original jurisdiction" in all cases affecting "Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party." That part is obviously in effect, although most cases involving states occur in the lower federal courts established by Congress. The Constitution then states that in all other cases, "the Supreme Court shall have appellate jurisdiction." This, too, is in full effect.
+But then the Constitution tells us that the court's appellate jurisdiction is subject to "such Exceptions" and "under such Regulations" as "the Congress shall make."
+This is where it gets interesting. The court's appellate jurisdiction accounts for virtually everything it touches. And the Constitution says that Congress can regulate the nature of that jurisdiction. Congress can strip the court of its ability to hear certain cases, or it can mandate new rules for how the court decides cases where it has appellate jurisdiction. And as I recently mentioned, it can even tell the court that it needs a supermajority of justices to declare a federal law or previous decision unconstitutional.
+There are real questions about the scope of congressional power to regulate the Supreme Court. If Congress has complete control over the court's appellate jurisdiction, then there are no real limits as to what it could do to shape and structure the court, threatening the separation of powers. As James Madison said with regard to the Bank Bill of 1791, "An interpretation that destroys the very characteristic of the government cannot be just."
+But this is nearly a moot point. The modern Congress has largely relinquished its power to regulate and structure the court. The final clause of Article 3, Section 2 is not quite a dead letter, but it is close.
+What is a dead letter (and which I've also written about before) is the Guarantee Clause of the Constitution, which states that
+The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
+The reason for the clause is straightforward. "The more intimate the nature of such a Union may be," Madison wrote in Federalist No. 43, "the greater interest have the members in the political institutions of each other; and the greater right to insist that the forms of government under which the compact was entered into, should be substantially maintained."
+But neither Congress nor the courts have ever said, with any precision, what it means for the United States to guarantee to every state a "republican form of government." The most we have is Justice John Marshall Harlan's famous dissent in Plessy v. Ferguson, in which he condemns "sinister legislation" passed to "interfere with the full enjoyment of the blessings of freedom, to regulate civil rights, common to all citizens, upon the basis of race, and to place in a condition of legal inferiority a large body of American citizens, now constituting a part of the political community."
+This, he writes, "is inconsistent with the guarantee given by the Constitution to each State of a republican form of government, and may be stricken down by congressional action, or by the courts in the discharge of their solemn duty to maintain the supreme law of the land."
+A Congress that wanted to could, in theory, use the Guarantee Clause to defend the basic rights of citizens against overbearing and tyrannical state governments. It's been done before. After the Civil War, Radical Republicans in Congress found their constitutional power to reconstruct the South chiefly in the Guarantee Clause, which they used to protect the rights of Black Americans from revanchist state governments.
+Since Reconstruction, however, no Congress has wanted to use the Guarantee Clause to protect the rights and liberties of Americans. It's a vestigial part of our constitutional history, atrophied from disuse.
+The same goes for sections 2 and 3 of the 14th Amendment. Section 2 states that "representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed." It then specifies that if the right to vote for federal office is "denied" or "in any way abridged, except for participation in rebellion" to "any of the male inhabitants" of such a state, then "the basis of representation therein shall be reduced" in proportion to the denial in question.
+Section 3 also deals with representation. It states that
+No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid and comfort to the enemies thereof.
+The purpose of section 2 was to invalidate the Three-Fifths clause of the Constitution and to prevent state governments from disenfranchising Black voters. And the purpose of section 3 was to prevent former Confederate leaders from holding state and federal office. But while the 14th Amendment gives Congress the power to enforce its provisions by "appropriate legislation," Congress has never exercised its ability to deny representation to states that violate the right of citizens to vote, nor has it used its ability to disqualify those lawmakers who have engaged in acts of rebellion or insurrection. In the wake of Jan. 6, Representatives Cori Bush and Alexandria Ocasio-Cortez called on Congress to investigate and expel members who aided the attack, but their demands went nowhere.
+It's here that you can see why I think it's important to talk about these seemingly idle provisions. As recent events have made clear, powerful reactionaries are waging a successful war against American democracy using the counter-majoritarian institutions of the American political system, cloaking their views in a distorted version of our Constitution, where self-government means minority rule and the bugaboos of right-wing culture warriors are somehow "deeply rooted" in our "history and traditions."
+But the Republic is not defenseless. The Constitution gives our elected officials the power to restrain a lawless Supreme Court, protect citizens from the "sinister legislation" of the states, punish those states for depriving their residents of the right to vote and expel insurrectionists from Congress.
+They are drastic measures that would break the norms of American politics. They might even spark a constitutional crisis over the power and authority of Congress.
+But let's not be naïve. The norms of American politics were shattered when Donald Trump organized a conspiracy to subvert the presidential election. They were shattered again when he sent an armed mob of supporters to attack the Capitol and stop Congress from certifying the votes of the Electoral College. And they were shattered one more time in the early hours of the next day, when, even after all that, 147 of his congressional allies voted to overturn election results.
+As for the constitutional crisis, it is arguably already here. Both the insurrection and the partisan lawmaking of the Supreme Court have thrown those counter-majoritarian features of the American system into sharp relief. They've raised hard questions about the strength and legitimacy of institutions that allow minority rule -- and allow it to endure. It is a crisis when the fundamental rights of hundreds of millions of Americans are functionally overturned by an unelected tribunal whose pivotal members owe their seats to a president who won office through the mechanism of the Electoral College, having lost the majority of voters in both of his election campaigns.
+The ground has shifted. The game has changed. The only question left is whether our leaders have the strength, fortitude and audacity to forge a new path for American democracy -- and if they don't, whether it is finally time for us to find ones who do.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+Congress needs to right the ship and it has the power to do so. (PHOTOGRAPH BY Mark Peterson for The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Legislatures; Constitutional law; Voting rights; Power; Politics; Political representation; Election results; Jurisdiction; State elections; Legislation; Rebellions
+
+Location: United States--US; New York
+
+Company / organization: Name: Electoral College; NAICS: 921190; Name: Congress-US; NAICS: 921120
+
+URL: https://www.nytimes.com/2022/07/01/opinion/dobbs-roe-supreme-court.html
+
+Title: The Court Is Not the Final Word:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.11
+
+Publication year: 2022
+
+Publication date: Jul 3, 2022
+
+column: Jamelle Bouie
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary
+
+ProQuest document ID: 2683548076
+
+Document URL: https://www.proquest.com/newspapers/court-is-not-final-word/docview/2683548076/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jul 3, 2022
+
+Last updated: 2024-08-28
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

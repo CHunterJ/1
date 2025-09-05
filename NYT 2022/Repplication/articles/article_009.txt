@@ -1,0 +1,90 @@
+Document 9 of 566
+
+The Battle Royale Over Apple's App Store: [Op-Ed]: [Op-Ed]
+
+Author: Coy, Peter
+
+Publication info: Coy, Peter. 
+
+https://www.proquest.com/newspapers/battle-royale-over-apples-app-store-op-ed/docview/2748090314/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Battle+Royale+Over+Apple%27s+App+Store%3A+%5BOp-Ed%5D&amp;rft.au=Coy%2C+Peter&amp;rft.aulast=Coy&amp;rft.aufirst=Peter&amp;rft.date=2022-12-09&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.23&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: Apple is the world's most valuable company. Is it also a monopolist? To answer that question to your own satisfaction, I suggest that you watch a gripping reality show on YouTube. It's an hour-and-a-quarter courtroom hearing from Nov. 14 in the case of Epic Games v. Apple. It features brilliant lawyers doing battle before three appellate judges in one of the nation's most beautiful courtrooms. And the stakes are high, for Apple and the entire tech sector.
+Outside the courtroom, Apple has gotten trashed in the past week. Mark Zuckerberg, the chief executive of Facebook's parent, Meta Platforms, said by video at The New York Times's DealBook Summit on Wednesday: "I do think Apple has sort of singled themselves out as the only company that is trying to control unilaterally what apps get on a device. And I don't think that's a sustainable or good place to be."
+Elon Musk, as if he didn't have enough on his plate, also went after Apple, saying it was trying to sabotage Twitter, the company he recently bought. He also accused Apple of threatening to pull Twitter from its App Store. By Wednesday, he seemed to have patched things up after a visit to Apple headquarters.
+The sight of billionaires sniping at one another is always entertaining, but if you really want to get a feel for the legal and economic issues around whether Apple is a monopolist, I recommend tuning in to Epic Games v. Apple -- not just that one November hearing but the whole sprawling docket. There are lots of other antitrust issues swirling around Apple, including accusations by the European Commission involving Apple Pay, but the App Store that Zuckerberg and Musk have been griping about is superimportant, and it's at the center of Epic Games v. Apple.
+As with so much else in antitrust, this case comes down to how to balance conflicting priorities and perspectives. Apple says it's protecting its customers' safety; Epic says that's just an excuse for suppressing competition and maximizing profit.
+The back story -- because every courtroom drama needs a back story -- is that shortly after Apple entered the phone business in 2007, it allowed outside software developers to make applications for the iPhone (and later the iPad) on the condition that they follow strict rules to keep out hackers and other troublemakers. The licensing deals made money for the outside developers and also benefited Apple, since the apps made the iPhone and iPad more useful. According to one brief, the number of apps increased from 500 in July 2008 to 1.8 million in November 2020. More than 99.99 percent of apps in the App Store were developed by third parties.
+But some of the outside developers complained that Apple's terms were onerous. Apple required from the start that apps for its iOS operating system be distributed only through the App Store. It also insisted that if you wanted to buy many kinds of digital content using an app, you had to do it using the function built by Apple. And Apple charged for that functionality -- up to 30 percent of the purchase price.
+Epic Games, the maker of the popular Fortnite online video games, tried to bypass Apple's payment system with a hidden chunk of code, which predictably led Apple to block Fortnite from the App Store. Epic then sued Apple in federal court in 2020, alleging violation of federal and state antitrust laws as well as California's unfair-competition law. (Epic simultaneously sued Google, which manages the Google Play store for Android devices. That case is ongoing.)
+To use Fortnite lingo, it was a battle royale. Apple countersued Epic, charging breach of contract. Apple denied it was a monopolist, pointing to competition from the Google Play store for Android devices. In September 2021, District Judge Yvonne Gonzalez Rogers found for Apple on nine of 10 counts but for Epic on the 10th, ordering Apple to stop prohibiting app developers from directing customers to other platforms where they could, in some cases, buy digital content more cheaply.
+Apple and Epic both appealed to the U.S. Court of Appeals for the Ninth Circuit in San Francisco. Microsoft, which is trying to build up its own app store, took Epic's side in a friend-of-the-court brief. The first hearing in the appeals was the one on Nov. 14 that I mentioned above.
+Epic's lawyer, Thomas Goldstein, struck first in the hearing. Goldstein has argued 45 cases before the Supreme Court, including Google v. Oracle America (2021), in which the justices found that Google's copying of part of Oracle's Java software was a fair use.
+Goldstein challenged the characterization of Apple and its App Store as a safe and secure "walled garden." He said, "The only thing that is kept out by Apple's walled garden is competitors."
+Apple's lead lawyer, Mark Perry, who rocked a graying ponytail, rejected Goldstein's dig. "That is just false, and it is totally disproven by the trial record," said Perry, who's also a veteran appeals lawyer. "What's kept out by walled gardens is fraudsters and pornsters and hackers and malware and spyware and foreign governments who wish to hijack the phone and GPS and microphone feature of the device."
+Perry said that for Apple to allow links or buttons inside apps so people could get around Apple's in-app purchase functionality "would be a breach in the wall that bad actors could exploit."
+When Goldstein got another chance to speak at the end of the hearing, he argued that Apple has the right to encourage use of its own App Store but not the right to forbid customers "by contract and by technology" from using another app store.
+Apple earned more than $ 3,000 per second in its last fiscal year. It's only natural to wonder if some of its success is achieved by suppressing competition. From watching last month's courtroom drama and reading some of the briefs, I'm thinking that Apple is only half right. Yes, its walled garden is great. But its customers deserve more of a choice.
+Number of the Week
+--7 percent
+This decline is the estimated drop in China's imports in November in comparison to November 2021, in dollar terms. That's according to a survey of economists by FactSet. China's economic slowdown, caused in part by efforts to stop the spread of Covid-19, harms the rest of the world by decreasing China's appetite for foreign goods and services. The General Administration of Customs is scheduled to release the official numbers on Wednesday.
+Quote of the Day
+"Van Gogh, William Blake, Edgar Allan Poe, Vermeer, Melville and Schubert all died broke."
+-- Amia Srinivasan, "Questions for Free-Market Moralists," The Stone forum, The New York Times, Oct. 20, 2013
+Have feedback? Send a note to coy-newsletter@nytimes.com .
+This article appeared in print on page A23.
+
+Subject: Antitrust; Software; Court hearings & proceedings; Malware; Breach of contract; Federal court decisions; Economic conditions; Competition; Monopolies
+
+Business indexing term: Subject: Antitrust Breach of contract Economic conditions Monopolies
+
+Location: United States--US
+
+Company / organization: Name: Epic Games; NAICS: 513210; Name: Apple Inc; NAICS: 334111, 334220, 513210
+
+URL: https://www.nytimes.com/2022/12/05/opinion/epic-games-apple-app-store.html
+
+Title: The Battle Royale Over Apple's App Store:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.23
+
+Publication year: 2022
+
+Publication date: Dec 9, 2022
+
+column: Peter Coy
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2748090314
+
+Document URL: https://www.proquest.com/newspapers/battle-royale-over-apples-app-store/docview/2748090314 /se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Dec 9, 2022
+
+Last updated: 2022-12-09
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

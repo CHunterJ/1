@@ -1,0 +1,83 @@
+Document 246 of 566
+
+That Was the Stagflation That Was: [Op-Ed]: [Op-Ed]
+
+Author: Krugman, Paul
+
+Publication info: Krugman, Paul. 
+
+https://www.proquest.com/newspapers/that-was-stagflation-op-ed/docview/2685874885/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=That+Was+the+Stagflation+That+Was%3A+%5BOp-Ed%5D&amp;rft.au=Krugman%2C+Paul&amp;rft.aulast=Krugman&amp;rft.aufirst=Paul&amp;rft.date=2022-07-08&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.21&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: On Wednesday the five-year breakeven inflation rate fell to 2.48 percent. If that doesn't mean anything to you -- which is completely forgivable if you aren't a professional economy-watcher -- try this: The wholesale price of gasoline has fallen about 80 cents a gallon since its peak a month ago. Only a little of this plunge has been passed on to consumers so far, but over the weeks ahead we're likely to see a broad decline in prices at the pump.
+Incidentally, what are the odds that falling gas prices will get even a small fraction of the media coverage devoted to rising prices?
+What these numbers and a growing accumulation of other data, from rents to shipping costs, suggest is that the risk of stagflation is receding. That's good news. But I'm worried that policymakers, especially at the Federal Reserve, may be slow to adapt to the new information. They were clearly too complacent in the face of rising inflation (as was I!); but now they may be clinging too long to a hard-money stance and creating a gratuitous recession.
+Let's talk about what the Fed is afraid of.
+Obviously we've had serious inflation problems over the past year and a half. Much, probably most, of this inflation reflected presumably temporary disruptions of supply ranging from supply-chain problems to Russia's invasion of Ukraine. But part of the inflation surge also surely reflected an overheated domestic economy. Even those of us who are usually monetary doves agreed that the Fed needed to hike interest rates to cool the economy down -- which it has. The Fed's rate hikes, plus the anticipation of more hikes to come, have caused the interest rates that matter for the real economy -- notably mortgage rates -- to soar, which will reduce overall spending.
+Indeed, there are early indications of a significant economic slowdown.
+But the just-released minutes of last month's meeting of the Fed's Open Market Committee, which sets interest rates, suggest considerable fear that just cooling the economy off won't be enough, that expectations of future inflation are becoming "unanchored" and that inflation "could become entrenched."
+This isn't a foolish concern in principle. Over the course of the 1970s just about everyone came to expect persistent high inflation, and this expectation got built into wage- and price-setting -- for example, employers were willing to lock in 10-percent-a-year wage increases because they expected all their competitors to be doing the same. Purging the economy of those entrenched expectations required an extended period of very high unemployment -- stagflation.
+But why did the Fed believe that something like this might be happening now? Both the minutes and remarks from the chair, Jerome Powell, suggest that an important factor was a preliminary release of survey results from the University of Michigan, which seemed to show a jump in long-term inflation expectations.
+Even at the time, some of us warned against putting too much weight on one number, especially given the fact that other numbers weren't telling the same story. Sure enough, the Michigan number was a blip: Most of that jump in inflation expectations went away when revised data was released a week later.
+And for what it's worth, financial markets are now more or less sounding the all-clear on persistent inflation. That five-year breakeven is the spread between ordinary interest rates and the interest rates on bonds that are protected against rising prices; it is therefore an implicit forecast of future inflation. And a closer look at the markets shows not just that they expect relatively low inflation over the medium term but also that they expect it to subside after the next year or so, returning thereafter to a level consistent with the Fed's long-run target.
+To be fair, bond traders don't set wages and prices, and it's possible in principle that inflation is getting entrenched in the minds of workers and businesses even as investors decide that it's under control. But it's not likely.
+Also, there may be an element of self-denying prophecy here, with investors marking down their expectations of future inflation precisely because they expect the Fed to slam too hard on the brakes.
+Still, it's disturbing to read reports suggesting that the Fed is getting more hawkish even as the economy weakens and the prospects for sustained inflation are receding.
+I don't know exactly what's going on here. Part of it may be the all too common tendency of policymakers to double down on a course of action even when the facts stop supporting it. Part of it may be that, having gotten past inflation wrong, Fed officials are, perhaps unconsciously, susceptible to bullying from Wall Street types determined to be hysterical about future inflation. And in part they may just be overcompensating for their previous underestimation of inflation risks.
+In any case, there's an old joke about the motorist who runs over a pedestrian, then tries to fix the mistake by backing up -- and in so doing runs over the pedestrian a second time. I fear that something like that may be about to happen in economic policy.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Damon Winter/The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Ordinary interest; Prices; Inflation; Interest rates; Economic conditions
+
+Business indexing term: Subject: Inflation Interest rates Economic conditions
+
+Location: United States--US; New York
+
+URL: https://www.nytimes.com/2022/07/07/opinion/inflation-recession-the-fed.html
+
+Title: That Was the Stagflation That Was:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.21
+
+Publication year: 2022
+
+Publication date: Jul 8, 2022
+
+column: Paul Krugman
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary
+
+ProQuest document ID: 2685874885
+
+Document URL: https://www.proquest.com/newspapers/that-was-stagflation/docview/2685874885/se-2?accountid=14026
+
+Copyright: Copyright New Yor k Times Company Jul 8, 2022
+
+Last updated: 2022-09-06
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

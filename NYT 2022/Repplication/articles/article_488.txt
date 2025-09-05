@@ -1,0 +1,99 @@
+Document 488 of 566
+
+The Covid Policy That Really Mattered Wasn't a Policy: [Op-Ed]: [Op-Ed]
+
+Author: Klein, Ezra
+
+Publication info: Klein, Ezra. 
+
+https://www.proquest.com/newspapers/covid-policy-that-really-mattered-wasnt-op-ed/docview/2625953976/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Covid+Policy+That+Really+Mattered+Wasn%27t+a+Policy%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Klein%2C+Ezra&amp;rft.aulast=Klein&amp;rft.aufirst=Ezra&amp;rft.date=2022-02-07&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.15&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: If the C.D.C. had recommended better masks from the beginning, how many people would have worn them and for how long? If the Biden administration had flooded stores with cheap rapid tests, would people have used them? If boosters had been pushed earlier, and more loudly, would the United States no longer trail peer nations in vaccinations?
+Put differently: How much would getting our pandemic policies right have mattered?
+It's easy to speak as if policy smoothly reshapes reality. I'm more guilty of that than most. But policy lies downstream of society. Mandates are not self-executing; to work, policies need to be followed, guidance needs to be believed. Public health is rooted in the soil of trust. That soil has thinned in America.
+That isn't to absolve policymakers of responsibility for their mistakes, but it is to wonder about the power they actually wield, in a country that led the world in vaccine development but lags Chile, Vietnam and Brazil in vaccine deployment. A recent interview with Michael Bang Petersen, a Danish political scientist, drove that point home for me. "In Denmark, people are in favor of vaccines, with more than 81 percent of adults doubly vaccinated, but also very opposed to vaccine mandates," he told The Atlantic's Derek Thompson. "There are no political parties in Parliament that are loudly advocating for vaccine mandates."
+You know what's better than a vaccine mandate? A society that doesn't need one.
+We began this pandemic by asking the wrong questions, and thus we got the wrong answers. Rewind to October 2019. The Johns Hopkins Center for Health Security and the Nuclear Threat Initiative release the Global Health Security Index. It ranks 195 countries on their pandemic preparedness. Each country is judged on prevention policy, on detection capabilities, on response infrastructure, on health system capacity, on international cooperation and on underlying risk. The news is reassuring, at least if you live in the United States: We're No. 1!
+Then, only months later, we get an actual, once-in-a-century pandemic. The United States fails the test. We have more infections, more deaths, more pain and suffering and division and grief. Our performance doesn't just fall short of rich countries like Germany and Denmark. It falls short of far poorer countries, too. The Global Health Security Index was measuring the wrong things. The researchers later noted that tucked inside the report was a finding about the United States that would prove more predictive of our response: "It had the lowest possible score on public confidence in the government."
+But that leaves the question: What were the right questions? What did we miss?
+A paper published on Tuesday in The Lancet tries to unravel the mystery -- and not just for the United States. It's built atop new data that tries to adjust for differences in testing and gaps in reporting to paint a clearer picture of case numbers and fatality rates across 177 countries from Jan. 1, 2020, to Sept. 30, 2021. (I do want to note that the data here remains far from perfect, and there is inevitably noise, randomness and distortion in these comparisons. We live in a fallen world, and yet still we try and understand.)
+Looked at in an international context, the magnitude of America's failure comes clear. So too do the successes of other countries.
+Over the first 21 months of the pandemic, the United States had 545 coronavirus cases per 1,000 residents. Uruguay had 472. The United Kingdom 374. Canada 346. Germany 188, Switzerland 164. But it's our peers in Asia that really put us to shame. Japan had 67 cases per 1000. Singapore 59. South Korea 28. Taiwan seven. These numbers are so low as to be baffling.
+The United States does better when you measure the ratio of cases that lead to death. There, our performance is at least middling. Our infection fatality rate was 4.55 per 1,000 cases. That's lower than Germany (6.34) and Switzerland (5.56) but higher than South Korea (3.24) or Singapore (0.68). Still, our far larger number of cases mean we've grieved far more loss. And we're not the only ones.
+"One reason this pandemic is an epidemiological mystery is because you see a surprising amount of variation among nations in close geographic proximity," Thomas Bollyky, director of the global health program at the Council on Foreign Relations, and one of the paper's authors, told me. "Bulgaria, Namibia and Bolivia have fatality rates twice as high as their neighbors, Turkey, Angola and Colombia."
+The researchers tested everything they could think of for predictive power. They looked at G.D.P., population density, altitude, age, obesity, smoking, air pollution, cancer rates, exposure to previous beta-coronaviruses like SARS and MERS, health insurance coverage, pandemic preparedness ratings, trust in government, trust in fellow citizens, hospital beds per capita and more. It's a dizzying suite of possibilities, and they run the numbers one by one.
+When it comes to deaths caused by infections, no single variable explains everything, or even all that much, with the exception of age. The coronavirus strikes the old with particular viciousness, and so the age of a population explains 47 percent of the variation in fatality ratios between countries. This helps explain why richer countries have seen a disproportionate number of deaths: Richer countries are older.
+But age was alone in its ability to predict fatality rates. Nothing else -- not body mass index, not smoking, not air pollution, not cancer prevalence, not universal health care, not hospital beds -- explained very much.
+More unexpected was what the researchers found when they looked at the factors that predicted how many people got infected. Some of the obvious candidates -- population density, G.D.P. per capita, and exposure to past coronaviruses -- failed to predict much in the way of outcomes. But both trust in government and trust in fellow citizens proved potent.
+This yields the paper's most striking finding: Moving every country up to the 75th percentile in trust in government -- that's where Denmark sits -- would have prevented 13 percent of global infections. Moving every country to the 75th percentile of trust in their fellow citizens -- roughly South Korea's level -- would have prevented 40 percent of global infections.
+"When confronted with a novel, contagious virus the best way for governments to protect their citizens is to convince them to take the measures to protect themselves," Bollyky said. "Especially in free societies the success of that effort depends on trust -- trust between citizens and their government, and trusts between citizens themselves."
+When Bollyky told me that, I thought back to an essay I'd read in The Times by Hitoshi Oshitani, a key adviser to Japan's government, that had been nagging at me.
+The Japanese government, he said, understood that the virus was airborne, and they made sure their citizenry knew it. The message became that "People should avoid the three C's, which are closed spaces, crowded places and close-contact settings. The Japanese government shared this advice with the public in early March, and it became omnipresent. The message to avoid the three C's was on the news, variety shows, social media and posters. 'Three C's' was even declared the buzzword of the year in Japan in 2020."
+What struck me about this, when I first read it, was what it left unsaid. Japan was much quicker to understand airborne transmission than the United States, but we knew it soon enough. We certainly knew it by the time of the Delta surge, when Japan again performed far better than we did. We know it now, and Japan is still performing better than we are. It is what we do with what we know that matters.
+Trust is regularly polled in international surveys, and so the researchers had access to those numbers. But I suspect trust is only a cousin of what we're really trying to measure here. Solidarity is perhaps closer to the social sentiment the pandemic demanded. Poring over this data left me thinking about something my colleague Zeynep Tufekci told me:
+If you're in the 19th century, and you're just puzzling over yellow fever, and you don't even have germ theory, and you don't understand mosquito vectors -- it's hard. It's really hard. I read those histories, and I want to give them clues. But right now, we have everything in place. And it's our dysfunction that's holding us back. It's the global, political dysfunction; our U.S.-specific dysfunction.
+There are lots of policy recommendations that work to curb the coronavirus: Masking, social distancing, vaccinations, testing, quarantining and so on. But for any of them to work, they need to be followed. This has been, certainly, the Biden administration's insuperable challenge. It can make vaccines available, but they can't make people take them. They can make masks available, but they can't make people wear them. The context for the Biden administration's entire response was a Republican Party divided over the legitimacy of the 2020 election, and aware that the road to 2024 ran through opposition to Biden's coronavirus policies.
+So what if you assume political polarization and media disinformation are here to stay, and you need to work around them, rather than ignoring them?
+When you reframe the question, other possibilities reveal themselves. As an example: Only 36 percent of Republicans trust Anthony Fauci. I think the Republican campaign against him has been largely unfair, but that he is particularly polarizing among the people the Biden administration most needs to reach is simply a fact, and one it has chosen to ignore. Perhaps new voices were needed, including high-profile ones chosen for their appeal to those most inclined to doubt Biden and avoid vaccination.
+I asked Ron Klain, Biden's chief of staff, about the absence of messengers with credibility among Republicans, and his response struck me as understandably but depressingly fatalistic. "I think this question of polarization around vaccinations is very, very complicated," he replied. "I mean, you saw President Trump get booed when he himself advocated people getting booster shots. So this isn't as simple as 'Can you put more conservatives out there talking about vaccinations?"'
+That's certainly true. And I don't mean to single out Fauci, or overestimate the value of replacing him. Any Republican who joined the Biden administration would be seen as a traitor by much of the conservative base. But improvements are made on the margins.
+That our political and social problems are maddeningly difficult to solve doesn't make them any less necessary to at least try and ease. Whatever basket of pandemic policies the Biden administration tries -- be they the vaccine mandates the Supreme Court just gutted, or new testing infrastructure, or variant-specific boosters -- will not work if the social context in which those policies play out continues to deteriorate. And it is deteriorating: 88 percent of Americans say the pandemic has left us more divided, which is higher than in any of the other 16 countries Pew surveyed.
+We erred this time by believing ourselves not just more capable, but also more united, than ultimately proved true. Now that we know the truth about ourselves, and the havoc our divisions will wreak on any pandemic response, the problem we need to solve becomes clearer.
+What does good pandemic policy look like for a low-trust, high-dysfunction society?
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY EMILY ELCONIN FOR THE NEW YORK TIMES)
+
+Subject: Infections; Vaccines; Fatalities; Politics; International relations; Pandemics; Population density; Air pollution; Outdoor air quality; Coronaviruses; Immunization; Government mandates; COVID-19; Disease transmission
+
+Business indexing term: Subject: International relations
+
+Location: Switzerland; United States--US; Denmark; Germany; Singapore; Japan; South Korea
+
+URL: https://www.nytimes.com/2022/02/06/opinion/covid-pandemic-policy-trust.html
+
+Title: The Covid Policy That Really Mattered Wasn't a Policy: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.15
+
+Publication year: 2022
+
+Publication date: Feb 7, 2022
+
+column: Ezra Klein
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2625953976
+
+Document URL: https://www.proquest.com/newspapers/covid-policy-that-really-mattered-wasnt-op-ed/docview/2625953976/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Feb 7, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

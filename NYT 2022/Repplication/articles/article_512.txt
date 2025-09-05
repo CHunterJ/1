@@ -1,0 +1,74 @@
+Document 512 of 566
+
+Clues to the Next Variant Abound: [Op-Ed]: [Op-Ed]
+
+Author: Bright, Rick
+
+Publication info: Bright, Rick. 
+
+https://www.proquest.com/newspapers/clues-next-variant-abound-op-ed/docview/2624840981/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Clues+to+the+Next+Variant+Abound%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Bright%2C+Rick&amp;rft.aulast=Bright&amp;rft.aufirst=Rick&amp;rft.date=2022-02-03&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.24&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: When scientists in South Africa noticed an uptick in Covid-19 cases in the Gauteng Province last November, they began investigating the source. These researchers and others in Botswana quickly discovered the Omicron variant and heroically shared their discovery with the rest of the world. And yet it was still too late -- Omicron was already rapidly infecting people across the globe.
+The question for a world enduring the variant's astonishing surge is how can we discover the next one early enough to stop its spread. Currently, the hunt for coronavirus variants is too slow and sporadic. Scientists in a handful of countries -- South Africa, Botswana, the United States and others -- monitor patterns in case counts and regularly sequence samples of the virus from infected people to see whether there are notable genetic changes. The results of these analyses can be shared within a global network, such as GISAID, an international community of scientists who openly share data on disease variants, to compare coronavirus sequences from around the world.
+By the time this happens, variants are often already spreading in a community and most likely beyond it. This analysis process is like testing every piece of hay in a stack to see whether it's a needle -- or, really, the equivalent of choosing and testing just 1 percent of the haystack.
+But there are places to look that may help scientists find new variants even faster: sewage and the air. People can shed the coronavirus in their feces and their exhaled breath. As a result, the virus can be spotted before people have been tested or developed symptoms.
+Wastewater monitoring has been used throughout the Omicron surge by scientists in New York City, Boston and elsewhere. They have been able to identify impending surges of cases in certain neighborhoods even before a variant has been identified from test swabs. The opposite is also true: In Minneapolis and St. Paul, Minn., for example, officials who witnessed a drop in the amount of virus in wastewater were able to predict that Omicron's peak had passed.
+Far less attention has been paid to testing air samples, at least until recently. Chinese officials have developed a detection system they will reportedly use to collect and test air samples from venues at the Beijing 2022 Winter Olympics. In the United States, a partnership between the city of Davis, Calif., and the University of California at Davis is monitoring air filters in elementary schools for the virus.
+So far scientists have mostly used environmental samples like these to track trends in coronavirus concentrations and identify hot spots for response. But these samples can also provide a window into the dynamics of a concerning new variant in the broader community, quicker and more accurately than any sample from a single person. A virus sample from a nasal or saliva swab offers information on one person; a single wastewater or air sample offers information on many people, and in the case of the former, up to thousands of people. Leaning more heavily on these methods could provide the world additional time to respond before variants become widespread.
+Still, some practical challenges remain. Environmental samples can contain a lot of background noise, including myriad other viruses, bacteria and fungi found in human waste. Determining what's important and what isn't can be tough. Coordination is another issue; the world needs to develop a consensus on how to analyze environmental sequences and create a hub that, as GISAID does for clinical sequencing, enables near-real-time information sharing and insights across countries.
+As these initiatives are pursued and funded, it's also important that the public be made aware of how environmental testing and sequencing works in order to avoid some of the misinformation and misunderstandings that have affected other tools like vaccines. Organizers must make clear that environmental samples are anonymous: They do not confirm who shed the virus, only that the coronavirus is in a community.
+Testing and sequencing virus samples found in sewage or the air is not a singular solution; it is best used alongside other data sources to construct a broader, more holistic view of a pathogen's spread across a community and around the world. But because it is the quickest way to detect variants, it can help leaders prepare for and potentially prevent the next coronavirus surge, and hopefully, the next pandemic.
+Dr. Rick Bright is the chief executive of the Pandemic Prevention Institute and the senior vice president of pandemic prevention and response at the Rockefeller Foundation.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY THOMAS SAMSON/AGENCE FRANCE-PRESSE -- GETTY IMAGES)
+
+Subject: Viruses; Coronaviruses; Pandemics; Disease transmission; COVID-19; Disease control
+
+URL: https://www.nytimes.com/2022/02/02/opinion/covid-variant-air-sewage.html
+
+Title: Clues to the Next Variant Abound: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.24
+
+Publication year: 2022
+
+Publication date: Feb 3, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2624840981
+
+Document URL: https://www.proquest.com/newspapers/clues-next-variant-abound-op-ed/docview/2624840981/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Feb 3, 2022
+
+Last updated: 2022-02-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

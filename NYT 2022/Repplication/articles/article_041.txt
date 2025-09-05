@@ -1,0 +1,90 @@
+Document 41 of 566
+
+The Supreme Court Is Racing to Erase Lower Courts' Major Decisions: [Op-Ed]: [Op-Ed]
+
+Author: Tucker, Lisa; Lindquist, Stefanie A
+
+Publication info: Tucker, Lisa; Lindquist, Stefanie A. 
+
+https://www.proquest.com/newspapers/supreme-court-is-racing-erase-lower-courts-major/docview/2743875402/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Supreme+Court+Is+Racing+to+Erase+Lower+Courts%27+Major+Decisions%3A+%5BOp-Ed%5D&amp;rft.au=Tucker%2C+Lisa%3BLindquist%2C+Stefanie+A&amp;rft.aulast=Tucker&amp;rft.aufirst=Lisa&amp;rft.date=2022-12-02&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.23&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: The Supreme Court is increasingly setting aside legally significant decisions from the lower courts as if they had never happened, invalidating them in brief procedural orders. The pace of these actions has increased in the past 22 months, neutralizing important civil rights and civil liberties decisions.
+Reasoned opinions by the federal appeals courts on issues ranging from voting rights to Donald Trump's border wall have been wiped from the books, leaving no precedent for the lower federal courts to follow. Legally, it is as if these decisions by the appeals courts, one rung below the Supreme Court, had never existed. The Supreme Court's final, unilateral exercises of power in these cases have gone largely unreported.
+The Supreme Court has broad discretion to decide which cases it hears and accepts only a small number each term. Appeals court decisions that the justices choose not to review typically remain in effect in the judicial circuit where they were decided, operating as precedent to be followed by that appeals court and the courts below it.
+But when the Supreme Court vacates a lower court decision, that decision is erased, and any subsequent litigation on the issue must begin anew. Since January 2021, soon after Amy Coney Barrett took her seat on the Supreme Court, expanding the conservative majority, the court has relied on a 1950 decision to vacate 13 politically and legally significant decisions issued by federal appeals courts. That case, United States v. Munsingwear, held that when a case becomes moot during an appeal -- meaning there is no longer a continuing controversy -- the justices can vacate the decision with an order known as a vacatur.
+The recent flurry of Munsingwear vacaturs is sharply at odds with the pace of past court practice. Since a 1994 Supreme Court decision scaled back the use of the Munsingwear precedent, the court has cited the case only 48 times to vacate lower court decisions, according to our research. Slightly more than half of those actions occurred in just the past five years, after the appointment of Justice Neil Gorsuch, which maintained a 5-to-4 conservative majority. More than a quarter came in the past 22 months, with the conservatives holding a 6-to-3 majority.
+In most of the cases, the vacated federal appeals court opinions were written by judges appointed by Democratic presidents. (In some of the cases, the Biden administration sought the vacatur, probably because the lower court decided against the government and a Supreme Court decision affirming that ruling could restrict a future administration's options.)
+In 12 of the 13 lower court rulings vacated by the justices in the past 22 months, the court erased decisions that seemed to align with progressive values and objectives:
+Two that granted standing to plaintiffs suing Mr. Trump for violations of the emoluments clauses by profiting from his hotels and restaurants.
+One that held that Mr. Trump could not block critics on his Twitter account.
+One that allowed states to be sued directly under the Voting Rights Act.
+Two that allowed Pennsylvania election boards to count undated ballots or to extend mailing deadlines for ballots during the pandemic.
+Two that tossed out work requirements approved by the Trump administration for beneficiaries to receive Medicaid.
+One that held that the House of Representatives had standing to sue the executive branch for violations of its appropriations power in connection with Mr. Trump's border wall.
+One that prohibited the Trump administration from returning asylum seekers to Mexico under its Migrant Protection Protocols.
+One that allowed the House Judiciary Committee to obtain redacted grand jury materials in its impeachment case of Mr. Trump.
+One upholding a preliminary injunction against an executive order issued by the governor of Tennessee during the pandemic blocking abortion procedures for three weeks.
+In another case during the same period, an appeals court upheld an executive order by Gov. Greg Abbott of Texas to prohibit most abortions at the beginning of the pandemic. The order had expired and been replaced, and the court agreed with Planned Parenthood that the case was moot and vacated it.
+The most recent vacatur involved a Pennsylvania election dispute that the losing candidate asked the court to vacate. The U.S. Court of Appeals for the Third Circuit had allowed the local election board to count mail-in ballots that did not comply with a state law requiring voters to write the date on the ballot's outer envelope, on the grounds that the omissions were not material to determining the voter's qualifications. (One of us, Lisa Tucker, consulted on strategy in this case with her husband, Adam Bonin, a lawyer who had argued against vacating it.)
+The appeals court decision had implications for future elections, and two of the court's three more liberal justices, Sonia Sotomayor and Ketanji Brown Jackson, would have declined to accept the case and would not have vacated it, leaving the Third Circuit decision intact. Nevertheless, at least five justices voted to vacate.
+In recent months, many scholars have noted the court's seeming disregard for precedent in big, headline cases, such as its overturning of Roe v. Wade on abortion. In the months ahead, the court may well overrule other longstanding decisions. But at least in such cases, the justices will offer their reasoning.
+Lisa Tucker is an associate professor at the Drexel University Thomas R. Kline School of Law who studies the U.S. Supreme Court. Stefanie A. Lindquist is a professor of law and political science at Arizona State University and the executive director of the Center for Constitutional Design at the university's Sandra Day O'Connor College of Law.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY CHRISTOPHER LEE FOR THE NEW YORK TIMES) This article appeared in print on page A23.
+
+Subject: Border walls; Supreme Court decisions; Local elections; State elections; Executive orders; Abortion; Voting rights; Federal court decisions; State court decisions; Civil rights; Civil liberties
+
+Location: United States--US
+
+People: Trump, Donald J
+
+Company / organization: Name: Supreme Court-US; NAICS: 922110
+
+URL: https://www.nytimes.com/2022/11/29/opinion/supreme-court-decisions-vacated.html
+
+Title: The Supreme Court Is Racing to Erase Lower Courts' Major Decisions:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.23
+
+Publication year: 2022
+
+Publication date: Dec 2, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary, Opinions
+
+ProQuest document ID: 274387 5402
+
+Document URL: https://www.proquest.com/newspapers/supreme-court-is-racing-erase-lower-courts-major/docview/2743875402/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Dec 2, 2022
+
+Last updated: 2022-12-02
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

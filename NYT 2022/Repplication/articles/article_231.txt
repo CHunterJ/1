@@ -1,0 +1,84 @@
+Document 231 of 566
+
+Recession? Not for Big Tech.: [Op-Ed]: [Op-Ed]
+
+Author: Manjoo, Farhad
+
+Publication info: Manjoo, Farhad. 
+
+https://www.proquest.com/newspapers/recession-not-big-tech-op-ed/docview/2696779688/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Recession%3F+Not+for+Big+Tech.%3A+%5BOp-Ed%5D&amp;rft.au=Manjoo%2C+Farhad&amp;rft.aulast=Manjoo&amp;rft.aufirst=Farhad&amp;rft.date=2022-08-01&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.19&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: When the president, the treasury secretary and other Biden administration officials insisted this week that the American economy is not currently in a recession, they were mocked for weaseling out of bad news on a technicality. The Commerce Department announced on Thursday that the broadest measure of economic activity, gross domestic product, fell for a second quarter in a row -- meeting a widely held, though unofficial, definition of recession. It is true, as the Biden folks argued, that the nation's official recession arbiter, the National Bureau of Economic Research, has yet to call one, because it relies on many more signals. Still, it sure sounded as if the Biden team was splitting hairs.
+Over the past few days, though, I've spent more time than is healthy listening to C.E.O.s expound on their businesses during quarterly corporate earnings calls. (What can I say? I'm a sucker for a good time.) And I was surprised by what I heard. The C.E.O.s convinced me that the Biden people -- not to mention Jay Powell, the chair of the Federal Reserve, who also said this week that a recession has probably not yet begun -- have a point.
+The economy is in a really weird place. There are definitely signs of trouble. Yet at some of the biggest companies in the country -- especially in the tech industry -- business is hardly all glum. And even at companies that are struggling, the numbers aren't nearly as bad as investors had feared.
+At the start of the week, I told my editor I'd be writing about how the tech industry might be facing one of its worst slowdowns in two decades. By the end of the week, I found myself backing off anything so dramatic. Yes, some companies are facing unusually difficult times. Business models are blowing up. Competition is heating up. Regulators are getting tougher. Hiring is slowing down. Workers are being asked to do more with less. And all that's just at Facebook!
+But there are also signs that some huge businesses are ably navigating tougher times -- or, in a label adopted by so many C.E.O.s that I wondered if they agreed on it in a secret meeting, a challenging macroeconomic environment.
+Consider some of the brightest spots: Qualcomm, the chip-making giant, reported that despite that "challenging macroeconomic environment," profits grew more than 50 percent over last year because of strong sales of its processors used in phones and automobiles. Ford reported that hefty sales of its SUVs and crossovers pushed its adjusted earnings before taxes and interest to more than triple from a year ago. Meanwhile Visa, Mastercard and American Express said Americans are still spending as though there's no tomorrow. "We're seeing no evidence of a pullback in consumer spending," Vasant Prabhu, Visa's chief financial officer, told investors.
+Many on Wall Street had been especially worried about results from the behemoths of Big Tech -- Apple, Microsoft, Amazon and Alphabet and Meta, the parent companies of Google and of Facebook. These are among the most valuable American companies, and they soared during the pandemic. But this year Big Tech's growth has slowed, and its stock prices have been crushed. Dan Ives, an analyst at Wedbush Securities who has been bullish on the tech giants, said that sentiment among tech investors was the most negative he's seen since 2009.
+Then on Tuesday, Microsoft and Alphabet released their numbers and turned the narrative around. Alphabet said its revenue grew by 13 percent over last year -- lower than usual for a money-printing machine like Google but not much less than analysts had been expecting and better than many had feared. Ives said Google's not-too-bad results suggested that the online advertising market was holding up.
+Microsoft's results were also lower than analysts had been expecting, but investors were still thrilled by them, especially the 40 percent growth in Microsoft's cloud services business. Because Microsoft's core business is in providing tech services to large companies, its strong cloud number shed a positive light on the entire economy, Ives said. "That was probably one of the most important data points in years for the tech sector," he told me.
+On Wednesday, Meta put out what for it are some pretty dismal numbers; among other things, for the first time, the company posted a drop in quarterly revenue from the same period a year ago. But expectations had been very low for Facebook. The company's stock plummeted this year after it reported that Apple's new privacy features have hampered its ability to collect data on users. It has also faced persistent competition from TikTok. And because Mark Zuckerberg, Facebook's founder and chief executive, is spending billions to pivot the company from social networking to "the metaverse" -- the still-in-development virtual realm that he believes will one day be at the center of our computing experience -- its future looks more than a little cloudy.
+But there was light even in Meta's grim report. Zuckerberg said that Reels, the company's competitor of TikTok, is gaining in popularity with users and with advertisers. Its user numbers have also held up. Meta has been dealing with so much bad news -- this week the Federal Trade Commission announced that it would sue to block the company from purchasing a small virtual reality start-up -- that expectations could hardly fall lower. "The street was expecting just an absolute legendary disaster," Ives said. But compared with the expected hurricane of terrible earnings, Facebook's numbers were more like "a little rainstorm," he said.
+After the markets closed on Thursday, Amazon and Apple reported their quarterly numbers. Guess what? They're also mostly crushing it. Amazon said its cloud business grew by 33 percent over last year. Apple's C.E.O. told CNBC that the company expects revenue to "accelerate" next quarter.
+This year I argued that despite recent slowdowns, the reign of Big Tech was just beginning. As the economy softened over the course of the year, I began to doubt my bold prediction. But now I'm redoubling. Tech giants, like the rest of the economy, may soon face tougher times. But Amazon, Apple, Microsoft, Google and even Facebook are weathering difficult times much better than expected. Big Tech isn't going away anytime soon.
+Office Hours With Farhad Manjoo
+Farhad wants to chat with readers on the phone . If you're interested in talking to a New York Times columnist about anything that's on your mind, please fill out this form. Farhad will select a few readers to call.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Phil Leo and Michael Denora/Getty Images FOR THE NEW YORK TIMES)
+
+Subject: Gross Domestic Product--GDP; Macroeconomics; Investments; Economic conditions; Social networks; Recessions; Business conditions; Big business; High tech industries
+
+Business indexing term: Subject: Gross Domestic Product--GDP Macroeconomics Economic conditions Social networks Recessions Business conditions Big business High tech industries
+
+Location: United States--US
+
+Company / organization: Name: TikTok Inc; NAICS: 518210
+
+URL: https://www.nytimes.com/2022/07/29/opinion/recession-not-for-big-tech.html
+
+Title: Recession? Not for Big Tech.:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.19
+
+Publication year: 2022
+
+Publication date: Aug 1, 2022
+
+column: Farhad Manjoo
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2696779688
+
+Document URL: https://www.proquest.com/newspapers/recession-not-big-tech/docview/2696779688/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Aug 1, 2022
+
+Last updated: 2022-08-02
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

@@ -1,0 +1,95 @@
+Document 549 of 566
+
+Theranos Will Teach Silicon Valley Nothing: [Op-Ed]: [Op-Ed]
+
+Author: Mclean, Bethany
+
+Publication info: Mclean, Bethany. 
+
+https://www.proquest.com/newspapers/theranos-will-teach-silicon-valley-nothing-op-ed/docview/2616518067/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Theranos+Will+Teach+Silicon+Valley+Nothing%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Mclean%2C+Bethany&amp;rft.aulast=Mclean&amp;rft.aufirst=Bethany&amp;rft.date=2022-01-05&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.19&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: In his 1993 biography of Isaac Newton, Richard Westfall argues that parts of Newton's watershed work, the Principia, are "nothing short of deliberate fraud." True or not, it is clear that Newton made compromises in service to his vision. And he was not the only famous scientist who would do almost anything to make a breakthrough. Some would take drugs, follow mystical visions, lie and even cheat to make a discovery, as Michael Brooks notes in "Free Radicals: The Secret Anarchy of Science."
+On Monday, after a nearly four-month trial and testimony from dozens of witnesses, the jury in the case against Elizabeth Holmes -- the founder and former chief executive of Theranos -- returned a mixed verdict, finding her guilty on just four of 11 charges. Prosecutors said the case was "about false statements made to investors, false statements made to patients." Ms. Holmes's lawyers argued that she was "building a company, not a criminal enterprise." The jurors seem to have agreed with some of each. They found that she was guilty of lying to some, but not all, of Theranos's investors. The jury couldn't reach a verdict on the remaining investors. As for the charges that she had defrauded patients, the jury found her not guilty.
+It is tempting to see the outcome of this trial as a referendum on corporate greed or misbehavior. Many do. As Jason Calacanis wrote on Twitter after the verdict, "Reminder to Founders: Never lie, never bend the truth, always be honest ... and oh yeah, don't be a sociopath with delusions of grandeur." As a CNN story put it, "The outcome of her case could serve as a cautionary tale for others in the Silicon Valley."
+I'm not so sure there's any larger message in the Theranos saga. A brief history of prosecutions of suspected white-collar criminals -- or the failure to prosecute them -- shows that what happens in one case doesn't mean that much for other cases. Where juries, or even would-be prosecutors, draw the line between the Newtons and the P.T. Barnums, the visionaries and the fraudsters, the overly optimistic and the outright liars strikes me as haphazard, dependent on each set of circumstances, as well as on the ineffable mood of the world at large.
+A jury's verdict is black-and-white, but the real story is rarely so simple. We think of visionaries and fraudsters as polar opposites. In reality, just like Newton, many of today's great entrepreneurs have some characteristics of both. "Scientists who fall deeply in love with their hypothesis are proportionately unwilling to take no as an experimental answer," the scientist Peter Medawar said, according to the book "Free Radicals." Today, you could swap out the word "scientists" for "entrepreneurs." It's a very American question about the price of success: What degree of dishonesty is acceptable, especially if the dishonesty is the result of a certain amount of self-delusion?
+As a society, we're willing to tolerate this -- to a point. Whether it's technology companies making promises about products that don't quite exist in their promised form to seduce customers or investors, or Elon Musk touting Tesla's "full self-driving" cars that do not actually drive themselves, the line between the visionary and the fraudster can be less a bright slash than it is a blur of dots. If Ms. Holmes's team had had a breakthrough right before Theranos's technology was rolled out in Walgreens across the country and her devices worked, would anyone have cared about the initial set of lies?
+Where we draw the line can seem random, but there are a few constants. One is that we bring the full force of the law against the person who gets caught in the middle, awkwardly trying to straddle vision and reality. Those who are able to keep raising money get to keep trying, and sometimes, they go down in history as, well, visionaries.
+Those who run out of money also run out of luck. Enron got caught in the aftermath of the dot-com bust, when skepticism was back in style. If Enron existed today, when capital is nearly free, few questions asked, the company might have been able to continue raising the billions it needed to paper over the holes in its finances. Enron's broadband business could have become Netflix. If years later someone had revealed all of the financial shenanigans Enron used to keep its stock price up, would anyone have cared about the deception it had taken to get there?
+What we're willing to tolerate also comes down to who gets hurt. Those who fund the vision or fraud -- the investors -- aren't always sympathetic characters, at least not in the eyes of the law.
+Take WeWork's Adam Neumann. "The lines between vision, bullsh*t and fraud are pretty narrow," the professor and author Scott Galloway wrote on his website No Mercy/No Malice in the fall of 2019, when WeWork postponed its initial public offering of stock. "Something is wrong," he wrote. "Something stinks. Something ... Just. Doesn't. Add. Up." There were questions about how WeWork was classifying expenses and about the myriad ways in which Mr. Neumann used the company to enrich himself. He reportedly cashed out some $ 700 million through sales of stock and debt. (Ms. Holmes never cashed out.) But while Mr. Neumann was forced to leave the company, he never faced any allegation of criminal wrongdoing. After all, if investors suffered in part because of their own greed, unwilling to ask questions because they didn't really want to know the answers, well, whose fault was that?
+Then there's Andy Fastow, Enron's former chief financial officer. When he gives speeches today, he holds up the Excellence Award he received from CFO magazine in 1999 -- and his prison ID card. He likes to say that he went to prison for the same actions for which he was once rewarded. It's certainly true that investors were willing to look the other way and laud the complexity they were too lazy to understand, as long as they got the bottom line results they were promised -- and as long as the stock was going in the right direction.
+Mr. Fastow, unlike so many others, paid for his sins; he was sentenced to six years in prison. Part of the reason he pleaded guilty is that in addition to misleading investors, he stole from the company. And he was a pawn in the larger case against Enron's top executives. But his sentence has no bearing on whether or not the next Andy Fastow, the next financial wizard who uses complex structures to present a picture to investors that is at odds with economic reality, will be prosecuted.
+The size of the conflagration, and the era in which it occurs, also seems to affect our willingness even to bring charges, much less convict. Enron shocked us. A naïve nation that by the late 1990s had become dependent on company stock as a way to fund our retirements couldn't believe a major company could simply go poof, leaving executives with millions and employees and investors with nothing. Enron was supposed to set a precedent about what we'd tolerate when it came to corporate misbehavior.
+But if Enron had set any kind of precedent, would the financial crisis have happened? Enron's former chief executives, Jeffrey Skilling and Kenneth Lay, were convicted in the spring of 2006, just as the fraud in the mortgage business that led to the financial crisis was reaching its apex. Part of the self-delusion that can set in for executives is that when everyone else is doing it, the behavior doesn't seem wrong. That's especially true when it's being so richly rewarded.
+Not only did Enron not prevent the financial crisis, but also in that disaster, which did far more widespread damage than Enron ever did, prosecutors brought charges against only minor players, not major executives. Indeed, while the Justice Department took a tough approach to Enron's wrongdoing, after the financial crisis, department officials were hands-off with the financial services industry. Part of the thinking was that no one wanted to weaken the banks the government had just bailed out in 2008 by bringing criminal charges. The mood in the halls of power then was very different from what it was after Enron's collapse.
+While the financial crisis was less about vision gone wrong than it was about mass delusion and greed, it also sheds light on another factor that influences decisions to prosecute. When executives are separated by layers of lawyers and underlings from the actual wrongdoing, they can be kept at a remove from the gritty details of any actual fraud.
+Angelo Mozilo, for example, the former chief executive of Countrywide, faced intense criticism for spreading bad mortgages across America. That's true. That's what Countrywide did. But he was not charged with the sale of mortgages of mass destruction because he wasn't the one actually doing it. The dirty work was done by junior employees. Even at Enron, some of the most egregious behavior never resulted in criminal charges because lawyers and accountants signed off on it, thus insulating executives.
+We're also willing to throw the book at those who violate society's unwritten laws, even when they can't be charged with the crime for which we think they're guilty. Take Martin Shkreli. Some called him the most hated man in America when he raised the price of the drug Daraprim, used mainly to treat a potentially fatal parasitic infection called toxoplasmosis, by 5,000 percent. That may be a moral crime, but it isn't technically illegal. Yet he went to prison anyway -- for defrauding investors in an entirely different incident, a case that might never have been brought had it not been for his actions with Daraprim.
+Did his prosecution have any larger meaning? Did it even mean that we won't tolerate people ripping off the system using lifesaving drugs? Well, no, it didn't mean that at all. Big Pharma has continued to raise prices on its drugs aggressively, and because we spend so much more on drugs other than Daraprim, their actions have far more deleterious consequences for America's out-of-control spending than Mr. Shkreli's did.
+Which brings us back to Elizabeth Holmes. For those who believed she was guilty of a great crime, it's a disappointing verdict. The jury essentially said she was both visionary and fraudster. She was convicted of very specific lies but not of running a criminal enterprise writ large. In acquitting her of lying to patients and doctors, the jury seemed to believe that she had a right to rely on reassurances from some underlings that her technology worked. On the charges on which the jury deadlocked, at least one juror believed that in those instances, she didn't lie to investors, either.
+It was precisely the opposite of the verdict I'd expected -- and frankly wanted. I thought she'd be convicted on the charges of lying to patients but found not guilty of the charges that she defrauded investors, who in my view should have done the homework that others who refused to give Theranos money did. Yes, even I wanted to send a larger message to entrepreneurs: that it wasn't OK to lie to patients, who shouldn't have to do any homework to make sure the provider of their blood tests isn't lying to them.
+But I didn't get what I wanted, because the jury looked at the specific charges and the specific evidence and came to a different conclusion. The judge's instructions to the jury did not say, "Please send a message to the world." And there was no larger message, no attempt to punish her beyond what the jury thought the technical details of the law permitted.
+Isn't that precisely as the law should work? If you were charged with a crime, you wouldn't want the jury to use your case to send a message to anyone, aside from the verdict it delivered to you.
+Bethany McLean (@bethanymac12) is a contributing editor at Vanity Fair and a co-author of "The Smartest Guys in the Room."
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY BRITTANY HOSEA-SMALL/REUTERS)
+
+Subject: Economic crisis; Trials; Fraud; Wire fraud; Convictions; Blood tests; Investors
+
+Business indexing term: Subject: Economic crisis
+
+Location: Silicon Valley-California; United States--US
+
+People: Holmes, Elizabeth
+
+Company / organization: Name: Theranos Inc; NAICS: 339113
+
+URL: https://www.nytimes.com/2022/01/04/opinion/theranos-verdict.html
+
+Title: Theranos Will Teach Silicon Valley Nothing: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.19
+
+Publication year: 2022
+
+Publication date: Jan 5, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Commentary, Opinions
+
+ProQuest document ID: 2616518067
+
+Document URL: https://www.proquest.com/newspapers/theranos-will-teach-silicon-valley-nothing-op-ed/docview/2616518067/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jan 5, 2022
+
+Last updated: 2022-01-06
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

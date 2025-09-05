@@ -1,0 +1,86 @@
+Document 321 of 566
+
+We Can Avert a Different Epidemic: [Op-Ed]: [Op-Ed]
+
+Author: Krellenstein, James; Osmundson, Joseph; Makofane, Keletso
+
+Publication info: Krellenstein, James; Osmundson, Joseph; Makofane, Keletso. 
+
+https://www.proquest.com/newspapers/we-can-avert-different-epidemic-op-ed/docview/2672553096/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=We+Can+Avert+a+Different+Epidemic%3A+%5BOp-Ed%5D&amp;rft.au=Krellenstein%2C+James%3BOsmundson%2C+Joseph%3BMakofane%2C+Keletso&amp;rft.aulast=Krellenstein&amp;rft.aufirst=James&amp;rft.date=2022-06-03&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.22&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=03624331&amp;rft_id=info:doi/
+
+Full text: When Covid-19 cases were exploding across the United States in early 2020, public health officials remained in the dark, in large part because of major errors in developing a test for the illness.
+The Centers for Disease Control and Prevention was the manufacturer of the only Covid-19 test then available in the United States, and there were blunders in the design and manufacture of the test that the agency mailed out in February 2020. This, coupled with the Food and Drug Administration's initial refusal to allow qualified laboratories to develop or use their own Covid-19 tests, meant that testing was all but impossible to access in the United States in the early weeks of the pandemic.
+As the world confronts monkeypox, we must not make similar mistakes in disease surveillance and public communication. While monkeypox and the coronavirus are not the same, there are lessons to be learned from Covid-19 and prior pandemics: We cannot stop transmission of a disease we can't see, and we can't help people if we don't let them know what they're up against.
+As public health experts and advocates, we are concerned about how far monkeypox has spread around the world. The lack of easy testing and surveillance makes the size of the outbreak difficult to estimate. As queer men from the United States and South Africa, we are also concerned for our communities. Much, though not all, of the spread outside the regions where monkeypox is more common has been among men who have sex with men.
+Monkeypox is a type of orthopoxvirus that usually spreads from animals to humans. This new outbreak marks the first time extensive human-to-human spread has occurred outside the places where the virus has been known to spread, like Central and Western Africa. So far, nearly 400 cases of monkeypox have been confirmed in more than 20 countries, including around 12 cases in the United States.
+Testing for monkeypox in the United States remains cumbersome. Currently, if an individual is suspected to have monkeypox, the person's physician must contact a state or local public health department to test for the disease. Then a C.D.C. laboratory partner runs a generic orthopoxvirus test on the sample. If that test is positive, the sample is sent to the C.D.C. headquarters in Atlanta so a monkeypox-specific test can be performed to confirm.
+There are 66 public health labs that can test for orthopoxvirus. The C.D.C. estimates the partner labs have the capacity to do 6,500 orthopoxvirus tests per week, which the C.D.C. says is more than current demand. From May 17 to 24, the labs were sent fewer than 60 samples for orthopoxvirus testing. Given that some of the cases detected so far appear to not be linked to travel, we remain concerned about efforts to identify and test ongoing community spread.
+We worry that the centralization of testing wastes precious time and would limit capacity if more testing is needed. Monkeypox tests, like Covid-19 tests, are based on P.C.R. technology that is available in hospitals and clinical labs across the country. Many labs at major hospitals, commercial sites and city and state health departments have capacity to develop, manufacture and run tests for monkeypox rapidly if they are given guidance and samples to use to validate their tests.
+Even if widespread testing is ultimately not needed, the cost of being prepared is low, and the risk of being caught off guard is high. Increasing the nation's monkeypox testing capacity will allow health leaders to intervene and slow the possible spread of the outbreak.
+The C.D.C. should widely release the details of its monkeypox testing protocols so that more labs around the country can develop and run their own tests for monkeypox. The F.D.A. should also issue guidance to all labs with credentials to perform complex laboratory tests and clarify what regulatory authority, if any, it will exercise over monkeypox tests developed elsewhere.
+The C.D.C. says that any state health department that confirms a patient has orthopoxvirus should behave as if the person has monkeypox and immediately begin containment efforts like contact tracing. The agency says it is monitoring its testing kit availability should it need to be expanded.
+Thankfully, there are monkeypox vaccines and an F.D.A.-approved antiviral at the ready in the Strategic National Stockpile. Prioritizing people at immediate monkeypox risk, such as those with a recent close contact, is essential. Vaccinating those who have been exposed, also called ring vaccination, can prevent further spread. Proactive vaccination of those most at risk should also be considered. These efforts and the effective deployment of antivirals require a rapid diagnosis of cases, which is why testing must be a priority, alongside vaccination.
+Even if cases among men who have sex with men continue, we will certainly not be the only ones falling ill. Infectious disease epidemics are shaped by the pattern and frequency of contact among people, the pathogen and population immunity and susceptibility. As we learned from Covid-19, epidemics are unpredictable, and human health is globally connected: Variants and viruses that occur in one country can easily cross borders into another.
+Our own community of queer people can increase awareness of a novel disease that may present like many other common infections. In the past, we have often been able to lead our physicians and communities by sharing knowledge about our health and ways to intervene with stigma-free care. When bacterial meningitis outbreaks began spreading among gay communities, health officials provided vaccines at nightlife spots and places where men meet for sex. As summer and pride festivities near, we need similar approaches to help keep one another safe.
+Public health officials must develop and carry out a testing and vaccination strategy focusing on all communities that are likely to be affected. Testing and community education focused only in major cities, for example, could increase health disparities along racial, class and geographical lines. We cannot let monkeypox become a disease of those disconnected from health care access.
+As experts provide preventive care to those at higher risk, researchers must also initiate studies to answer essential questions about monkeypox transmission. For example, is the virus in saliva and semen, or is it just on skin lesions? The lack of accurate scientific information is now a global problem, and it's one that could have been addressed much earlier. The first human case was reported in 1970, and human-to-human transmission has been reported in recent years. This is yet another example of the importance of taking neglected diseases seriously in the scientific community even when they don't appear to be a threat to white people living in the Global North.
+People who expect to be in close contact with others should monitor for skin lesions or symptoms that are consistent with this virus or many other sexually and skin-contact transmitted diseases like syphilis and herpes. If monkeypox is being transmitted in part via similar social networks as H.I.V., then H.I.V. and sexually transmitted infection experts will be key stakeholders in preventing a public health emergency. These clinicians and professionals have spent decades building relationships with the queer community, and the trust they have developed is critical for a successful response to an emergent threat.
+We are not currently in a public health emergency because of monkeypox, and monkeypox is not a gay disease. By taking this moment seriously and by acting with care and immediacy but without stigma, the United States may well avert an emergency entirely and ensure that we won't be dealing with yet another pandemic this summer and fall.
+James Krellenstein is a co-founder and a managing director of PrEP4All, an advocacy group dedicated to increasing access to H.I.V. and Covid-19 prevention technology. Joseph Osmundson is a molecular microbiologist at New York University and the author of the forthcoming book "Virology." Keletso Makofane is a social network epidemiologist at FXB Center for Health and Human Rights at Harvard University and a member of the governing council of the International AIDS Society.
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY DADO RUVIC/REUTERS)
+
+Subject: Coronaviruses; Pandemics; Social networks; Epidemics; Mpox; Laboratories
+
+Business indexing term: Subject: Social networks Laboratories
+
+Location: United States--US; New York
+
+URL: https://www.nytimes.com/2022/05/29/opinion/monkeypox-covid-and-hiv.html
+
+Title: We Can Avert a Different Epidemic:   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.22
+
+Publication year: 2022
+
+Publication date: Jun 3, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2672553096
+
+Document URL: https://www.proquest.com/newspapers/we-can-avert-different-epidemic/docview/2672553096/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Jun 3, 2022
+
+Last updated: 2024-12-13
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

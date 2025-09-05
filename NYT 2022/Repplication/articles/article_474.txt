@@ -1,0 +1,86 @@
+Document 474 of 566
+
+The Supreme Court Has Crossed the Rubicon: [Op-Ed]: [Op-Ed]
+
+Author: Greenhouse, Linda
+
+Publication info: Greenhouse, Linda. 
+
+https://www.proquest.com/newspapers/supreme-court-has-crossed-rubicon-op-ed/docview/2627036438/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Supreme+Court+Has+Crossed+the+Rubicon%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Greenhouse%2C+Linda&amp;rft.aulast=Greenhouse&amp;rft.aufirst=Linda&amp;rft.date=2022-02-10&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=A.25&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: You know the Rubicon has been crossed when the Supreme Court issues a conservative voting rights order so at odds with settled precedent and without any sense of the moment that Chief Justice John Roberts feels constrained to dissent.
+This is the same John Roberts who in 1982, as a young lawyer in the administration of President Ronald Reagan, fought a crucial amendment to the Voting Rights Act of 1965; whose majority opinion in 2013 gutted one-half of the Voting Rights Act and who joined an ahistoric opinion last summer that took aim at the other half; and who famously complained in dissent from a 2006 decision in favor of Latino voters in South Texas that "it is a sordid business, this divvying us up by race."
+Yes, that Chief Justice Roberts. What the 5-to-4 majority did was that far out of line.
+The unsigned order that drew the chief justice's dissent Monday night blocked the decision by a special three-judge Federal District Court ordering the Alabama Legislature to draw a second congressional district in which Black residents constitute a majority. Alabama's population is 27 percent Black. The state has seven congressional districts. The lower court held that by packing some Black voters into one district and spreading others out over three other districts, the state diluted the Black vote in violation of the Voting Rights Act.
+The Supreme Court will hear Alabama's appeal of the district court order in its next term, so the stay it granted will mean that the 2022 elections will take place with district lines that the lower court unanimously, with two of the three judges appointed by President Donald Trump, found to be illegal.
+Chief Justice Roberts objected that the ordinary standards under which the Supreme Court grants a stay of a lower court opinion had not been met. "The district court properly applied existing law in an extensive opinion with no apparent errors for our correction," he wrote. Justice Elena Kagan, joined by Justices Stephen Breyer and Sonia Sotomayor, also dissented in a more extensive opinion that accused the majority of using the court's emergency "shadow docket" not only to intervene improperly on behalf of the state but also to change voting rights law in the process.
+This is no mere squabble over procedure. What happened Monday night was a raw power play by a runaway majority that seems to recognize no stopping point. It bears emphasizing that the majority's agenda of cutting back on the scope of the Voting Rights Act is Chief Justice Roberts's agenda too. He made that abundantly clear in the past and suggested it in a kind of code on Monday with his bland observation that the court's Voting Rights Act precedents "have engendered considerable disagreement and uncertainty regarding the nature and contours of a vote dilution claim." But in his view, that was an argument to be conducted in the next Supreme Court term while permitting the district court's decision to take effect now.
+While the majority as a whole said nothing, Justice Brett Kavanaugh took it upon himself to offer a kind of defense. Only Justice Samuel Alito joined him. Perhaps the others -- Justices Clarence Thomas, Neil Gorsuch and Amy Coney Barrett -- chose not to sign onto his rude reference to Justice Kagan's "catchy but worn-out rhetoric about the 'shadow docket.' " Or perhaps his "To reiterate: The court's stay order is not a decision on the merits" rang a little hollow when, as Justice Kagan pointed out, "the district court here did everything right under the law existing today" and "staying its decision forces Black Alabamians to suffer what under that law is clear vote dilution."
+In other words, when it comes to the 2022 elections, for Black voters in Alabama the Supreme Court's procedural intervention is the equivalent of a ruling on the merits.
+Or maybe the others couldn't indulge in the hypocrisy of Justice Kavanaugh's description of the standards for granting a stay. The party asking for a stay, he wrote, "ordinarily must show (i) a reasonable probability that this court would eventually grant review and a fair prospect that the court would reverse, and (ii) that the applicant would likely suffer irreparable harm absent the stay."
+But wait a minute. Weren't those conditions clearly met back in September when abortion providers in Texas came to the court seeking a stay of the Texas vigilante law, S.B. 8, which was about to go into effect? That law, outlawing abortion after six weeks of pregnancy and authorizing anyone anywhere in the country to sue a Texas abortion provider for damages, was flagrantly unconstitutional, and the law was about to destroy the state's abortion infrastructure. But did Justice Kavanaugh or any of the others in Monday's majority vote to grant the requested stay? They did not. Chief Justice Roberts did.
+It's impossible not to conclude that what we see at work is not some neutral principle guiding the Supreme Court's intervention but simply whether a majority likes or doesn't like what a lower court has done. In his opinion, Justice Kavanaugh sought to avoid that conclusion by arguing that when it comes to election cases, the Supreme Court will more readily grant a stay to counteract "late judicial tinkering with election laws." But there was no late "tinkering" here. The legislature approved the disputed plan in November, after six days of consideration, and the governor signed it. The district court conducted a seven-day trial in early January and on Jan. 24 issued its 225-page opinion. The election is months away -- plenty of time for the legislature to comply with the decision.
+Disturbing as this development is, it is even more alarming in context. Last July, in a case from Arizona, the court took a very narrow view of the Voting Rights Act as a weapon against vote denial measures, policies that have a discriminatory effect on nonwhite voters' access to the polls. That case, Brnovich v. Democratic National Committee, was brought under the act's Section 2, which prohibits voting procedures that give members of racial minorities "less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice." Justice Alito's opinion for a 6-to-3 majority set a high bar for showing that any disputed measure is more than just an ordinary burden that comes with turning out to vote.
+It was an unusual case, in that Section 2 has much more typically been used as it was in Alabama, to challenge district lines as causing vote dilution. Obviously, at the heart of any Section 2 case is the question of how to evaluate the role of race. In its request for a stay, Alabama characterized the district court of having improperly "prioritized" race, as opposed to other districting factors, in ordering a second majority Black district. In response, the American Civil Liberties Union and the NAACP Legal Defense & Educational Fund, representing the Alabama plaintiffs, called this a mischaracterization of what the district court had actually done when it took account of the compactness and cohesion of the Black community and the history of white Alabama voters refusing to support Black candidates.
+Stripped to its core, Alabama is essentially arguing that a law enacted to protect the interests of Black citizens bars courts from considering race in evaluating a redistricting plan. Justice Kagan's dissenting opinion contained a warning that granting the stay amounted to a tacit acceptance of that startling proposition. She said the stay reflected "a hastily made and wholly unexplained prejudgment" that the court was "ready to change the law."
+The battle over what Section 2 means has been building for years, largely under the radar, and now it is front and center. The current Supreme Court term is all about abortion and guns. The next one will be all about race. Along with the Alabama case, Merrill v. Milligan, the Harvard and University of North Carolina admissions cases are also on the docket -- to be heard by a Supreme Court that, presumably, for the first time in history, will have two Black justices, and all in the shadow of the midterm elections. The fire next time.
+Linda Greenhouse, the winner of a 1998 Pulitzer Prize, reported on the Supreme Court for The Times from 1978 to 2008. She is the author of "Justice on the Brink: The Death of Ruth Bader Ginsburg, the Rise of Amy Coney Barrett, and Twelve Months That Transformed the Supreme Court."
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips . And here's our email: letters@nytimes.com .
+Follow The New York Times Opinion section on Facebook , Twitter (@NYTopinion) and Instagram .
+(PHOTOGRAPH BY Joshua Lott/Agence France-Presse -- Getty Images FOR THE NEW YORK TIMES)
+
+Subject: Voting Rights Act; Supreme Court decisions; Voting rights
+
+Location: United States--US
+
+People: Roberts, John G Jr
+
+Company / organization: Name: Supreme Court-US; NAICS: 922110
+
+URL: https://www.nytimes.com/2022/02/09/opinion/supreme-court-voting-rights.html
+
+Title: The Supreme Court Has Crossed the Rubicon: [Op-Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: A.25
+
+Publication year: 2022
+
+Publication date: Feb 10, 2022
+
+column: Guest Essay
+
+Section: A
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinions, Commentary
+
+ProQuest document ID: 2627036438
+
+Document URL: https://www.proquest.com/newspapers/supreme-court-has-crossed-rubicon-op-ed/docview/2627036438/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Feb 10, 2022
+
+Last updated: 2022-02-11
+
+Database: Global Newsstream Collection
+
+____________________________________________________________

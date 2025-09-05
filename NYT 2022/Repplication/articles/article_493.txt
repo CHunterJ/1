@@ -1,0 +1,99 @@
+Document 493 of 566
+
+Meta Is Off to a Very, Very Rough Start: [Op-Ed]: [Op-Ed]
+
+Author: Swisher, Kara
+
+Publication info: Swisher, Kara. 
+
+https://www.proquest.com/newspapers/meta-is-off-very-rough-start-op-ed/docview/2625665427/se-2?accountid=14026
+
+Abstract: None available.
+
+Links: https://resolver.ebscohost.com/openurl?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Anytimes&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Meta+Is+Off+to+a+Very%2C+Very+Rough+Start%3A+%5BOp-Ed%5D%3A+%5BOp-Ed%5D&amp;rft.au=Swisher%2C+Kara&amp;rft.aulast=Swisher&amp;rft.aufirst=Kara&amp;rft.date=2022-02-06&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=SR.9&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=New+York+Times&amp;rft.issn=&amp;rft_id=info:doi/
+
+Full text: At some point, the jig is up for almost every highflying tech company (consider that Cisco was, for a time in 2000, the world's most valuable company). That's usually because executives put on blinders to one constant rule of innovation I've observed: The young devour the old.
+So, are the worrisome quarterly results posted Wednesday by the outfit formerly known as Facebook an early sign of that? That seemed to be Wall Street's conclusion, which until now has showered the social networking giant with unquestioning love, but nonetheless shaved more than $ 250 billion off its market value, or 26 percent, the largest one-day dollar drop for a U.S. company in history.
+That's quite the indictment, since the money crowd has stuck beside the company despite a roiling series of controversies in the 18 years since its founding. Privacy violations, foreign interference, harmful impacts on teenage girls, data breaches, voluminous disinformation and misinformation, and the hosting of citizens charged with seditious conspiracy have made the company into the singular villain of this digital age. It has even supplanted the ire that was once aimed at Microsoft (ironically, seen today as the "good" tech company).
+But until now, none of these myriad sins have seemed to matter to investors, who have cheered on Facebook's digital advertising dominance that has yielded astonishing profits.
+It posted $ 10.3 billion in profits in the fourth quarter, an 8 percent dip, despite a 20 percent sales gain to $ 33.7 billion. But those profits were a disappointment, dragged down in part by $ 10 billion in 2021 spending on its Reality Labs unit, which makes its virtual reality glasses and similar products. That's serious money to throw at something, but it looks to be just the tip of Meta's spear in the battle to dominate the still vaporous metaverse. Mark Zuckerberg has clearly decided to go all in on what he views as the battleground for the future.
+There are other troubling signs, including the meteoric rise of TikTok and the impact of Apple's ad tracking changes that have hurt Facebook's ability to hoover up users' personal data in service of targeted ads.
+While the Apple challenge and the metaverse spending are certainly troubling, what we might be seeing is the market's tiring of co-founder Zuckerberg at the helm, even as more exciting and energetic rivals come into play. Even Microsoft seems more relevant and vibrant, including its recent and very deft plan to snap up Activision, a move Meta wouldn't dare make due to regulatory scrutiny.
+So Facebook is forced to be creative on its own, not always its strongest suit given how it is known for ham-handedly shoplifting ideas from others.
+Indeed, Zuckerberg did not sound much like Caesar Augustus -- the techie's favored Roman emperor -- in his earnings call with investors: "Although our direction is clear, it seems that our path ahead is not quite perfectly defined." You'd imagine $ 10 billion would buy a better map.
+Thus, right on schedule, the company is trying to soften up Washington influencers for its next act, the metaverse. According to a report by Bloomberg, Meta is focused on think tanks and nonprofits, especially those that lean libertarian or free market, to presumably convince them that what happened back in web2 will not be an issue in web3, the supposed next phase of the internet.
+Narrator: It will be in issue.
+Meta gives funding to a lot of these organizations, of course, a kind of soft way to influence. It spent $ 20 million on lobbying alone last year -- more than five times the amount in 2012 -- which is more than triple Apple's spending and roughly double Alphabet's and Microsoft's. Amazon was the only tech company to surpass Meta, with about $ 20.5 million in lobbying spending.
+Given the increasing bipartisan furor with the company, it makes sense. As Neil Chilson of Stand Together, a nonprofit associated with Charles Koch, put it: "There's a lot of scrutiny on them, and they are trying to move into a new space and bring the temperature down at the same time."
+Ya think? In a "Sway" interview I did recently, former Disney C.E.O. and Chairman Bob Iger noted the dangers of the metaverse: "There's been enough said and criticized about toxic behavior in internet 2.0; Twitter, Facebook, you name it. Imagine what can happen when you have a much more compelling and immersive and, I'll call it, collective of people or avatars of people in that environment, and what kind of toxic behavior could happen."
+"Something Disney is going to have to consider as it talks about creating a metaverse for themselves is moderating and monitoring behavior," he said.
+So it appears Zuckerberg is right about one thing about Meta's direction: It's going to be a bumpy ride.
+4 Questions
+I caught up with Chris Krebs, who served as director of the Department of Homeland Security's Cybersecurity and Infrastructure Security Agency under President Donald Trump and now runs the Krebs Stamos Group. I've edited his answers.
+Are you surprised that the conspiracy theories around election fraud have gotten worse, despite all your efforts to debunk the information, which ultimately led to your being fired in a tweet ?
+Sadly, no, not really. That's unfortunately the game plan -- they flood the zone with garbage to overwhelm evidence-based reality. Not to necessarily prove any particular plot or conspiracy theory, but to confuse the masses so they don't know whom to trust, they just know that "something isn't right here." What really set the stage was the former president's supporters had been primed to expect a rigged election. After all, Trump had been telling them that's the only way he could lose. This agitation was made that much easier due to most voters only having a casual understanding of how elections work, exacerbated by some of the changes and confusion around voting during Covid. So, when you've been told to expect shenanigans, and you don't know how anything works, the things you don't understand look like conspiracy theories. Even though we were regularly debunking election-related conspiracy theories, the flood of lies pushed by elites and influencers amounted to a self-fulfilling prophecy that overwhelmed us.
+Then there's the ecosystem of grifters that boost these conspiracy theories for their own benefit, because ultimately disinformation is about power, money and influence. Until we hold them accountable for the harm they've done to democracy, they'll continue to do it. We have to place the blame squarely where it lies: The fact that the former president continues to push lies about the 2020 election, simply because he can't take the loss. That his own party won't stand up for the country is really one of the more shameful chapters in American political history.
+The recent New York Times story that as president, Trump tried to get Homeland Security to seize the voting machines feels ominous. Were you aware of this and what is your assessment of his aims?
+I wasn't aware of the scheme before I was fired in mid-November 2020, but I heard about it from a few reporters and government officials soon afterward in December. That it was even floated for consideration in the Oval Office is completely insane. It also says a lot that Trump's own cabinet officials and advisers rejected the concept out of hand as beyond their authorities and illegal. Based on who was reportedly pushing this garbage to the president -- namely Mike Flynn, Sidney Powell, Mike Lindell and Phil Waldron) -- maybe they thought they were going to actually find something despite all available evidence. The more likely outcome? There was nothing there to find and they would either misrepresent something or manufacture a story entirely. That's exactly what happened in Antrim County in Michigan in mid-December, where a group issued a report that was riddled with errors and misinterpretations that was then thoroughly debunked by experts in the field. Even if the plot had survived the inevitable legal action by the targeted states, it would have been the Department of Defense, Department of Homeland Security or some other agency analyzing any seized machines, and not the president's rogue group of advisers. There was no evidence then or now that suggests they'd find foreign manipulation of votes or vote counting -- because it didn't happen.
+What are your biggest worries about the next election and what is your confidence that it will be secure?
+I remain confident that the work we all did through the 2020 election led to a secure, free and fair election. I also have continued confidence in the vast majority of professional election officials across the country committed to secure and transparent elections. Congress has to continue investing in elections so that we can continue the march toward 100 percent voter-verifiable paper. In 2016, less than 80 percent of votes had a paper ballot associated with the vote, with the remainder of votes stored on digital media. That's hard to audit. In 2020, that number jumped to around 95 percent, according to a study by the Center for Election Innovation and Research. Entire states like Georgia and Pennsylvania shifted from paperless systems to paper ballot-based systems, leaving Louisiana as the only remaining state that's broadly paperless. To its credit, Louisiana has tried, but has run into various procurement snags. We also need to continue expanding postelection, precertification audits that are based on transparent standards and methodologies conducted by election audit professionals. One of my greatest concerns looking ahead to 2022 midterms and 2024 is not necessarily a foreign cyber threat; instead, it's a domestic insider threat posed by partisan election officials. This isn't just speculation. In Mesa County, Colo., the Republican county clerk is under grand jury investigation for allowing unauthorized access to voting systems. More concerning, there are "Stop the Steal" candidates running in secretary of state races in Arizona, Nevada, Georgia and Michigan and elsewhere that, if in office in 2024, would be in a position to affect how elections are run and even refuse to certify if their preferred candidate doesn't win.
+That's just not any American democracy that I recognize, and if you're anything like me, you're a single-issue voter: If you run on a stolen election platform, you're unfit for public office.
+You formed your firm Krebs Stamos Group with Alex Stamos, former Facebook chief security officer, and one of your first clients was SolarWinds, the famously hacked network software company. What do you do for your clients and what's the most important thing companies need to pay attention to?
+The set of companies in the sights of high-level cyber actors are no longer limited to the big banks, energy firms and defense contractors. Instead, the hundreds of technology firms that are critical supply chain partners for just about every aspect of our nation's economic engine are now targeted by foreign cyber actors. Companies must recognize that if you're shipping a product, you're shipping a target; if you're hosting a service, you are the target, and then adjust their approach to security accordingly.
+We work with clients to develop and implement risk management strategies informed by this dramatic shift in geopolitical and geo-economic concerns that shape our world today. What's happening in Eastern Europe is a perfect example. While we might not know for certain if Russia is going to attack Ukraine, Russia has plenty of offensive options, and they've proven time and again that they aren't afraid to use cyber capabilities that directly impact businesses across the globe. Then there's the Chinese government. As Federal Bureau of Investigation Director Chris Wray said this week, "Whatever makes an industry tick, they target." Using hacking, spying, covert acquisition and other techniques to steal intellectual property from advanced technology firms, they seek to gain a commercial advantage for Chinese firms. State actors exploiting our growing digital dependencies for intelligence, commercial, influence and military purposes is now the norm, rather than the exception, and every business needs a security strategy driven from the c-suite.
+Lovely & Loathsome
+Lovely: With TikTok full of some truly vile and dangerous challenges (the now-banned milk crate challenge, for one), perhaps we need to focus on the many inventive and fun ones. I am enamored of what's known as the Drop Down Challenge, in which people, well, drop down into a squat, typically synchronized. There was a skit on it on "Saturday Night Live" this past week, but the real thing is oddly satisfying and, mostly, persistently creative. Check out this one called the "nurse edition."
+Loathsome: Senator Ted Cruz, a Texas Republican, continues his reign as Twitter's most obtuse tweeter. Last month, after walking back his repeated statements acknowledging there was a "violent terrorist attack" on the Capitol last January, Cruz the next day accused President Biden of "trying to signal weakness and surrender" to Russia's Vladimir Putin in Ukraine. Mockery ensued, obviously, but that digital dopiness was somehow topped this week with his tweet advising people in his state to get ready for cold conditions, noting it's "better to be over prepared than underprepared for winter weather." That comes just a year after he decamped to Cancún, Mexico, amid a serious home heating fuel crisis in Texas, a debacle thoroughly chronicled on Twitter.
+
+Conclusion: You cuncan't make this stuff up!
+(PHOTOGRAPH BY The New York Times FOR THE NEW YORK TIMES)
+
+Subject: Presidents; Voting machines; False information; Conspiracy; National security; Lobbying; Social networks; Elections
+
+Business indexing term: Subject: Social networks
+
+Company / organization: Name: Department of Homeland Security; NAICS: 922120
+
+URL: https://www.nytimes.com/2022/02/03/opinion/facebook-meta-stock-crash.html
+
+Title: Meta Is Off to a Very, Very Rough Start: [Op- Ed ] :   [Op-Ed ]
+
+Publication title: New York Times, Late Edition (East Coast); New York, N.Y.
+
+Pages: SR.9
+
+Publication year: 2022
+
+Publication date: Feb 6, 2022
+
+column: Kara Swisher
+
+Section: SR
+
+Publisher: New York Times Company
+
+Place of publication: New York, N.Y.
+
+Country of publication: United States
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 03624331
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: Opinion s, Commentary
+
+ProQuest document ID: 2625665427
+
+Document URL: https://www.proquest.com/newspapers/meta-is-off-very-rough-start-op-ed/docview/2625665427/se-2?accountid=14026
+
+Copyright: Copyright New York Times Company Feb 6, 2022
+
+Last updated: 2022-11-03
+
+Database: Global Newsstream Collection
+
+____________________________________________________________
